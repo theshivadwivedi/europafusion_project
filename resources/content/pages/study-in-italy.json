@@ -1,0 +1,398 @@
+{
+  "slug": "study-in-italy",
+  "kind": "country",
+  "destination": "italy",
+  "title": "Study in Italy",
+  "nav_label": "Italy",
+  "meta_description": "Study at Italy’s distinguished universities, from the world’s oldest seat of learning in Bologna to the design and engineering vanguard of Milan, with…",
+  "sections": [
+    {
+      "type": "hero",
+      "eyebrow": "Study in Italy",
+      "title": "Where Eight Centuries of Scholarship Meet Your Ambition",
+      "highlight": "Your Ambition",
+      "lead": "Study at Italy’s distinguished universities, from the world’s oldest seat of learning in Bologna to the design and engineering vanguard of Milan, with EUROPA FUSION guiding every step.",
+      "ctas": [
+        {
+          "label": "Free Profile Evaluation",
+          "action": "evaluation"
+        },
+        {
+          "label": "Book Consultation",
+          "action": "counselling"
+        }
+      ]
+    },
+    {
+      "type": "stats",
+      "items": [
+        {
+          "value": "1088",
+          "label": "University of Bologna",
+          "sub": "Oldest continuously operating university"
+        },
+        {
+          "value": "300+",
+          "label": "English-taught degrees",
+          "sub": "Across top ranked Italian universities"
+        },
+        {
+          "value": "20",
+          "label": "Italian regions",
+          "sub": "Each home to renowned universities"
+        },
+        {
+          "value": "3 + 2",
+          "label": "Years to degree",
+          "sub": "Bachelor’s + Master’s under Bologna Process"
+        }
+      ]
+    },
+    {
+      "type": "cards",
+      "id": "why",
+      "style": "icon",
+      "columns": 3,
+      "eyebrow": "Why Italy",
+      "title": "An Education Rooted in History, Shaped for the Future",
+      "intro": "Italy is the birthplace of the university itself. Its oldest institutions have shaped law, medicine, science and the arts for a millennium, matched today by world-class modern research and low living costs.",
+      "items": [
+        {
+          "title": "Internationally recognised qualifications",
+          "desc": "Degrees are recognised across Europe and globally under the Bologna Process, supporting mobility for further study and careers.",
+          "icon": "globe-europe-africa"
+        },
+        {
+          "title": "Distinctive academic strengths",
+          "desc": "Italy is a global reference point for architecture, design, fashion, mechanical engineering, economics, physics and the humanities.",
+          "icon": "globe-europe-africa"
+        },
+        {
+          "title": "Exceptional value & regional grants",
+          "desc": "Tuition at public universities is calculated according to family income, with regional DSU scholarships offering full fee waivers and living grants.",
+          "icon": "piggy-bank"
+        },
+        {
+          "title": "A setting like no other",
+          "desc": "From the Renaissance cities of Florence, Bologna and Padua to the metropolitan energy of Milan and Rome, every campus offers a rich heritage.",
+          "icon": "bank"
+        }
+      ]
+    },
+    {
+      "type": "chronology",
+      "title": "Nine centuries of scholarship",
+      "intro": "Timeline of university foundation across Italy",
+      "scale": [
+        1000,
+        1200,
+        1400,
+        1600,
+        1800,
+        2000
+      ],
+      "items": [
+        {
+          "name": "University of Bologna",
+          "year": 1088
+        },
+        {
+          "name": "University of Padua",
+          "year": 1222
+        },
+        {
+          "name": "Sapienza University of Rome",
+          "year": 1303
+        },
+        {
+          "name": "University of Florence",
+          "year": 1321
+        },
+        {
+          "name": "University of Pisa",
+          "year": 1343
+        },
+        {
+          "name": "University of Turin",
+          "year": 1404
+        },
+        {
+          "name": "Politecnico di Milano",
+          "year": 1863
+        },
+        {
+          "name": "Ca' Foscari University of Venice",
+          "year": 1868
+        },
+        {
+          "name": "Bocconi University",
+          "year": 1902
+        }
+      ]
+    },
+    {
+      "type": "universities",
+      "id": "universities",
+      "eyebrow": "Featured universities",
+      "title": "Distinguished Institutions in Italy",
+      "intro": "The following institutions represent key destinations available to EUROPA FUSION students.",
+      "items": [
+        {
+          "name": "University of Bologna",
+          "city": "Bologna",
+          "type": "Founded 1088",
+          "desc": "Widely regarded as the oldest university in the world. Distinguished in law, humanities, engineering and the sciences."
+        },
+        {
+          "name": "University of Padua",
+          "city": "Padua",
+          "type": "Founded 1222",
+          "desc": "The historic institution where Galileo once held a chair. Renowned for medicine, physics, psychology and engineering."
+        },
+        {
+          "name": "Sapienza University of Rome",
+          "city": "Rome",
+          "type": "Founded 1303",
+          "desc": "One of Europe’s largest research universities, with an exceptionally broad range of disciplines and global ranking."
+        },
+        {
+          "name": "University of Pisa",
+          "city": "Pisa",
+          "type": "Founded 1343",
+          "desc": "A long tradition of excellence in computer science, engineering, mathematics, physics and natural sciences."
+        },
+        {
+          "name": "Politecnico di Milano",
+          "city": "Milan",
+          "type": "Founded 1863",
+          "desc": "Italy’s leading technical university, internationally ranked top 20 globally for engineering, architecture and design."
+        },
+        {
+          "name": "Ca’ Foscari University of Venice",
+          "city": "Venice",
+          "type": "Founded 1868",
+          "desc": "Established as a school of commerce; today strong in economics, international relations, languages and environmental sciences."
+        },
+        {
+          "name": "Bocconi University",
+          "city": "Milan",
+          "type": "Founded 1902",
+          "desc": "A premier European private institution of international standing in economics, finance, management and business law."
+        },
+        {
+          "name": "University of Turin",
+          "city": "Turin",
+          "type": "Founded 1404",
+          "desc": "A comprehensive research university with strong links to automotive industry, management and medicine in Piedmont."
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "id": "programmes",
+      "eyebrow": "Academic pathways",
+      "title": "Programmes and Qualifications in Italy",
+      "intro": "Italian higher education follows the Bologna model with Laurea, Laurea Magistrale, and direct single-cycle medical degrees.",
+      "columns": [
+        "Qualification",
+        "Duration",
+        "Credits (CFU)",
+        "Notes & Focus"
+      ],
+      "rows": [
+        [
+          "Laurea (Bachelor’s)",
+          "3 years",
+          "180 CFU",
+          "Entry on recognised 12-year secondary qualification; select English-taught programmes available."
+        ],
+        [
+          "Laurea Magistrale (Master’s)",
+          "2 years",
+          "120 CFU",
+          "The largest range of English-taught programmes; requires a relevant undergraduate Bachelor’s degree."
+        ],
+        [
+          "Single-cycle Magistrale",
+          "5–6 years",
+          "300–360 CFU",
+          "Medicine (IMAT exam), Dentistry, Pharmacy, Law and Architecture; direct integrated professional degrees."
+        ],
+        [
+          "Master Universitario (1st/2nd)",
+          "1–2 years",
+          "60–120 CFU",
+          "Professional career specialisation for graduates, frequently with industrial placements."
+        ],
+        [
+          "Dottorato di Ricerca (PhD)",
+          "3 years",
+          "—",
+          "Competitive research entry; most doctoral candidates receive fully funded fellowships."
+        ],
+        [
+          "ITS Academy",
+          "2 years",
+          "—",
+          "Higher vocational technical education linked directly to Italian manufacturing and design employers."
+        ]
+      ],
+      "chips_title": "Popular fields of study in Italy",
+      "chips": [
+        "Engineering & Automotive Technology",
+        "Architecture & Urban Design",
+        "Business, Economics & Finance",
+        "Medicine & Life Sciences (IMAT)",
+        "Fashion & Luxury Brand Management",
+        "Arts, Heritage & Humanities",
+        "Data Science & Artificial Intelligence",
+        "Political Science & International Relations"
+      ]
+    },
+    {
+      "type": "costs",
+      "id": "costs",
+      "eyebrow": "Fees & funding",
+      "title": "Understanding the Investment in Italy",
+      "intro": "A clear view of costs allows you to plan with confidence. Indicative annual ranges in euros:",
+      "chart_title": "Indicative annual investment (varies by university, city and programme)",
+      "scale_max": 25000,
+      "rows": [
+        {
+          "label": "Public university tuition (per year)",
+          "value": "≈ €1,000 - €4,000",
+          "min": 1000,
+          "max": 4000
+        },
+        {
+          "label": "Private university tuition (per year)",
+          "value": "€6,000 - €20,000",
+          "min": 6000,
+          "max": 20000
+        },
+        {
+          "label": "Living costs (per year)",
+          "value": "€8,400 - €14,400",
+          "min": 8400,
+          "max": 14400
+        }
+      ],
+      "cards_title": "Scholarships & funding",
+      "cards": [
+        {
+          "title": "Regional DSU Scholarships",
+          "desc": "Need- and merit-based regional awards covering 100% tuition, free university accommodation and meal passes."
+        },
+        {
+          "title": "Italian Government (MAECI)",
+          "desc": "Competitive grants offered to international students through Italy’s diplomatic and consular channels."
+        },
+        {
+          "title": "University Merit Awards",
+          "desc": "Fee waivers and merit bursaries awarded directly by individual Italian universities (e.g. Politecnico di Milano, Bologna)."
+        }
+      ]
+    },
+    {
+      "type": "steps",
+      "id": "journey",
+      "eyebrow": "Your admission journey",
+      "title": "From Enquiry to Enrolment",
+      "intro": "EUROPA FUSION offers a structured, transparent process so that each stage is handled with care and precision.",
+      "items": [
+        {
+          "title": "Profile evaluation",
+          "desc": "Academic record, career goals, budget, and preferred city are reviewed to define a realistic shortlist."
+        },
+        {
+          "title": "Programme & university selection",
+          "desc": "Courses are matched to your profile, with attention to language of instruction, entry tests and deadlines."
+        },
+        {
+          "title": "Documents & Universitaly pre-enrolment",
+          "desc": "Transcripts, degree certificates, English proof, CV, motivation letter and passport prepared and submitted on Universitaly."
+        },
+        {
+          "title": "Entrance assessment",
+          "desc": "Where required, preparation for tests such as TOLC, IMAT (medicine), GMAT or GRE."
+        },
+        {
+          "title": "Offer & credential recognition",
+          "desc": "Acceptance confirmed; qualifications verified via CIMEA Statements of Comparability/Verification or Declaration of Value (DoV)."
+        },
+        {
+          "title": "Student visa (Type D)",
+          "desc": "Consulate appointment booking, file review, accommodation and financial evidence according to official Italian requirements."
+        },
+        {
+          "title": "Arrival & settling in",
+          "desc": "Permesso di Soggiorno (residence permit) application, Codice Fiscale, bank setup and university matriculation."
+        }
+      ]
+    },
+    {
+      "type": "faq",
+      "id": "faq",
+      "eyebrow": "FAQ",
+      "title": "Frequently Asked Questions",
+      "intro": "Common questions about studying and settling in Italy.",
+      "items": [
+        {
+          "q": "Can I study in Italy entirely in English?",
+          "a": "Yes. Italian universities offer hundreds of English-taught programmes, particularly at Master’s level and in fields such as engineering, business, economics, design and medicine (via IMAT). The language of instruction should be verified for each course."
+        },
+        {
+          "q": "Do I need to speak Italian?",
+          "a": "It is not required for English-taught programmes, but basic Italian greatly enriches daily life and improves your prospects of finding part-time work and internships. Many universities provide free Italian language classes."
+        },
+        {
+          "q": "How much does it cost to study in Italy?",
+          "a": "Italy is regarded as one of Europe’s most affordable destinations. Public university tuition is generally modest (€1,000–€4,000/yr) and is calculated according to family income (ISEE-Parificato). Living costs commonly range between €700 and €1,200 per month."
+        },
+        {
+          "q": "When are the intakes and deadlines?",
+          "a": "The main intake begins in September or October, with a smaller intake in February or March at some universities. Application windows open early (between November and April), so preparing 9 to 12 months in advance is recommended."
+        },
+        {
+          "q": "Is an English-language test mandatory?",
+          "a": "Most English-taught programmes request evidence of proficiency, such as IELTS (normally 6.0–6.5) or TOEFL. A small number of universities accept a Medium of Instruction (MOI) certificate."
+        },
+        {
+          "q": "Are scholarships available to international students?",
+          "a": "Yes! Regional DSU scholarships (such as DSU Toscana, EDISU Piemonte, ER.GO, Disco Lazio) provide full tuition waivers plus free accommodation, meals and up to €6,000–€7,000/yr in cash stipends based on family income. Italian Government MAECI scholarships are also available."
+        },
+        {
+          "q": "Can I work while studying in Italy?",
+          "a": "Holders of an Italian student residence permit are permitted to work part-time up to 20 hours per week, up to a legal maximum of 1,040 hours per year."
+        },
+        {
+          "q": "Can I remain in Italy after graduating?",
+          "a": "Eligible Master’s and PhD graduates may apply for a 1-year Permesso di Soggiorno per Ricerca Lavoro (job-search permit) to find professional employment or register as a freelancer."
+        },
+        {
+          "q": "What documents will I need?",
+          "a": "Typically: passport, academic transcripts, degree certificate, English certificate, CV, motivation letter, CIMEA certificate or Declaration of Value (DoV), and proof of financial means."
+        },
+        {
+          "q": "How does EUROPA FUSION support my application?",
+          "a": "We assist with university selection, CIMEA recognition, Universitaly portal pre-enrolment, DSU scholarship application, Italian student visa file assembly, and housing guidance."
+        }
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Begin Your Italian Chapter",
+      "text": "Speak with a EUROPA FUSION counsellor for a personalised university shortlist and a clear roadmap to your offer letter.",
+      "ctas": [
+        {
+          "label": "Book Free Consultation",
+          "action": "counselling"
+        },
+        {
+          "label": "Free Profile Evaluation",
+          "action": "evaluation"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,176 @@
+{
+  "slug": "germany/medicine",
+  "kind": "pathway",
+  "destination": "germany",
+  "title": "Medicine in Germany",
+  "nav_label": "Medicine",
+  "meta_description": "Study Medicine in Germany: a European medical qualification and clear path to the Approbation, the German licence to practise medicine.",
+  "sections": [
+    {
+      "type": "hero",
+      "eyebrow": "EUROPA FUSION",
+      "title": "Medicine in Germany",
+      "lead": "The Pathway to the Approbation",
+      "chips": ["Admissions", "Studienkolleg", "Visa", "Settlement"]
+    },
+    {
+      "type": "intro",
+      "id": "invitation",
+      "eyebrow": "An invitation to study medicine in Germany",
+      "title": "Your Path to the White Coat Begins in Germany",
+      "paragraphs": [
+        "For more than two centuries, German universities have shaped the discipline of modern medicine. Today, the country remains among the most respected destinations in the world for aspiring physicians, combining academically demanding, clinically oriented training with a publicly funded system that keeps tuition fees at a minimum at most public universities.",
+        "For Indian students, the programme offers an uncommon proposition: a European medical qualification of international standing, taught in modern teaching hospitals and simulation centres, at a fraction of the cost associated with private medical education elsewhere. The route is rigorous, and the language requirement is exacting; yet, for the well-prepared candidate, it is a clear and well-regulated path to the <strong>Approbation</strong>, the German licence to practise medicine."
+      ]
+    },
+    {
+      "type": "stats",
+      "items": [
+        { "value": "6 yrs 3 mo", "label": "Standard duration of the programme", "sub": "Single integrated medical course" },
+        { "value": "4", "label": "Stages of study and examination", "sub": "Pre-clinical, Clinical, PJ & Approbation" },
+        { "value": "C1", "label": "German proficiency required", "sub": "Taught almost exclusively in German" },
+        { "value": "Lifelong", "label": "Validity of the Approbation", "sub": "Full German medical licence to practice" }
+      ]
+    },
+    {
+      "type": "table",
+      "id": "why",
+      "eyebrow": "Distinct advantages",
+      "title": "Why Germany?",
+      "intro": "Six considerations that distinguish German medical education.",
+      "columns": ["Consideration", "What it means for the student"],
+      "rows": [
+        ["Academic reputation", "German medical faculties are research-intensive and closely affiliated with university hospitals, giving students early exposure to evidence-based practice."],
+        ["Minimal tuition", "Most public universities charge no tuition fees; students pay only a modest semester contribution. A small number of federal states levy fees on non-EU students, so each institution should be verified."],
+        ["Clinical immersion", "Training combines lectures, small-group seminars, simulation-based learning and supervised patient contact, culminating in a full practical year."],
+        ["Moderate living costs", "Living expenses compare favourably with many other Western European countries, particularly outside the largest metropolitan areas."],
+        ["Lifelong licence", "Upon successful completion, the Approbation is granted and, in principle, does not require periodic renewal."],
+        ["Career horizons", "Germany’s healthcare system, together with the standing of its qualification across Europe, opens opportunities in clinical practice, research and specialist training."]
+      ]
+    },
+    {
+      "type": "table",
+      "id": "eligibility",
+      "eyebrow": "Admission standards",
+      "title": "Eligibility and Entry Requirements",
+      "intro": "Admission to Medicine is highly competitive, and places for international applicants are limited. The requirements below reflect general institutional expectations.",
+      "columns": ["Requirement", "Indicative standard"],
+      "rows": [
+        ["Academic record", "A strong Higher Secondary (Class XII) result in the science stream, with Mathematics, Physics, Chemistry, and Biology. Many applicants are expected to present results of approximately 90% or above."],
+        ["University-entrance qualification", "Indian Class XII is generally not deemed equivalent to the German Abitur. Candidates therefore normally complete a one-year Studienkolleg (M-Kurs) and pass the Feststellungsprüfung. Holders of qualifications such as the International Baccalaureate may qualify for direct entry."],
+        ["German proficiency", "Level C1 of the Common European Framework (for example TestDaF, DSH or an equivalent recognised certificate). Medicine is taught almost exclusively in German."],
+        ["Standardised aptitude test", "TestAS, together with any institution-specific entrance assessment (Aufnahmeprüfung) required for Studienkolleg admission."],
+        ["Authentication of documents", "An APS certificate (Academic Evaluation Centre, New Delhi) is required of Indian applicants before applying to German institutions."],
+        ["Financial and health cover", "Proof of financial resources through a blocked account and valid health insurance are prerequisites for the student visa."]
+      ]
+    },
+    {
+      "type": "timeline",
+      "id": "routes",
+      "eyebrow": "Timeline breakdown",
+      "title": "Duration of Study & Indicative Entry Routes",
+      "intro": "The standard course of study in Medicine extends over <strong>six years and three months</strong>. The total period lengthens depending on the candidate’s starting point: those who require additional German-language preparation and those who must complete the Studienkolleg should plan for a longer overall commitment.",
+      "items": [
+        { "label": "≈ 6.25 yrs", "title": "Route A: German-proficient, direct entry (C1 + Abitur Equivalent)", "desc": "Medicine 6 y 3 m" },
+        { "label": "≈ 7.25 yrs", "title": "Route B: German course before entry (1 yr German + Direct Entry)", "desc": "German (1y) → Medicine 6 y 3 m" },
+        { "label": "≈ 8.25 yrs", "title": "Route C: German + Studienkolleg (M-Kurs) + Medicine (Standard Indian 10+2 pathway)", "desc": "German (1y) → M-Kurs (1y) → Medicine 6 y 3 m" }
+      ]
+    },
+    {
+      "type": "notice",
+      "text": "<strong>Planning note:</strong> Because the admission pathway involves language examinations, certification, university deadlines and visa procedures, candidates are advised to begin preparation at least <strong>12 months</strong>, and ideally <strong>18 to 24 months</strong>, before their intended start date."
+    },
+    {
+      "type": "cards",
+      "id": "structure",
+      "style": "numbered",
+      "columns": 2,
+      "eyebrow": "Academic phases",
+      "title": "Structure of the Programme",
+      "intro": "Medical education in Germany is a single, integrated course that culminates in state examinations rather than a conventional degree award. It unfolds in four distinct stages.",
+      "items": [
+        { "badge": "I", "title": "Pre-clinical", "meta": "4 semesters (2 years)", "points": ["Anatomy, physiology, biochemistry", "First-aid course & nursing service (≈90 days)", "Ends: 1st State Examination (Physikum / M1)"] },
+        { "badge": "II", "title": "Clinical", "meta": "6 semesters (3 years)", "points": ["Internal medicine, surgery, neurology, sensory systems", "Block clinical placements & bedside teaching", "Ends: 2nd State Examination (M2)"] },
+        { "badge": "III", "title": "Practical Year", "meta": "48 weeks (PJ)", "points": ["16 weeks: Internal medicine", "16 weeks: Surgery", "16 weeks: Elective specialty of choice", "Ends: 3rd State Examination (M3)"] },
+        { "badge": "IV", "title": "Approbation", "meta": "Licence to practise", "points": ["Official licence to practice medicine in Germany", "Awarded after all three state exams passed", "Valid for life without periodic renewal"] }
+      ]
+    },
+    {
+      "type": "steps",
+      "id": "journey",
+      "eyebrow": "Comprehensive roadmap",
+      "title": "The Admission Journey, Step by Step",
+      "intro": "The pathway from first enquiry to the first lecture comprises twelve stages, grouped into three phases. EUROPA FUSION supports candidates at each point.",
+      "items": [
+        { "phase": "Phase one — Preparation", "title": "Profile review & university shortlist" },
+        { "phase": "Phase one — Preparation", "title": "Eligibility check" },
+        { "phase": "Phase one — Preparation", "title": "German language training to B2/C1" },
+        { "phase": "Phase one — Preparation", "title": "TestAS preparation & sitting" },
+        { "phase": "Phase two — Application", "title": "APS certificate application" },
+        { "phase": "Phase two — Application", "title": "Document preparation" },
+        { "phase": "Phase two — Application", "title": "Application submission" },
+        { "phase": "Phase two — Application", "title": "Aufnahmeprüfung invitation" },
+        { "phase": "Phase three — Arrival & entry", "title": "Entrance examination & M-Kurs offer" },
+        { "phase": "Phase three — Arrival & entry", "title": "Blocked account, visa & insurance" },
+        { "phase": "Phase three — Arrival & entry", "title": "M-Kurs Studienkolleg & Feststellungsprüfung" },
+        { "phase": "Phase three — Arrival & entry", "title": "Matriculation in Medicine" }
+      ]
+    },
+    {
+      "type": "table",
+      "id": "milestones",
+      "columns": ["Key milestone", "Guidance"],
+      "rows": [
+        ["German language", "Begin early and aim for a certified level of C1. Language progress is the single greatest determinant of a candidate’s timeline."],
+        ["TestAS", "A standardised test of academic aptitude; results are considered by many Studienkollegs and universities."],
+        ["APS certificate", "Mandatory authentication of educational credentials for Indian applicants. Processing times vary, so apply promptly."],
+        ["Applications", "Submit complete, accurately translated and certified documents before each institution’s deadline. Incomplete files are rarely considered."],
+        ["Blocked account", "A dedicated account demonstrating that the student can meet living costs for the first year. The required amount is set by German authorities and revised periodically."],
+        ["Student visa", "Applied for at the German diplomatic mission once admission, funds and health insurance are secured."],
+        ["Arrival support", "Registration, accommodation, bank account, health insurance and orientation, together with peer guidance from a buddy already studying in Germany."]
+      ]
+    },
+    {
+      "type": "table",
+      "id": "costs",
+      "eyebrow": "Financial transparency",
+      "title": "Costs and Funding",
+      "intro": "Indicative costs for medical aspirants in Germany.",
+      "columns": ["Expense", "Indicative position"],
+      "rows": [
+        ["Tuition fees", "Generally, none at public universities; certain federal states charge non-EU students. Private institutions charge fees."],
+        ["Semester contribution", "A modest administrative charge each semester, often including a regional public-transport ticket (commonly €150–€350)."],
+        ["Living costs", "Accommodation, food, transport and personal expenses; broadly in line with the blocked-account requirement set for the year."],
+        ["Health insurance", "Mandatory throughout the programme; student rates are substantially lower than standard adult rates."],
+        ["Studienkolleg and language", "Course fees vary by institution and provider."],
+        ["Part-time work", "International students may work a limited number of days each year, though the intensity of medical study means most should not rely on earnings."]
+      ]
+    },
+    {
+      "type": "faq",
+      "id": "faq",
+      "eyebrow": "Frequently asked questions",
+      "title": "Clear Answers for Medical Candidates",
+      "intro": "Everything you need to know about the Approbation, language C1, NEET requirements, and admissions.",
+      "items": [
+        { "q": "How long does it take to qualify as a doctor in Germany?", "a": "The standard programme lasts six years and three months. With additional German-language preparation and the Studienkolleg, the overall journey may extend to roughly eight years or more, depending on individual progress." },
+        { "q": "In what language is Medicine taught?", "a": "Almost exclusively in German. Candidates are generally expected to demonstrate level C1 proficiency before commencing the course." },
+        { "q": "Is NEET required for admission to German universities?", "a": "German universities do not require NEET for admission; selection is based on academic results, language proficiency, and the relevant entrance examinations. However, Indian regulations governing recognition of foreign medical qualifications, and eligibility to practise in India, are set by the National Medical Commission (NMC) and are subject to change. Candidates intending to return to India should verify the current rules before enrolling." },
+        { "q": "What are the minimum marks required?", "a": "Requirements differ by institution, but a strong science-stream result, commonly around 90% or above in Class XII, is typically expected given the competitiveness of Medicine." },
+        { "q": "What is the Studienkolleg and is it compulsory?", "a": "The Studienkolleg is a preparatory year that bridges the gap between the Indian school-leaving certificate and the German university-entrance qualification. For medical aspirants, the relevant stream is the M-Kurs, concluding with the Feststellungsprüfung. Most Indian applicants must complete it; holders of certain qualifications, such as the International Baccalaureate, may be exempt." },
+        { "q": "Is education really free?", "a": "Most public universities charge no tuition fees, but students must pay a semester contribution and bear living, insurance and visa-related costs. Some federal states charge tuition to non-EU students, so confirmation with the university is essential." },
+        { "q": "Can I work while studying?", "a": "International students may undertake limited part-time work under visa regulations. Given the demands of medical study, students should plan to be financially self-sufficient." },
+        { "q": "What is the Approbation?", "a": "The Approbation is the state licence to practise medicine in Germany, granted after all three state examinations are passed. It is generally valid for life." },
+        { "q": "When should I begin applying?", "a": "At least twelve months before the intended start; ideally eighteen to twenty-four months, to allow time for language preparation, APS, TestAS and deadlines." },
+        { "q": "Can EUROPA FUSION guarantee admission?", "a": "No ethical consultancy can. We provide professional guidance, document preparation and strategic planning to maximise the strength of your application." }
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Begin your medical career in Germany",
+      "text": "<strong>Speak with an EUROPA FUSION admissions counsellor</strong><br>Our specialist medical admissions desk guides candidates through language benchmarks, M-Kurs selection, TestAS coaching, and official document certifications.",
+      "ctas": [{ "label": "Call me back", "action": "counselling" }],
+      "note": "We call within 10 minutes, 8 am to 8 pm IST, Monday to Saturday."
+    }
+  ]
+}

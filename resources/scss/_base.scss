@@ -1,0 +1,119 @@
+// ---------------------------------------------------------------------------
+// Base: typography, sections, layout helpers
+// ---------------------------------------------------------------------------
+
+:root {
+  --ef-ink: #{$ink};
+  --ef-navy: #{$navy};
+  --ef-royal: #{$royal};
+  --ef-gold: #{$gold};
+  --ef-paper: #{$paper};
+  --ef-mist: #{$mist};
+  --ef-line: #{$line};
+  --ef-header-h: 76px;
+  scroll-padding-top: calc(var(--ef-header-h) + 1.5rem);
+}
+
+html { scroll-behavior: smooth; }
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+  *, *::before, *::after { animation-duration: .01ms !important; animation-iteration-count: 1 !important; transition-duration: .01ms !important; }
+}
+
+body {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility;
+  font-feature-settings: 'ss01';
+}
+
+h1, h2, h3, .display-title {
+  font-variation-settings: 'opsz' 96;
+  letter-spacing: -.018em;
+}
+h4, h5, h6 { font-family: $font-sans; font-weight: 700; letter-spacing: -.005em; }
+
+::selection { background: $gold-soft; color: $ink; }
+
+a { transition: color .15s ease; }
+img, svg { max-width: 100%; }
+
+.skip-link {
+  position: absolute; left: 1rem; top: -100px; z-index: 2000;
+  background: $ink; color: #fff; padding: .6rem 1rem; border-radius: .5rem;
+  &:focus { top: 1rem; color: #fff; }
+}
+
+:focus-visible { outline: 3px solid rgba($royal, .55); outline-offset: 2px; border-radius: 4px; }
+
+// Sections -------------------------------------------------------------------
+.section { padding-block: clamp(4rem, 8vw, 6.5rem); position: relative; }
+.section-sm { padding-block: clamp(3rem, 5vw, 4.25rem); }
+.section + .section:not([class*='bg-']) { padding-top: 0; }
+.bg-paper { background: $paper; }
+.bg-mist { background: $mist; }
+.bg-ink { background: $ink; color: rgba(#fff, .78); }
+.bg-navy { background: $navy; color: rgba(#fff, .8); }
+.bg-ink, .bg-navy {
+  h1, h2, h3, h4, h5 { color: #fff; }
+  .eyebrow { color: $gold; &::before { background: $gold; } }
+  .lead-text, p { color: rgba(#fff, .74); }
+}
+
+// Subtle EU-star texture used on dark panels
+.texture-stars {
+  background-image:
+    radial-gradient(circle at 1px 1px, rgba(#fff, .07) 1px, transparent 0);
+  background-size: 22px 22px;
+}
+
+// Headings ----------------------------------------------------------------
+.eyebrow {
+  display: inline-flex; align-items: center; gap: .6rem;
+  font-family: $font-sans; font-size: .75rem; font-weight: 800;
+  text-transform: uppercase; letter-spacing: .14em; color: $royal;
+  margin-bottom: .9rem;
+  &::before { content: ''; width: 1.6rem; height: 2px; background: $gold; border-radius: 2px; }
+  .text-center > &, &.is-centered { &::before { display: none; } }
+}
+
+.section-head {
+  max-width: 46rem; margin-bottom: clamp(2rem, 4vw, 3.25rem);
+  &.text-center { margin-inline: auto; }
+  h2 { font-size: clamp(1.85rem, 3.3vw, 2.7rem); margin-bottom: .9rem; }
+  .lead-text { margin-bottom: 0; }
+}
+
+.lead-text { font-size: clamp(1.02rem, 1.4vw, 1.14rem); line-height: 1.7; color: $text; }
+.text-ink { color: $ink !important; }
+.text-muted-ef { color: $muted !important; }
+.text-gold { color: $gold !important; }
+.text-royal { color: $royal !important; }
+.fw-800 { font-weight: 800 !important; }
+.font-display { font-family: $font-display !important; }
+.small-caps { font-size: .75rem; font-weight: 800; text-transform: uppercase; letter-spacing: .12em; }
+
+// Highlighted words in display headings: hand-drawn gold underline
+.hl {
+  position: relative; color: inherit; font-style: italic; font-weight: 500;
+  -webkit-box-decoration-break: clone; box-decoration-break: clone;
+  background-image: linear-gradient(transparent 72%, rgba($gold, .45) 72%, rgba($gold, .45) 92%, transparent 92%);
+  padding-inline: .06em;
+}
+.bg-ink .hl, .bg-navy .hl, .on-dark .hl { background-image: linear-gradient(transparent 74%, rgba($gold, .55) 74%, rgba($gold, .55) 90%, transparent 90%); }
+
+// Reveal-on-scroll (progressive: content is visible without JS)
+.js [data-reveal] { opacity: 0; transform: translateY(18px); transition: opacity .7s ease, transform .7s cubic-bezier(.2, .7, .2, 1); }
+.js [data-reveal].is-visible { opacity: 1; transform: none; }
+.js [data-reveal-delay='1'] { transition-delay: .08s; }
+.js [data-reveal-delay='2'] { transition-delay: .16s; }
+.js [data-reveal-delay='3'] { transition-delay: .24s; }
+
+// Grid gaps that avoid overflow in flex/grid children
+.grid-auto { display: grid; gap: 1.25rem; grid-template-columns: repeat(auto-fill, minmax(min(100%, 260px), 1fr)); }
+.min-w-0 { min-width: 0; }
+
+.divider-stars {
+  display: flex; align-items: center; justify-content: center; gap: .75rem; color: $gold; font-size: .7rem;
+  &::before, &::after { content: ''; height: 1px; width: min(28%, 220px); background: linear-gradient(90deg, transparent, $line, transparent); }
+}

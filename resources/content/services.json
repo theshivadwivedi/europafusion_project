@@ -1,0 +1,154 @@
+[
+  {
+    "slug": "counselling",
+    "group": "academic",
+    "title": "Counselling",
+    "tagline": "Clarity before commitment.",
+    "summary": "Personalized profile & path evaluation",
+    "body": [
+      "A university is chosen once and lived in for years. We begin with unhurried conversation about a student's strengths, interests, circumstances and means, because the soundest decisions are made with a clear view of all four.",
+      "We do not steer students towards fashionable destinations or familiar names. We help them reason towards a path that is honest, achievable and worthy of their effort."
+    ],
+    "quote": "The right question, asked early, saves years.",
+    "icon": "compass",
+    "sort_order": 1
+  },
+  {
+    "slug": "course-selection",
+    "group": "academic",
+    "title": "Course Selection",
+    "tagline": "The right discipline, rightly chosen.",
+    "summary": "Targeting top accredited programs",
+    "body": [
+      "A degree shapes how a person thinks long after the lectures end. We help students look beyond titles and rankings to the substance of a programme: its curriculum, its teaching, its standing in the field and it’s fit with their intellectual strengths.",
+      "Each recommendation is reasoned, comparative and candid, so that the course a student enters is one they can commit to fully."
+    ],
+    "quote": "Choose the subject. Then choose the institution.",
+    "icon": "journal-bookmark",
+    "sort_order": 2
+  },
+  {
+    "slug": "applications",
+    "group": "academic",
+    "title": "Applications",
+    "tagline": "Precision in every submission.",
+    "summary": "SOP, CV & university documentation",
+    "body": [
+      "An application is a student's first piece of scholarship. It should be accurate, coherent, and entirely their own.",
+      "We review each component with care, from academic records and personal statements to references and supporting documents, and refine them with the student, never for them. The result is a submission that speaks plainly, withstands scrutiny, and reflects genuine purpose."
+    ],
+    "quote": "Your voice, presented at its best.",
+    "icon": "file-earmark-text",
+    "sort_order": 3
+  },
+  {
+    "slug": "visa-guidance",
+    "group": "academic",
+    "title": "Visa Guidance",
+    "tagline": "Order and assurance.",
+    "summary": "Embassy checklist & file preparation",
+    "body": [
+      "Immigration requirements are exacting, and small oversights carry real consequences. We bring structure to the process: the documents required, the evidence to be assembled and the timelines to be observed.",
+      "Students are prepared for each stage with clarity, so they approach the visa process informed and composed rather than uncertain."
+    ],
+    "quote": "Every requirement understood. Every document in order.",
+    "icon": "passport",
+    "sort_order": 4
+  },
+  {
+    "slug": "test-preparation",
+    "group": "academic",
+    "title": "Test Preparation",
+    "tagline": "Readiness through discipline.",
+    "summary": "Language & entrance exam coaching",
+    "body": [
+      "Examination results are often the threshold to admission. We prepare students for them through structured instruction, regular practice and honest assessment of progress.",
+      "The aim is not to teach shortcuts but to build real command of language and reasoning, so that performance on the day reflects true ability."
+    ],
+    "quote": "Preparation is the quietest form of confidence.",
+    "icon": "pencil-square",
+    "sort_order": 5
+  },
+  {
+    "slug": "scholarships",
+    "group": "academic",
+    "title": "Scholarships",
+    "tagline": "Merit, recognised.",
+    "summary": "Merit recognition & financial grants",
+    "body": [
+      "Many awards go unclaimed because they are never discovered, or are poorly presented. We help students identify the scholarships, bursaries and grants for which they may rightfully compete.",
+      "We then assist in presenting their achievements, character and promise with clarity and economy, in the manner such committees value."
+    ],
+    "quote": "Excellence deserves to be seen.",
+    "icon": "award",
+    "sort_order": 6
+  },
+  {
+    "slug": "education-finance",
+    "group": "beyond",
+    "title": "Education Finance",
+    "tagline": "Ambition, responsibly funded.",
+    "summary": "Blocked accounts & loan advisory",
+    "body": [
+      "Studying abroad is a significant financial undertaking. We guide families through the available means of financing it, explaining the commitments involved and the documentation required.",
+      "Our concern is prudence: that a student begins their studies with a plan they understand and obligations they can manage."
+    ],
+    "quote": "Plan the cost before the journey.",
+    "icon": "bank",
+    "sort_order": 7
+  },
+  {
+    "slug": "travel-arrangements",
+    "group": "beyond",
+    "title": "Travel Arrangements",
+    "tagline": "A considered departure.",
+    "summary": "Flights, routing & transit guidance",
+    "body": [
+      "The journey to a new country should not distract from the purpose of making it. We help students arrange their travel with attention to timing, routes, and the practicalities of arrival.",
+      "It is a small service with a simple aim: that attention remains on what lies ahead."
+    ],
+    "quote": "Depart with nothing left to chance.",
+    "icon": "airplane",
+    "sort_order": 8
+  },
+  {
+    "slug": "accommodation",
+    "group": "beyond",
+    "title": "Accommodation",
+    "tagline": "A place to think and to rest.",
+    "summary": "Dormitory & student housing search",
+    "body": [
+      "Where a student lives shapes how well they study. We help secure lodging that is safe, suitable and well situated, whether within the university or beyond it, and arranged before arrival wherever possible.",
+      "A settled home makes for a steadier mind."
+    ],
+    "quote": "A settled home makes for a steadier mind.",
+    "icon": "house-door",
+    "sort_order": 9
+  },
+  {
+    "slug": "pre-departure-briefing",
+    "group": "beyond",
+    "title": "Pre-Departure Briefing",
+    "tagline": "Prepared in mind and manner.",
+    "summary": "Cultural orientation & packing prep",
+    "body": [
+      "Every country has its customs, expectations and unwritten rules. Before departure, we brief students on academic conduct, daily life, cultural norms and practical matters, so that the first weeks abroad are met with understanding rather than surprise."
+    ],
+    "quote": "To arrive informed is to arrive at ease.",
+    "icon": "luggage",
+    "sort_order": 10
+  },
+  {
+    "slug": "arrival-and-settlement",
+    "group": "beyond",
+    "title": "Arrival and Settlement",
+    "tagline": "Welcomed on arrival.",
+    "summary": "City registration & bank setup support",
+    "body": [
+      "The first days in a new country matter. We support students on landing and through the early period of settling in, so that unfamiliar surroundings become familiar quickly and studies can begin well."
+    ],
+    "quote": "The journey ends. The scholarship begins.",
+    "icon": "geo-alt",
+    "sort_order": 11
+  }
+]

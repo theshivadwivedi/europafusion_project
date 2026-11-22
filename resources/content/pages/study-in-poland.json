@@ -1,0 +1,412 @@
+{
+  "slug": "study-in-poland",
+  "kind": "country",
+  "destination": "poland",
+  "title": "Study in Poland",
+  "nav_label": "Poland",
+  "meta_description": "Earn an internationally recognised degree in Warsaw, Kraków, Wrocław and beyond, with EUROPA FUSION guiding every step of your journey.",
+  "sections": [
+    {
+      "type": "hero",
+      "eyebrow": "Study in Poland",
+      "title": "Where European Excellence Meets Exceptional Value",
+      "highlight": "Exceptional Value",
+      "lead": "Earn an internationally recognised degree in Warsaw, Kraków, Wrocław and beyond, with EUROPA FUSION guiding every step of your journey.",
+      "ctas": [
+        {
+          "label": "Free Profile Evaluation",
+          "action": "evaluation"
+        },
+        {
+          "label": "Book Consultation",
+          "action": "counselling"
+        }
+      ]
+    },
+    {
+      "type": "stats",
+      "items": [
+        {
+          "value": "€400–800",
+          "label": "Monthly living costs",
+          "sub": "Among the lowest in the European Union"
+        },
+        {
+          "value": "3 + 2",
+          "label": "Years of study",
+          "sub": "Bachelor’s + Master’s under Bologna"
+        },
+        {
+          "value": "100s",
+          "label": "English-taught programmes",
+          "sub": "Across leading Polish universities"
+        },
+        {
+          "value": "EU",
+          "label": "EU & Schengen Member",
+          "sub": "Convenient travel across 29 countries"
+        }
+      ]
+    },
+    {
+      "type": "cards",
+      "id": "why",
+      "style": "icon",
+      "columns": 3,
+      "eyebrow": "Why Poland",
+      "title": "A European Education of Exceptional Value",
+      "intro": "Poland has emerged as one of Europe’s most compelling study destinations, combining recognised European qualifications with remarkably accessible costs.",
+      "items": [
+        {
+          "title": "Europe-wide recognition",
+          "desc": "Degrees follow the European Higher Education Area framework, supporting recognition and mobility across Europe.",
+          "icon": "patch-check"
+        },
+        {
+          "title": "Exceptional affordability",
+          "desc": "Tuition and living costs are among the lowest in the European Union, allowing students to invest in quality education with confidence.",
+          "icon": "piggy-bank"
+        },
+        {
+          "title": "Strong academic and career fields",
+          "desc": "Poland is distinguished in medicine, engineering, information technology, business and finance, with a thriving technology and services economy.",
+          "icon": "briefcase"
+        },
+        {
+          "title": "A European gateway",
+          "desc": "As a member of the Schengen Area, Poland places much of Europe within easy reach for study, travel and work.",
+          "icon": "globe-europe-africa"
+        },
+        {
+          "title": "A vibrant student environment",
+          "desc": "From the energy of Warsaw to the historic student life of Kraków, Wrocław and Poznań, Polish cities are safe, modern and welcoming.",
+          "icon": "shield-check"
+        }
+      ]
+    },
+    {
+      "type": "universities",
+      "id": "universities",
+      "eyebrow": "Featured universities",
+      "title": "Leading Polish Universities",
+      "intro": "The following institutions represent key destinations available to EUROPA FUSION students.",
+      "items": [
+        {
+          "name": "University of Warsaw",
+          "city": "Warsaw",
+          "type": "Public University",
+          "desc": "Poland’s leading comprehensive university, with strengths across the sciences, law, economics, humanities and social sciences."
+        },
+        {
+          "name": "Jagiellonian University",
+          "city": "Kraków",
+          "type": "Public University",
+          "desc": "A major historic research university with distinguished programmes in medicine, sciences, humanities and law."
+        },
+        {
+          "name": "Warsaw University of Technology",
+          "city": "Warsaw",
+          "type": "Technical University",
+          "desc": "A leading centre for engineering, information technology, architecture and applied sciences."
+        },
+        {
+          "name": "AGH University of Krakow",
+          "city": "Kraków",
+          "type": "Technical University",
+          "desc": "Renowned for engineering, computer science, energy and materials, with strong industry cooperation."
+        },
+        {
+          "name": "Wrocław University of Science and Technology",
+          "city": "Wrocław",
+          "type": "Technical University",
+          "desc": "Known for engineering, architecture and technology, with a large and growing international community."
+        },
+        {
+          "name": "Adam Mickiewicz University",
+          "city": "Poznań",
+          "type": "Public University",
+          "desc": "A comprehensive university recognised for the humanities, social sciences, natural sciences and modern languages."
+        },
+        {
+          "name": "SGH Warsaw School of Economics",
+          "city": "Warsaw",
+          "type": "Specialist Institution",
+          "desc": "A leading Polish institution for economics, finance, management, international business and quantitative analytics."
+        },
+        {
+          "name": "Medical University of Warsaw",
+          "city": "Warsaw",
+          "type": "Medical University",
+          "desc": "A specialist institution offering English-taught programmes in medicine (6-year MD), dentistry, pharmacy and health sciences."
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "id": "programmes",
+      "eyebrow": "Academic pathways",
+      "title": "Programmes and Qualifications in Poland",
+      "intro": "Polish higher education follows the European Bologna model with clear undergraduate, master’s, and long-cycle medical routes.",
+      "columns": [
+        "Qualification",
+        "Duration",
+        "Credits (ECTS)",
+        "Notes & Focus"
+      ],
+      "rows": [
+        [
+          "Bachelor’s (Licencjat)",
+          "3–3.5 years",
+          "180–210",
+          "Direct application to the university; many English-taught options, especially in business, IT and engineering."
+        ],
+        [
+          "Engineering Bachelor’s (Inżynier)",
+          "3.5 years",
+          "210",
+          "Applied technical degree combining theory with laboratory, coding and industry project work."
+        ],
+        [
+          "Master’s degree",
+          "1.5–2 years",
+          "90–120",
+          "A wide choice of English-taught programmes across business, technology, science and social sciences."
+        ],
+        [
+          "Long-cycle Master’s",
+          "5–6 years",
+          "300–360",
+          "Medicine, Dentistry, Pharmacy and Law; entrance examinations are common and entry is competitive."
+        ],
+        [
+          "Doctoral studies (PhD)",
+          "4 years",
+          "—",
+          "Research-focused study in a doctoral school, often with NAWA or state scholarship support."
+        ],
+        [
+          "Postgraduate studies",
+          "1–2 years",
+          "Varies",
+          "Professional specialisation for graduates, often part-time or in blended executive formats."
+        ]
+      ],
+      "chips_title": "Popular fields of study in Poland",
+      "chips": [
+        "Medicine and Dentistry",
+        "Engineering and Technology",
+        "Information Technology and Data Science",
+        "Business, Management and Finance",
+        "Architecture and Design",
+        "Pharmacy and Life Sciences",
+        "Law and Social Sciences",
+        "Arts and Humanities"
+      ]
+    },
+    {
+      "type": "costs",
+      "id": "costs",
+      "eyebrow": "Fees & funding",
+      "title": "Understanding the Investment in Poland",
+      "intro": "A clear view of costs allows you to plan with confidence. Indicative annual ranges in euros:",
+      "chart_title": "Indicative annual investment in Poland",
+      "scale_max": 17500,
+      "rows": [
+        {
+          "label": "Tuition, non-medical programmes (per year)",
+          "value": "≈ €2,000 - €6,000",
+          "min": 2000,
+          "max": 6000
+        },
+        {
+          "label": "Tuition, medicine and dentistry (per year)",
+          "value": "≈ €9,500 - €13,000",
+          "min": 9500,
+          "max": 13000
+        },
+        {
+          "label": "Living costs (per year)",
+          "value": "≈ €4,800 - €9,600",
+          "min": 4800,
+          "max": 9600
+        },
+        {
+          "label": "Typical visa funds benchmark (per year)",
+          "value": "≈ €3,500 - €7,000",
+          "min": 3500,
+          "max": 7000
+        }
+      ],
+      "cards_title": "Scholarships & funding",
+      "cards": [
+        {
+          "title": "NAWA Scholarships",
+          "desc": "Programmes administered by Poland’s National Agency for Academic Exchange supporting international students."
+        },
+        {
+          "title": "Erasmus+ & Mundus",
+          "desc": "EU-funded mobility and joint-degree opportunities for eligible students across Europe."
+        },
+        {
+          "title": "University Merit Awards",
+          "desc": "Merit-based tuition reductions and academic awards offered directly by individual Polish universities."
+        }
+      ]
+    },
+    {
+      "type": "steps",
+      "id": "journey",
+      "eyebrow": "Your admission journey",
+      "title": "From Enquiry to Enrolment",
+      "intro": "EUROPA FUSION offers a structured, transparent process so that each stage is handled with care and precision.",
+      "items": [
+        {
+          "title": "Profile evaluation",
+          "desc": "Academic record, career goals, budget and preferred city are reviewed to define a realistic shortlist."
+        },
+        {
+          "title": "Programme & university selection",
+          "desc": "Courses are matched to your profile, with attention to language of instruction, entry tests and deadlines."
+        },
+        {
+          "title": "Application to the university",
+          "desc": "Transcripts, certificates, language proof, CV, motivation letter and passport are prepared and submitted directly."
+        },
+        {
+          "title": "Entrance assessment",
+          "desc": "Where required, preparation for entrance examinations or interviews, for example for medical and technical programmes."
+        },
+        {
+          "title": "Admission & tuition confirmation",
+          "desc": "Acceptance of your offer, issue of the official admission letter and payment of the first instalment of tuition."
+        },
+        {
+          "title": "Student visa (Type D)",
+          "desc": "Preparation of the national visa file, including proof of funds, accommodation evidence and compliant health insurance."
+        },
+        {
+          "title": "Arrival & residence permit",
+          "desc": "Application for the temporary residence permit (Karta Pobytu) before visa expiry, followed by accommodation and orientation."
+        }
+      ]
+    },
+    {
+      "type": "cards",
+      "id": "support",
+      "style": "icon",
+      "columns": 3,
+      "eyebrow": "Why EUROPA FUSION",
+      "title": "Your Partner for the Journey",
+      "intro": "We believe a student’s journey abroad should be guided with the same rigour as the education it leads to.",
+      "items": [
+        {
+          "title": "Admissions Counselling",
+          "desc": "Personalised shortlisting and strategy from first enquiry to offer.",
+          "icon": "compass"
+        },
+        {
+          "title": "Application Excellence",
+          "desc": "Careful preparation of statements of purpose, CVs and supporting documents.",
+          "icon": "file-earmark-text"
+        },
+        {
+          "title": "Scholarship Guidance",
+          "desc": "Support with NAWA, Erasmus+ and Polish university scholarship options.",
+          "icon": "award"
+        },
+        {
+          "title": "Visa Support",
+          "desc": "Structured assistance with national Type D visa documentation and financial evidence.",
+          "icon": "passport"
+        },
+        {
+          "title": "Accommodation Support",
+          "desc": "Guidance on student dormitories and private student flats in Warsaw, Kraków and Wrocław.",
+          "icon": "house-door"
+        },
+        {
+          "title": "Pre-Departure & Beyond",
+          "desc": "Briefings before you fly and continued support after you arrive in Poland.",
+          "icon": "airplane"
+        }
+      ],
+      "tone": "dark"
+    },
+    {
+      "type": "faq",
+      "id": "faq",
+      "eyebrow": "FAQ",
+      "title": "Frequently Asked Questions",
+      "intro": "Common questions about studying and settling in Poland.",
+      "items": [
+        {
+          "q": "Can I study in Poland entirely in English?",
+          "a": "Yes. Polish universities offer a large and growing selection of English-taught programmes at Bachelor’s, Master’s and doctoral level, including medicine and dentistry."
+        },
+        {
+          "q": "Do I need to speak Polish?",
+          "a": "It is not required for English-taught programmes, but basic Polish is very helpful for daily life, part-time work and career prospects. Polish-taught programmes require certified proficiency, typically at B2 level."
+        },
+        {
+          "q": "How much does it cost to study in Poland?",
+          "a": "Poland is one of Europe’s most affordable destinations. Tuition for non-medical programmes is commonly in the range of €2,000 to €6,000 per year, while medical programmes cost considerably more (€9,500–€13,000/yr). Monthly living costs typically range from €400 to €800."
+        },
+        {
+          "q": "When are the intakes and deadlines?",
+          "a": "The main intake begins in October, with a smaller intake in February or March at some universities. Many institutions admit on a rolling basis, though earlier application improves visa timing. Begin preparing at least 6 to 9 months in advance."
+        },
+        {
+          "q": "Do I need to take an entrance examination?",
+          "a": "Most Bachelor’s and Master’s programmes assess applicants on their academic record and a motivation letter. Medicine, dentistry and certain other programmes require entrance examinations or interviews."
+        },
+        {
+          "q": "Which English-language tests are accepted?",
+          "a": "Universities usually accept IELTS, TOEFL or an equivalent, and some conduct their own interview or test. Requirements differ by institution."
+        },
+        {
+          "q": "How much money must I show for the student visa?",
+          "a": "Applicants must demonstrate sufficient funds for their stay. In practice consulates and universities expect proof of around €3,500 to €7,000 for the first year, often alongside payment of the first tuition instalment."
+        },
+        {
+          "q": "Can I work while studying in Poland?",
+          "a": "Full-time students at accredited Polish institutions may generally work part-time without a separate work permit during their studies. You should always maintain academic attendance as priority."
+        },
+        {
+          "q": "Can I remain in Poland after graduating?",
+          "a": "Graduates may apply for a temporary residence permit to look for work or start a business, for a period set by current regulations (typically 9-12 months), and may then transition to a full work permit or Blue Card."
+        },
+        {
+          "q": "Are scholarships available for international students?",
+          "a": "Yes. Options include NAWA programmes (e.g. Banach or Gen. Anders), Erasmus+, and merit-based fee reductions from individual universities. Competition is strong and deadlines are early."
+        },
+        {
+          "q": "What are accommodation options?",
+          "a": "Students may choose university dormitories, which are typically the most economical option (PLN 480 to PLN 1,100 / month, approx €110–€250), or private shared rentals in Warsaw, Kraków and Wrocław."
+        },
+        {
+          "q": "What documents will I need?",
+          "a": "Typically: passport, academic transcripts and certificates (with apostille/legalisation and sworn translation if needed), language-test results, CV, motivation letter, proof of financial means, proof of accommodation and health insurance."
+        },
+        {
+          "q": "How does EUROPA FUSION support my application?",
+          "a": "We assist at every stage: profile assessment, university selection, application and document preparation, scholarship guidance, visa support, accommodation and pre-departure briefing."
+        }
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Begin Your Polish Chapter",
+      "text": "Speak with a EUROPA FUSION counsellor for a personalised university shortlist and a clear roadmap to your offer letter.",
+      "ctas": [
+        {
+          "label": "Book Free Consultation",
+          "action": "counselling"
+        },
+        {
+          "label": "Free Profile Evaluation",
+          "action": "evaluation"
+        }
+      ]
+    }
+  ]
+}

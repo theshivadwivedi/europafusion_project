@@ -1,0 +1,264 @@
+{
+  "slug": "germany/bachelor",
+  "kind": "pathway",
+  "destination": "germany",
+  "title": "Bachelor's in Germany",
+  "nav_label": "Bachelor",
+  "meta_description": "An undergraduate education of international standing at world-renowned German public universities, with zero tuition in 15 of 16 federal states.",
+  "sections": [
+    {
+      "type": "hero",
+      "eyebrow": "Germany · Undergraduate admissions",
+      "title": "Bachelor’s Degrees at German Public Universities",
+      "lead": "An undergraduate education of international standing at world-renowned public universities (<em>staatliche Hochschulen</em>) — with zero tuition in 15 of 16 federal states."
+    },
+    {
+      "type": "intro",
+      "id": "overview",
+      "eyebrow": "Overview & scope",
+      "title": "An Introduction to Undergraduate Study",
+      "paragraphs": [
+        "Germany’s public universities (<em>staatliche Hochschulen</em>) are among the oldest and most respected institutions in Europe. They are funded principally by the federal states and are known for rigorous scholarship, close links between research and teaching, and a tradition of broad access. For international applicants, they offer an undergraduate education of international standing at a cost far below that of comparable institutions in the English-speaking world.",
+        "A Bachelor’s degree at a public university typically takes <strong>six to eight semesters (3 to 4 years)</strong>, depending on the discipline and institution. Successful candidates receive the <strong>Bachelorzeugnis</strong>, the official certificate recording the field of study and the final grade. Degrees are awarded in engineering, the natural sciences, the humanities, the social sciences, economics and management, and the arts. Most programmes are taught in German, while a growing number are taught wholly or partly in English."
+      ]
+    },
+    {
+      "type": "cards",
+      "id": "why-public",
+      "style": "plain",
+      "columns": 4,
+      "eyebrow": "The public advantage",
+      "title": "Why Choose a Public University",
+      "items": [
+        {
+          "title": "Academic reputation",
+          "desc": "German public universities have produced generations of eminent scholars, scientists and engineers, and their qualifications are recognised across Europe and beyond."
+        },
+        {
+          "title": "Affordability",
+          "desc": "Most public universities charge no tuition fees to international undergraduates. Students pay a modest semester contribution (Semesterbeitrag), which usually covers administrative costs and often a regional transport pass. The state of Baden-Württemberg levies tuition on students from outside the EU, so applicants should confirm the position at their chosen institution and state."
+        },
+        {
+          "title": "Practical orientation",
+          "desc": "Many degrees incorporate internships, laboratory work and industry placements, and students may take part-time employment within the limits of their visa conditions."
+        },
+        {
+          "title": "Independence of study",
+          "desc": "The German system places considerable trust in the student. This fosters self-discipline, critical thinking, and intellectual maturity."
+        }
+      ]
+    },
+    {
+      "type": "intro",
+      "id": "requirements",
+      "eyebrow": "Eligibility criteria",
+      "title": "Admission Requirements",
+      "paragraphs": [
+        "Admission to a public university depends on three principal considerations: <strong>educational qualification</strong>, <strong>language proficiency</strong>, and <strong>documentation</strong>."
+      ]
+    },
+    {
+      "type": "cards",
+      "style": "plain",
+      "columns": 3,
+      "title": "1. Educational Qualification and the Thirteen-Year Requirement",
+      "intro": "German universities generally expect thirteen years of schooling before entry to a Bachelor’s programme. Applicants from India, who typically complete twelve years, must therefore bridge the shortfall by one of the following routes:",
+      "items": [
+        {
+          "title": "Studienkolleg",
+          "desc": "A preparatory foundation course, normally lasting two semesters, that concludes with the Feststellungsprüfung (FSP). Entry is by an Aufnahmeprüfung (entrance examination)."
+        },
+        {
+          "title": "1 Year University Study in India",
+          "desc": "Applicants who completed a year of a relevant undergraduate programme at a recognised Indian university may apply directly in many cases."
+        },
+        {
+          "title": "Recognised Exemptions",
+          "desc": "Certain qualifications, such as the International Baccalaureate (IB) and a strong result in JEE Advanced (for relevant subjects), may be accepted for direct entry."
+        }
+      ]
+    },
+    {
+      "type": "steps",
+      "title": "Two checks decide whether the Studienkolleg is required:",
+      "items": [
+        {
+          "tag": "Input Basis",
+          "title": "12 Years of Schooling",
+          "desc": ""
+        },
+        {
+          "tag": "Check 1 or Check 2",
+          "title": "Exemption / 1 Yr Degree?",
+          "desc": ""
+        },
+        {
+          "tag": "Outcome",
+          "title": "Direct Entry OR Studienkolleg + FSP",
+          "desc": ""
+        }
+      ],
+      "note": "*Each university makes the final eligibility decision based on Anabin database evaluation."
+    },
+    {
+      "type": "cards",
+      "style": "plain",
+      "columns": 2,
+      "title": "2. Language Proficiency",
+      "items": [
+        {
+          "title": "German-Taught Programmes",
+          "desc": "Generally require CEFR level C1 proficiency, evidenced by TestDaF, DSH, or Goethe-Zertifikat C1."
+        },
+        {
+          "title": "English-Taught Programmes",
+          "desc": "Require IELTS or TOEFL (IELTS 6.5+ benchmark). German proficiency is not required for admission, but strongly advised for daily life."
+        }
+      ]
+    },
+    {
+      "type": "checklist",
+      "title": "3. Documentation",
+      "intro": "Applicants should normally be prepared to submit:",
+      "columns": 2,
+      "items": [
+        "Class 10 and Class 12 mark sheets",
+        "Official school-leaving certificate",
+        "Evidence of German or English language proficiency",
+        "Curriculum vitae and motivation letter",
+        "Uni-assist documentation & APS certificate"
+      ]
+    },
+    {
+      "type": "split",
+      "id": "pathway",
+      "eyebrow": "Step-by-step workflows",
+      "title": "The Application Pathway",
+      "intro": "Choose your admission track based on your prior schooling and language medium.",
+      "columns": [
+        {
+          "badge": "Route A",
+          "title": "Via Studienkolleg (German-taught programmes)",
+          "paragraphs": [
+            "Applicants who need the foundation year follow twelve stages, with the Aufnahmeprüfung and the Feststellungsprüfung (FSP) as key milestones."
+          ],
+          "points": [
+            "Shortlist universities",
+            "Check eligibility",
+            "Language preparation",
+            "Document preparation",
+            "Submit application",
+            "Receive entrance exam invitation",
+            "Open blocked account",
+            "Apply for student visa",
+            "Travel and health insurance",
+            "Pass the entrance exam",
+            "Studienkolleg and FSP",
+            "Apply to the Bachelor’s course"
+          ]
+        },
+        {
+          "badge": "Route B",
+          "title": "Direct Entry (Principally English-taught programmes)",
+          "paragraphs": [
+            "Applicants who qualify for an exemption, or who hold a relevant year of university study, proceed in ten stages without a foundation year."
+          ],
+          "points": [
+            "Shortlist course and university",
+            "Check eligibility",
+            "Language certification",
+            "Document preparation",
+            "Submit application",
+            "Receive offer of admission",
+            "Open blocked account",
+            "Apply for student visa",
+            "Travel and health insurance",
+            "Enrol and begin studies"
+          ]
+        }
+      ],
+      "ordered": true
+    },
+    {
+      "type": "stats",
+      "id": "costs",
+      "eyebrow": "Financial planning",
+      "title": "Costs and Living in Germany",
+      "intro": "Public universities charge little or nothing in tuition, but students must still demonstrate that they can meet their living expenses. Visa applicants are required to fund a blocked account (Sperrkonto), currently in the region of €11,904 per year, and to hold valid health insurance.",
+      "items": [
+        {
+          "value": "€11,904 / yr",
+          "label": "Blocked Account (Sperrkonto)",
+          "sub": "Official proof of subsistence funds for student visa."
+        },
+        {
+          "value": "140 Full Days",
+          "label": "Part-Time Work Permission",
+          "sub": "Earn €13–€16/hr alongside studies and internships."
+        },
+        {
+          "value": "€150 – €350",
+          "label": "Semester Contribution",
+          "sub": "Includes campus administrative fee and public transport pass."
+        }
+      ]
+    },
+    {
+      "type": "faq",
+      "id": "faq",
+      "eyebrow": "Frequently asked questions",
+      "title": "Undergraduate Admissions FAQ",
+      "intro": "Key insights on 12-year schooling, English vs German medium, tuition fees, and application timings.",
+      "items": [
+        {
+          "q": "Is an IELTS or TOEFL score required?",
+          "a": "For English-taught or bilingual programmes, yes. Evidence of English proficiency is ordinarily required at the time of application. German-taught programmes require German certification instead."
+        },
+        {
+          "q": "Are there English-taught Bachelor’s programmes in Germany?",
+          "a": "Yes. According to the DAAD, over one thousand English-taught degree programmes are available across the country, although the number at undergraduate level is smaller than at Master’s level."
+        },
+        {
+          "q": "Must I know German to study on an English-taught programme?",
+          "a": "It is not a condition of admission where the medium of instruction is wholly English. Nonetheless, some knowledge of German greatly eases everyday life and improves employment prospects."
+        },
+        {
+          "q": "Are tuition fees really waived at public universities?",
+          "a": "In most federal states, yes, for undergraduate study. A semester contribution is still payable. Baden-Württemberg charges tuition to most non-EU students, so confirm the position for your university and state."
+        },
+        {
+          "q": "I have completed twelve years of schooling. Can I apply directly?",
+          "a": "Generally, no. You will need to complete the Studienkolleg, unless you qualify for an exemption or have completed a relevant year of university study."
+        },
+        {
+          "q": "Which applicants are exempt from the Studienkolleg?",
+          "a": "Exemptions are commonly recognised for holders of the International Baccalaureate, for students who have completed a relevant first year of a Bachelor’s programme, and for those who have achieved a qualifying result in JEE Advanced. The final decision rests with the university."
+        },
+        {
+          "q": "How long does a Bachelor’s degree take?",
+          "a": "Typically, six to eight semesters (3 to 4 years). The Studienkolleg adds approximately one year for those who require it."
+        },
+        {
+          "q": "Can I work while studying?",
+          "a": "Yes. Students may undertake part-time work and internships within the limits set by their residence permit."
+        },
+        {
+          "q": "When can I apply?",
+          "a": "Most universities admit students for the winter semester (beginning in October) and some also for the summer semester (beginning in April). Deadlines vary, so applicants should consult each institution’s website well in advance."
+        }
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Begin your German Bachelor’s journey with us",
+      "text": "Speak with an adviser to evaluate your profile and identify the programmes best suited to your ambitions.",
+      "ctas": [
+        {
+          "label": "Call me back",
+          "action": "counselling"
+        }
+      ],
+      "note": "We call within 10 minutes, 8 am to 8 pm IST, Monday to Saturday."
+    }
+  ]
+}

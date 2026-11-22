@@ -1,0 +1,108 @@
+// ---------------------------------------------------------------------------
+// Design tokens – EUROPA FUSION
+// Navy carries trust, EU-gold is the accent (the stars of the European flag),
+// maroon is kept from the original brand mark and used sparingly.
+// ---------------------------------------------------------------------------
+
+$ink: #0e1b33;
+$navy: #15294d;
+$navy-700: #1e3a68;
+$navy-500: #3a5486;
+$royal: #2b59d1;
+$sky: #dfe8fb;
+$gold: #e2a72e;
+$gold-600: #c68d17;
+$gold-soft: #fdf3dc;
+$maroon: #8e1f2f;
+$paper: #f7f5f0;
+$mist: #f1f4f9;
+$line: #e3e7ef;
+$text: #3d4a5f;
+$muted: #6a768a;
+$success: #1f8a5b;
+$danger: #c2413a;
+$whatsapp: #25d366;
+
+$font-display: 'Fraunces Variable', 'Iowan Old Style', Georgia, serif;
+$font-sans: 'Manrope Variable', 'Segoe UI', system-ui, -apple-system, sans-serif;
+
+// Bootstrap overrides -------------------------------------------------------
+$primary: $navy;
+$secondary: $navy-500;
+$info: $royal;
+$warning: $gold;
+$light: $mist;
+$dark: $ink;
+$body-color: $text;
+$body-bg: #fff;
+$link-color: $royal;
+$link-decoration: none;
+$link-hover-decoration: underline;
+$border-color: $line;
+$headings-color: $ink;
+$headings-font-family: $font-display;
+$headings-font-weight: 600;
+$headings-line-height: 1.15;
+$font-family-base: $font-sans;
+$font-size-base: 1rem;
+$line-height-base: 1.65;
+$border-radius: .625rem;
+$border-radius-sm: .5rem;
+$border-radius-lg: 1rem;
+$border-radius-xl: 1.25rem;
+$box-shadow-sm: 0 1px 2px rgba($ink, .06);
+$box-shadow: 0 10px 30px -12px rgba($ink, .18);
+$box-shadow-lg: 0 24px 60px -20px rgba($ink, .28);
+$container-max-widths: (sm: 540px, md: 720px, lg: 960px, xl: 1140px, xxl: 1220px);
+$grid-gutter-width: 1.75rem;
+$enable-negative-margins: true;
+$enable-shadows: false;
+
+$btn-font-weight: 700;
+$btn-padding-y: .8rem;
+$btn-padding-x: 1.35rem;
+$btn-font-size: .95rem;
+$btn-border-radius: .625rem;
+$btn-padding-y-sm: .5rem;
+$btn-padding-x-sm: .9rem;
+$btn-border-radius-sm: .5rem;
+$btn-padding-y-lg: .95rem;
+$btn-padding-x-lg: 1.6rem;
+$btn-border-radius-lg: .75rem;
+$btn-focus-box-shadow: 0 0 0 .25rem rgba($royal, .3);
+
+$input-padding-y: .72rem;
+$input-padding-x: .95rem;
+$input-border-color: #d5dbe6;
+$input-focus-border-color: $royal;
+$input-focus-box-shadow: 0 0 0 .2rem rgba($royal, .15);
+$input-placeholder-color: #9aa4b5;
+$form-label-font-weight: 600;
+$form-label-font-size: .875rem;
+$form-label-color: $ink;
+$form-select-indicator-color: $navy;
+
+$modal-content-border-radius: 1.25rem;
+$modal-content-border-width: 0;
+$modal-backdrop-bg: $ink;
+$modal-backdrop-opacity: .6;
+
+$accordion-button-active-bg: transparent;
+$accordion-button-active-color: $ink;
+$accordion-button-focus-box-shadow: none;
+$accordion-border-color: $line;
+$accordion-icon-color: $navy;
+$accordion-icon-active-color: $royal;
+
+$dropdown-border-color: $line;
+$dropdown-box-shadow: $box-shadow-lg;
+$dropdown-link-hover-bg: $mist;
+$dropdown-border-radius: 1rem;
+
+$offcanvas-horizontal-width: 360px;
+$table-cell-padding-y: .9rem;
+$table-cell-padding-x: 1rem;
+$pagination-color: $navy;
+$pagination-active-bg: $navy;
+$pagination-active-border-color: $navy;
+$pagination-border-radius: .5rem;

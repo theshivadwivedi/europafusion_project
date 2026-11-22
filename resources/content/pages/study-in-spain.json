@@ -1,0 +1,414 @@
+{
+  "slug": "study-in-spain",
+  "kind": "country",
+  "destination": "spain",
+  "title": "Study in Spain",
+  "nav_label": "Spain",
+  "meta_description": "Earn a respected European degree in Madrid, Barcelona, Valencia and beyond, with EUROPA FUSION guiding every step of your journey.",
+  "sections": [
+    {
+      "type": "hero",
+      "eyebrow": "Study in Spain",
+      "title": "Where Mediterranean Energy Meets Academic Ambition",
+      "highlight": "Academic Ambition",
+      "lead": "Earn a respected European degree in Madrid, Barcelona, Valencia and beyond, with EUROPA FUSION guiding every step of your journey.",
+      "ctas": [
+        {
+          "label": "Free Profile Evaluation",
+          "action": "evaluation"
+        },
+        {
+          "label": "Book Consultation",
+          "action": "counselling"
+        }
+      ]
+    },
+    {
+      "type": "stats",
+      "items": [
+        {
+          "value": "500M+",
+          "label": "Global Spanish speakers",
+          "sub": "Language of international business & culture"
+        },
+        {
+          "value": "30 hrs",
+          "label": "Weekly work allowance",
+          "sub": "For university students on student visa"
+        },
+        {
+          "value": "4 + 1–2",
+          "label": "Years of study",
+          "sub": "Grado (Bachelor’s) + Máster"
+        },
+        {
+          "value": "€7,200",
+          "label": "Annual visa funds benchmark",
+          "sub": "100% of IPREM living metric"
+        }
+      ]
+    },
+    {
+      "type": "cards",
+      "id": "why",
+      "style": "icon",
+      "columns": 3,
+      "eyebrow": "Why Spain",
+      "title": "A Distinguished Education in One of Europe’s Most Dynamic Countries",
+      "intro": "Spain combines internationally respected universities and business schools with an outstanding quality of life and costs that compare favourably with other global study hubs.",
+      "items": [
+        {
+          "title": "Europe-wide recognition",
+          "desc": "Degrees follow the European Higher Education Area framework, supporting recognition and mobility across Europe.",
+          "icon": "patch-check"
+        },
+        {
+          "title": "Academic strengths",
+          "desc": "Spain’s universities and business schools are world-renowned in business, engineering, architecture, design, health sciences, tourism and social sciences.",
+          "icon": "bank"
+        },
+        {
+          "title": "A global language",
+          "desc": "Mastery of Spanish opens professional career horizons across Europe, Latin America and global international organizations.",
+          "icon": "globe-europe-africa"
+        },
+        {
+          "title": "Practical career pathways",
+          "desc": "University students on a student visa may work up to 30 hours per week, and eligible graduates can explore stay-back permits to work.",
+          "icon": "briefcase"
+        },
+        {
+          "title": "An exceptional lifestyle",
+          "desc": "From Madrid to Barcelona and Valencia, student life is vibrant, sociable, safe and outdoors-oriented with a pleasant Mediterranean climate.",
+          "icon": "shield-check"
+        }
+      ]
+    },
+    {
+      "type": "universities",
+      "id": "universities",
+      "eyebrow": "Featured universities",
+      "title": "Distinguished Institutions in Spain",
+      "intro": "The following institutions represent key destinations available to EUROPA FUSION students.",
+      "items": [
+        {
+          "name": "Complutense University of Madrid",
+          "city": "Madrid",
+          "type": "Public University",
+          "desc": "One of Spain’s largest and oldest universities, offering an exceptionally broad range of programmes in humanities, sciences, law and health."
+        },
+        {
+          "name": "Autonomous University of Madrid",
+          "city": "Madrid",
+          "type": "Public University",
+          "desc": "A premier research-led university widely respected for sciences, medicine, economics, biotechnology and the humanities."
+        },
+        {
+          "name": "Carlos III University of Madrid",
+          "city": "Madrid",
+          "type": "Public University",
+          "desc": "Known for law, social sciences, business, economics and engineering, with a strongly international and employment-focused profile."
+        },
+        {
+          "name": "University of Barcelona",
+          "city": "Barcelona",
+          "type": "Public University",
+          "desc": "A comprehensive research university with notable strengths in health sciences, humanities, life sciences, economics and the arts."
+        },
+        {
+          "name": "Pompeu Fabra University",
+          "city": "Barcelona",
+          "type": "Public University",
+          "desc": "A top-ranked modern institution distinguished for economics, political science, communication, law and data science."
+        },
+        {
+          "name": "Polytechnic University of Valencia",
+          "city": "Valencia",
+          "type": "Technical University",
+          "desc": "A leading destination for engineering, computer science, architecture, design and applied technology, with close industry links."
+        },
+        {
+          "name": "IE University",
+          "city": "Madrid & Segovia",
+          "type": "Private University",
+          "desc": "An internationally oriented private university and business school focused on business, technology, law, leadership and innovation."
+        },
+        {
+          "name": "ESADE Business School",
+          "city": "Barcelona",
+          "type": "Private Business School",
+          "desc": "Internationally recognized for management, business administration and law programmes, with a global alumni and corporate network."
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "id": "programmes",
+      "eyebrow": "Academic pathways",
+      "title": "Programmes and Qualifications in Spain",
+      "intro": "Spanish higher education offers 4-year Grado undergraduate programmes and specialized 1-2 year Máster degrees.",
+      "columns": [
+        "Qualification",
+        "Duration",
+        "Credits (ECTS)",
+        "Notes & Focus"
+      ],
+      "rows": [
+        [
+          "Grado (Bachelor’s)",
+          "4 years",
+          "240",
+          "Requires recognised secondary qualifications and UNEDasiss accreditation for non-EU applicants; many degrees taught in Spanish."
+        ],
+        [
+          "Máster Universitario (Master’s)",
+          "1–2 years",
+          "60–120",
+          "The broadest selection of English-taught programmes, especially in business, technology and social sciences."
+        ],
+        [
+          "Single-cycle degrees",
+          "5–6 years",
+          "300–360",
+          "Medicine, Dentistry, Veterinary Science and Architecture; highly competitive direct admission."
+        ],
+        [
+          "Doctorado (PhD)",
+          "3–4 years",
+          "—",
+          "Research-focused study within university doctoral schools, with university and national research grants."
+        ],
+        [
+          "Formación Profesional (Higher Vocational)",
+          "2 years",
+          "—",
+          "Applied, employer-linked practical qualifications, generally delivered in Spanish."
+        ],
+        [
+          "Private university & business schools",
+          "Varies",
+          "Varies",
+          "Smaller cohorts, global faculty, cutting-edge corporate networking, and extensive English-taught curricula."
+        ]
+      ],
+      "chips_title": "Popular fields of study in Spain",
+      "chips": [
+        "Business, Management and Finance",
+        "Engineering and Technology",
+        "Architecture and Design",
+        "Hospitality and Tourism",
+        "Medicine and Health Sciences",
+        "Data Science and Artificial Intelligence",
+        "Marketing and Communication",
+        "Languages, Arts and Humanities"
+      ]
+    },
+    {
+      "type": "costs",
+      "id": "costs",
+      "eyebrow": "Fees & funding",
+      "title": "Understanding the Investment in Spain",
+      "intro": "A clear view of costs allows you to plan with confidence. Indicative annual ranges in euros:",
+      "chart_title": "Indicative annual investment in Spain",
+      "scale_max": 25000,
+      "rows": [
+        {
+          "label": "Public university Bachelor's tuition (per year)",
+          "value": "≈ €700 - €2,500",
+          "min": 700,
+          "max": 2500
+        },
+        {
+          "label": "Public university Master's tuition (per year)",
+          "value": "≈ €1,000 - €5,000",
+          "min": 1000,
+          "max": 5000
+        },
+        {
+          "label": "Private university tuition (per year)",
+          "value": "≈ €6,000 - €20,000+",
+          "min": 6000,
+          "max": 20000
+        },
+        {
+          "label": "Living costs (per year)",
+          "value": "≈ €9,600 - €16,800",
+          "min": 9600,
+          "max": 16800
+        },
+        {
+          "label": "Visa funds benchmark (IPREM per year)",
+          "value": "€7,200",
+          "min": 7200,
+          "max": 7200
+        }
+      ],
+      "cards_title": "Scholarships & funding",
+      "cards": [
+        {
+          "title": "Institutional Scholarships",
+          "desc": "Merit and need-based tuition waivers, bursaries, and discounts offered directly by universities and business schools."
+        },
+        {
+          "title": "Regional & National Awards",
+          "desc": "Funding programmes offered by Spanish Autonomous Communities and national educational ministries."
+        },
+        {
+          "title": "Erasmus Mundus",
+          "desc": "EU-funded joint Master’s degrees that include full tuition waivers and generous living stipends."
+        }
+      ]
+    },
+    {
+      "type": "steps",
+      "id": "journey",
+      "eyebrow": "Your admission journey",
+      "title": "From Enquiry to Enrolment",
+      "intro": "EUROPA FUSION offers a structured, transparent process so that each stage is handled with care and precision.",
+      "items": [
+        {
+          "title": "Profile evaluation",
+          "desc": "Academic record, career goals, budget and preferred city are reviewed to define a realistic shortlist."
+        },
+        {
+          "title": "Programme & university selection",
+          "desc": "Courses are matched to your profile, with attention to language of instruction, admission procedure and deadlines."
+        },
+        {
+          "title": "Documents & application",
+          "desc": "Transcripts, certificates, language proof, CV, motivation letter and passport are prepared and submitted through university portals."
+        },
+        {
+          "title": "Access accreditation & recognition",
+          "desc": "Where required, preparation for UNEDasiss access accreditation for Bachelor’s study, and legalisation of documents for Master’s."
+        },
+        {
+          "title": "Admission & enrolment confirmation",
+          "desc": "Offer acceptance, payment of the enrolment deposit and receipt of the official university admission letter."
+        },
+        {
+          "title": "Student visa application",
+          "desc": "Preparation of the long-stay student visa file, including proof of funds (IPREM), private health insurance and criminal-record clearance."
+        },
+        {
+          "title": "Arrival & settling in",
+          "desc": "Foreigner identity card (TIE) registration, accommodation settlement, NIE number and orientation to student life in Spain."
+        }
+      ]
+    },
+    {
+      "type": "cards",
+      "id": "support",
+      "style": "icon",
+      "columns": 3,
+      "eyebrow": "Why EUROPA FUSION",
+      "title": "Your Partner for the Journey",
+      "intro": "We believe a student’s journey abroad should be guided with the same rigour as the education it leads to.",
+      "items": [
+        {
+          "title": "Admissions Counselling",
+          "desc": "Personalised shortlisting and strategy from first enquiry to offer.",
+          "icon": "compass"
+        },
+        {
+          "title": "Application Excellence",
+          "desc": "Careful preparation of statements of purpose, CVs and supporting documents.",
+          "icon": "file-earmark-text"
+        },
+        {
+          "title": "Scholarship Guidance",
+          "desc": "Support with university, regional and national scholarship options.",
+          "icon": "award"
+        },
+        {
+          "title": "Visa Support",
+          "desc": "Structured assistance with student visa documentation, IPREM proof, and translations.",
+          "icon": "passport"
+        },
+        {
+          "title": "Accommodation Support",
+          "desc": "Guidance on Colegios Mayores and shared student flats in Madrid, Barcelona and Valencia.",
+          "icon": "house-door"
+        },
+        {
+          "title": "Pre-Departure & Beyond",
+          "desc": "Briefings before you fly, TIE registration support, and continuous advisory.",
+          "icon": "airplane"
+        }
+      ],
+      "tone": "dark"
+    },
+    {
+      "type": "faq",
+      "id": "faq",
+      "eyebrow": "FAQ",
+      "title": "Frequently Asked Questions",
+      "intro": "Common questions about studying and settling in Spain.",
+      "items": [
+        {
+          "q": "Can I study in Spain entirely in English?",
+          "a": "Yes. Spain offers a wide choice of English-taught programmes, particularly at Master’s level and at private universities and business schools. Many public Bachelor’s programmes are taught in Spanish, so the language of instruction should be confirmed for each course."
+        },
+        {
+          "q": "Do I need to speak Spanish?",
+          "a": "It is not required for English-taught programmes, but Spanish greatly enhances daily life, part-time work and career prospects. For Spanish-taught degrees, certified proficiency (such as DELE or SIELE B2) is requested."
+        },
+        {
+          "q": "How much does it cost to study in Spain?",
+          "a": "Public university tuition is set by each regional autonomous community and charged per credit (€700 to €2,500/yr for Bachelor’s; €1,000 to €5,000/yr for Master’s). Private universities charge €6,000 to €20,000+. Living costs commonly range from €800 to €1,400 per month."
+        },
+        {
+          "q": "When are the intakes and deadlines?",
+          "a": "The main intake begins in September or October, with a smaller number of programmes starting in February. Application windows at public universities typically fall in the spring and early summer (April–June). Early preparation is advisable."
+        },
+        {
+          "q": "Which English-language tests are accepted?",
+          "a": "Most English-taught programmes request IELTS (typically 6.0–7.0), TOEFL, or equivalent tests."
+        },
+        {
+          "q": "How much money must I show for the student visa?",
+          "a": "Applicants must demonstrate sufficient funds benchmarked at 100% of the IPREM (approx. €600 per month, or €7,200 for a twelve-month stay), excluding tuition fees."
+        },
+        {
+          "q": "Can I work while studying in Spain?",
+          "a": "University students holding a student visa in Spain may generally work up to 30 hours per week, provided the employment is compatible with study hours."
+        },
+        {
+          "q": "Can I remain in Spain after graduating?",
+          "a": "Yes. Graduates may apply for a 1-year residence permit to look for employment or launch a business startup, or modify their status directly to an employment contract or EU Blue Card."
+        },
+        {
+          "q": "Are scholarships available for international students?",
+          "a": "Yes. Spanish universities, regional governments, and private foundations offer merit and need-based tuition waivers, while Erasmus Mundus provides full scholarships for selected Master’s degrees."
+        },
+        {
+          "q": "What are accommodation options?",
+          "a": "Options include Colegios Mayores (university residences), shared flats (*pisos compartidos*), and private purpose-built student housing across Madrid, Barcelona, and Valencia."
+        },
+        {
+          "q": "What documents will I need?",
+          "a": "Typically: passport, academic transcripts and degrees (apostilled & translated), language certificate, CV, motivation letter, medical certificate, police clearance certificate, and proof of €7,200+ IPREM funds."
+        },
+        {
+          "q": "How does EUROPA FUSION support my application?",
+          "a": "We handle profile evaluation, UNEDasiss accreditation guidance, document legalization/sworn translations, university applications, Spanish visa file processing, and housing search."
+        }
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Begin Your Spanish Chapter",
+      "text": "Speak with a EUROPA FUSION counsellor for a personalised university shortlist and a clear roadmap to your offer letter.",
+      "ctas": [
+        {
+          "label": "Book Free Consultation",
+          "action": "counselling"
+        },
+        {
+          "label": "Free Profile Evaluation",
+          "action": "evaluation"
+        }
+      ]
+    }
+  ]
+}

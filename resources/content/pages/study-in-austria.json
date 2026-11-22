@@ -1,0 +1,404 @@
+{
+  "slug": "study-in-austria",
+  "kind": "country",
+  "destination": "austria",
+  "title": "Study in Austria",
+  "nav_label": "Austria",
+  "meta_description": "Pursue an affordable, world-class European degree in Vienna, Graz, Innsbruck and beyond, with EUROPA FUSION guiding every step of your journey.",
+  "sections": [
+    {
+      "type": "hero",
+      "eyebrow": "Study in Austria",
+      "title": "Where Academic Rigour Meets Alpine Quality of Life",
+      "highlight": "Alpine Quality of Life",
+      "lead": "Pursue an affordable, world-class European degree in Vienna, Graz, Innsbruck and beyond, with EUROPA FUSION guiding every step of your journey.",
+      "ctas": [
+        {
+          "label": "Free Profile Evaluation",
+          "action": "evaluation"
+        },
+        {
+          "label": "Book Consultation",
+          "action": "counselling"
+        }
+      ]
+    },
+    {
+      "type": "stats",
+      "items": [
+        {
+          "value": "≈ €1,500",
+          "label": "Annual tuition for non-EU",
+          "sub": "At world-ranked public universities"
+        },
+        {
+          "value": "2",
+          "label": "Main intakes each year",
+          "sub": "Winter (October) & Summer (March)"
+        },
+        {
+          "value": "3 + 2",
+          "label": "Years to degree",
+          "sub": "Bachelor’s + Master’s under Bologna"
+        },
+        {
+          "value": "RWR",
+          "label": "Red-White-Red Card",
+          "sub": "Pathway for graduates seeking skilled work"
+        }
+      ]
+    },
+    {
+      "type": "cards",
+      "id": "why",
+      "style": "icon",
+      "columns": 3,
+      "eyebrow": "Why Austria",
+      "title": "A World-Class Education at an Exceptional Value",
+      "intro": "Austria combines high academic standards with an enviable quality of life. Situated at the centre of Europe, it offers international students rigorous research environments and tuition costs that compare favourably with other global study hubs.",
+      "items": [
+        {
+          "title": "Outstanding affordability",
+          "desc": "Public university tuition remains exceptionally modest (≈ €726.72/semester), even for international students from outside the EU/EEA.",
+          "icon": "piggy-bank"
+        },
+        {
+          "title": "Academic and professional depth",
+          "desc": "Austrian universities are globally recognized in engineering, business, computer science, natural sciences, music, medicine and the arts.",
+          "icon": "globe-europe-africa"
+        },
+        {
+          "title": "Exceptional quality of life",
+          "desc": "Vienna is consistently ranked among the #1 most liveable cities in the world, while Graz, Innsbruck and Linz offer vibrant student alternatives.",
+          "icon": "shield-check"
+        },
+        {
+          "title": "A route to a career in Europe",
+          "desc": "Graduates may apply for the Red-White-Red Card to seek skilled employment, with degrees fully portable across Europe.",
+          "icon": "briefcase"
+        },
+        {
+          "title": "A European gateway",
+          "desc": "Situated in the heart of Europe, Austria provides immediate access to Germany, Switzerland, Italy, and Central European business hubs.",
+          "icon": "globe-europe-africa"
+        }
+      ]
+    },
+    {
+      "type": "universities",
+      "id": "universities",
+      "eyebrow": "Featured universities",
+      "title": "Distinguished Institutions in Austria",
+      "intro": "The following institutions represent key destinations available to EUROPA FUSION students.",
+      "items": [
+        {
+          "name": "University of Vienna",
+          "city": "Vienna",
+          "type": "Public University",
+          "desc": "Austria’s largest and oldest university, offering an exceptionally wide spectrum of disciplines across sciences, humanities, law and economics."
+        },
+        {
+          "name": "TU Wien",
+          "city": "Vienna",
+          "type": "Technical University",
+          "desc": "A premier European centre for engineering, computer science, architecture and mathematics, with close ties to Austrian industry."
+        },
+        {
+          "name": "WU Vienna (Vienna University of Economics & Business)",
+          "city": "Vienna",
+          "type": "Business University",
+          "desc": "One of Europe’s foremost triple-accredited business universities, recognized internationally for management, finance and business law."
+        },
+        {
+          "name": "TU Graz",
+          "city": "Graz",
+          "type": "Technical University",
+          "desc": "Distinguished in engineering and natural sciences, with strong industry partnerships in automotive mobility, energy and semiconductors."
+        },
+        {
+          "name": "University of Graz",
+          "city": "Graz",
+          "type": "Public University",
+          "desc": "A comprehensive research university known for law, social sciences, natural sciences, biotechnology and sustainability research."
+        },
+        {
+          "name": "University of Innsbruck",
+          "city": "Innsbruck",
+          "type": "Public University",
+          "desc": "Renowned for physics, alpine and climate research, environmental sciences, sports science, medicine and the humanities."
+        },
+        {
+          "name": "Johannes Kepler University Linz (JKU)",
+          "city": "Linz",
+          "type": "Public University",
+          "desc": "Combines cutting-edge technology, artificial intelligence, software engineering, business and law within an innovation-focused campus."
+        },
+        {
+          "name": "MCI | The Entrepreneurial School",
+          "city": "Innsbruck",
+          "type": "Applied Sciences",
+          "desc": "A practice-oriented institution offering management, entrepreneurship, technology and tourism programmes with direct employer links."
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "id": "programmes",
+      "eyebrow": "Academic pathways",
+      "title": "Programmes and Qualifications in Austria",
+      "intro": "Austrian higher education follows the Bologna three-cycle model with public universities, Fachhochschulen (FH), and medical diplomas.",
+      "columns": [
+        "Qualification",
+        "Duration",
+        "Credits (ECTS)",
+        "Notes & Focus"
+      ],
+      "rows": [
+        [
+          "Bachelor’s degree",
+          "3 years (6 sem)",
+          "180",
+          "Requires recognised Matura equivalent; wide range of German-taught programmes and selective English options."
+        ],
+        [
+          "Master’s degree",
+          "1.5–2 years",
+          "90–120",
+          "The widest choice of English-taught programmes, particularly in technology, business, AI and sciences."
+        ],
+        [
+          "Diploma programmes",
+          "4–6 years",
+          "240–360",
+          "Medicine (MedAT entrance test), Dentistry and Law; integrated single-cycle professional degrees."
+        ],
+        [
+          "Doctorate (PhD)",
+          "3–4 years",
+          "—",
+          "Research-intensive study, often with salaried employment-style contracts at the university or research institutes."
+        ],
+        [
+          "University of Applied Sciences (FH)",
+          "3 yrs (BSc) + 2 yrs (MSc)",
+          "180 + 120",
+          "Practice-oriented study with mandatory industry internships; selective entry with tests or interviews."
+        ],
+        [
+          "Private university programmes",
+          "Varies",
+          "Varies",
+          "Smaller cohorts and high faculty ratio; English-taught programmes with institution-set tuition fees."
+        ]
+      ],
+      "chips_title": "Popular fields of study in Austria",
+      "chips": [
+        "Engineering and Technology",
+        "Business, Economics and Finance",
+        "Computer Science and Artificial Intelligence",
+        "Medicine and Life Sciences",
+        "Natural Sciences",
+        "Architecture and Design",
+        "Music and Performing Arts",
+        "Tourism and Hospitality Management"
+      ]
+    },
+    {
+      "type": "costs",
+      "id": "costs",
+      "eyebrow": "Fees & funding",
+      "title": "Understanding the Investment in Austria",
+      "intro": "A clear view of costs allows you to plan with confidence. Indicative annual ranges in euros:",
+      "chart_title": "Indicative annual investment in Austria",
+      "scale_max": 20000,
+      "rows": [
+        {
+          "label": "Public university tuition, non-EU (per year)",
+          "value": "≈ €1,500",
+          "min": 1500,
+          "max": 1500
+        },
+        {
+          "label": "University of Applied Sciences tuition (per year)",
+          "value": "≈ €730 - €1,450",
+          "min": 730,
+          "max": 1450
+        },
+        {
+          "label": "Living costs (per year)",
+          "value": "€11,400 - €15,600",
+          "min": 11400,
+          "max": 15600
+        },
+        {
+          "label": "Proof of funds for permit (per year, by age)",
+          "value": "€8,670 (under 24) - €15,700 (24+)",
+          "min": 8670,
+          "max": 15700
+        }
+      ],
+      "cards_title": "Scholarships & funding",
+      "cards": [
+        {
+          "title": "OeAD Scholarships",
+          "desc": "Scholarship and mobility programmes administered by Austria’s national agency for international academic exchange."
+        },
+        {
+          "title": "Ernst Mach Grant",
+          "desc": "A monthly funding grant supporting international students and young researchers, particularly at Master’s and PhD level."
+        },
+        {
+          "title": "University Merit Awards & Erasmus",
+          "desc": "Performance bursaries and EU-funded Erasmus Mundus joint Master’s degree grants."
+        }
+      ]
+    },
+    {
+      "type": "steps",
+      "id": "journey",
+      "eyebrow": "Your admission journey",
+      "title": "From Enquiry to Enrolment",
+      "intro": "EUROPA FUSION offers a structured, transparent process so that each stage is handled with care and precision.",
+      "items": [
+        {
+          "title": "Profile evaluation",
+          "desc": "Academic record, career goals, budget and preferred city are reviewed to define a realistic shortlist."
+        },
+        {
+          "title": "Programme & university selection",
+          "desc": "Courses are matched to your profile, with attention to language of instruction, admission procedures and deadlines."
+        },
+        {
+          "title": "Documents & application",
+          "desc": "Transcripts, certificates, language proof, CV, motivation letter and passport are prepared and submitted directly or via portals."
+        },
+        {
+          "title": "Admission assessment",
+          "desc": "Where required, preparation for entrance tests, interviews, or Austrian foundation-course (Vorstudienlehrgang) prerequisites."
+        },
+        {
+          "title": "Offer & credential recognition",
+          "desc": "Admission is confirmed and academic qualifications are evaluated for equivalence by the university."
+        },
+        {
+          "title": "Residence permit for study",
+          "desc": "Preparation of the Austrian Student Residence Permit (Aufenthaltsbewilligung Student) file, including proof of funds and accommodation."
+        },
+        {
+          "title": "Arrival & settling in",
+          "desc": "Enrolment formalities, Meldezettel (address registration), Austrian student insurance, and city orientation."
+        }
+      ]
+    },
+    {
+      "type": "cards",
+      "id": "support",
+      "style": "icon",
+      "columns": 3,
+      "eyebrow": "Why EUROPA FUSION",
+      "title": "Your Partner for the Journey",
+      "intro": "We believe a student’s journey abroad should be guided with the same rigour as the education it leads to.",
+      "items": [
+        {
+          "title": "Admissions Counselling",
+          "desc": "Personalised shortlisting and strategy from first enquiry to offer.",
+          "icon": "compass"
+        },
+        {
+          "title": "Application Excellence",
+          "desc": "Careful preparation of statements of purpose, CVs and supporting documents.",
+          "icon": "file-earmark-text"
+        },
+        {
+          "title": "Scholarship Guidance",
+          "desc": "Support with OeAD, Ernst Mach and university merit scholarship options.",
+          "icon": "award"
+        },
+        {
+          "title": "Residence Permit Support",
+          "desc": "Structured assistance with Austrian student residence permit documentation and financial evidence.",
+          "icon": "passport"
+        },
+        {
+          "title": "Accommodation Support",
+          "desc": "Guidance on student dormitories (OeAD housing) and private apartments in Vienna and Graz.",
+          "icon": "house-door"
+        },
+        {
+          "title": "Pre-Departure & Beyond",
+          "desc": "Briefings before you fly and continued support after you arrive in Austria.",
+          "icon": "airplane"
+        }
+      ],
+      "tone": "dark"
+    },
+    {
+      "type": "faq",
+      "id": "faq",
+      "eyebrow": "FAQ",
+      "title": "Frequently Asked Questions",
+      "intro": "Common questions about studying and settling in Austria.",
+      "items": [
+        {
+          "q": "Can I study in Austria in English?",
+          "a": "Yes. Austria offers a growing number of English-taught Master’s programmes, particularly in technology, business, economics and the sciences. Most Bachelor’s programmes at public universities are taught in German, so the language of instruction must be confirmed for every course."
+        },
+        {
+          "q": "Do I need to know German?",
+          "a": "For German-taught programmes, certified proficiency (such as Goethe-Zertifikat or TestDaF, typically B2 or C1) is required. For English-taught programmes it is not mandatory, but even basic German greatly improves daily life, part-time work and career prospects."
+        },
+        {
+          "q": "How much does it cost to study in Austria?",
+          "a": "Austria offers some of Europe’s most reasonable tuition. Non-EU students at public universities currently pay around €726.72 per semester (≈ €1,453/year) plus a small student union (ÖH) fee. Living costs typically range between €950 and €1,300 per month."
+        },
+        {
+          "q": "When are the intakes and application deadlines?",
+          "a": "The main intake is the winter semester beginning in October, with a smaller summer intake beginning in March. Non-EU applicants face earlier deadlines because the residence permit process runs in parallel, so applications should begin 9 to 12 months in advance."
+        },
+        {
+          "q": "What are the English-language requirements?",
+          "a": "Most English-taught programmes request proof of proficiency such as IELTS (6.0–7.0) or TOEFL (80–100), depending on the university and program."
+        },
+        {
+          "q": "How much money must I show for the residence permit?",
+          "a": "Applicants must demonstrate sufficient funds for their stay. Official figures are approximately €722.58 per month for students under 24 (≈ €8,670/year) and €1,308.39 per month for students aged 24 or over (≈ €15,700/year)."
+        },
+        {
+          "q": "Are scholarships available for international students?",
+          "a": "Yes. Opportunities include OeAD-administered programmes, the Ernst Mach Grant, merit awards from individual universities and selected Erasmus Mundus joint Master’s programmes."
+        },
+        {
+          "q": "Can I work while studying in Austria?",
+          "a": "Non-EU students may work part-time (up to 20 hours per week) subject to an employment permit (Beschäftigungsbewilligung) issued by the AMS."
+        },
+        {
+          "q": "Can I stay in Austria after graduating?",
+          "a": "Graduates of Austrian universities can apply for a 12-month extension of their student residence permit to seek employment, and then transition to the Red-White-Red Card (Rot-Weiß-Rot-Karte)."
+        },
+        {
+          "q": "What documents will I need?",
+          "a": "Typically: passport, academic transcripts and degree certificates (with apostille/legalisation), language-test results, CV, motivation letter, proof of financial means, proof of accommodation and Austrian-compliant health insurance."
+        },
+        {
+          "q": "How does EUROPA FUSION support my application?",
+          "a": "We assist at every stage: profile assessment, university shortlisting, German/English document review, entrance assessment guidance, Aufenthaltsbewilligung permit filing, and accommodation booking."
+        }
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Begin Your Austrian Chapter",
+      "text": "Speak with a EUROPA FUSION counsellor for a personalised university shortlist and a clear roadmap to your offer letter.",
+      "ctas": [
+        {
+          "label": "Book Free Consultation",
+          "action": "counselling"
+        },
+        {
+          "label": "Free Profile Evaluation",
+          "action": "evaluation"
+        }
+      ]
+    }
+  ]
+}

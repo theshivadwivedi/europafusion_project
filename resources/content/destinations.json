@@ -1,0 +1,449 @@
+[
+  {
+    "slug": "germany",
+    "name": "Germany",
+    "code": "de",
+    "is_primary": true,
+    "headline": "Engineering Powerhouse & World-Class Public Education",
+    "tagline": "Study at public and private universities and explore Bachelor’s, Master’s and vocational Ausbildung pathways.",
+    "overview": "Germany is a premier destination for international students looking for strong academic programs, zero or minimal tuition fees at public universities, diverse career-oriented pathways, and the 18-month post-study job seeker visa.",
+    "tuition_range": "€0 - €3,000 / semester (Public Universities)",
+    "living_cost": "€11,208 / year (Blocked Account requirement)",
+    "work_rights": "140 full days or 280 half days / year; 18 months Job Seeker Visa",
+    "popular_study_areas": [
+      "Engineering & Mechatronics",
+      "Computer Science & IT",
+      "Data Science & Artificial Intelligence",
+      "Business & Management",
+      "Mechanical & Automotive Engineering",
+      "Electrical Engineering",
+      "Healthcare & Nursing",
+      "Vocational Education & Ausbildung"
+    ],
+    "highlights": [
+      "Tuition-free or low-cost higher education at world-ranked public universities",
+      "Specialized dMAT assessment guidance for Master’s admissions",
+      "18-month residence permit post-graduation to find professional employment",
+      "Ausbildung (dual vocational training) pathways with paid stipends",
+      "Direct pathway to the EU Blue Card and permanent residency"
+    ],
+    "top_universities": [
+      {
+        "name": "Technical University of Munich (TUM)",
+        "city": "Munich",
+        "rank": "#37 QS World"
+      },
+      {
+        "name": "RWTH Aachen University",
+        "city": "Aachen",
+        "rank": "#106 QS World"
+      },
+      {
+        "name": "Karlsruhe Institute of Technology (KIT)",
+        "city": "Karlsruhe",
+        "rank": "#119 QS World"
+      },
+      {
+        "name": "TU Berlin",
+        "city": "Berlin",
+        "rank": "#154 QS World"
+      },
+      {
+        "name": "University of Stuttgart",
+        "city": "Stuttgart",
+        "rank": "#312 QS World"
+      },
+      {
+        "name": "IU International University of Applied Sciences",
+        "city": "Berlin / Bad Honnef",
+        "rank": "Top Applied Science"
+      }
+    ],
+    "sort_order": 1
+  },
+  {
+    "slug": "austria",
+    "name": "Austria",
+    "code": "at",
+    "is_primary": false,
+    "headline": "High Living Standard in the Heart of Central Europe",
+    "tagline": "Explore higher education opportunities and pathways for international students.",
+    "overview": "Austria offers an exceptional quality of life, Vienna consistently ranking as the world’s most livable city. Public universities offer minimal tuition fees and rigorous research standards in tech and business.",
+    "tuition_range": "€726 - €1,500 / semester (Public Universities)",
+    "living_cost": "€9,000 - €12,000 / year",
+    "work_rights": "20 hrs/week; 12-month post-study Red-White-Red Card job seeker visa",
+    "popular_study_areas": [
+      "Business & Economics",
+      "Management",
+      "Technology & Engineering",
+      "Computer Science",
+      "Applied Sciences"
+    ],
+    "highlights": [
+      "Vienna ranked repeatedly as the #1 most livable city in the world",
+      "Very affordable semester fees for international students",
+      "12-month Red-White-Red Card job seeker visa for graduates",
+      "Strong research ties with Germany and Central European industries"
+    ],
+    "top_universities": [
+      {
+        "name": "University of Vienna",
+        "city": "Vienna",
+        "rank": "#130 QS World"
+      },
+      {
+        "name": "Vienna University of Technology (TU Wien)",
+        "city": "Vienna",
+        "rank": "#179 QS World"
+      },
+      {
+        "name": "Graz University of Technology (TU Graz)",
+        "city": "Graz",
+        "rank": "#269 QS World"
+      }
+    ],
+    "sort_order": 2
+  },
+  {
+    "slug": "italy",
+    "name": "Italy",
+    "code": "it",
+    "is_primary": false,
+    "headline": "Heritage of Innovation, Architecture, Design & Tech",
+    "tagline": "Choose from a wide range of academic programs and universities.",
+    "overview": "Italy boasts the oldest universities in the Western world alongside cutting-edge polytechnics known for automotive design, civil engineering, robotics, and economics, with generous regional DSU scholarships.",
+    "tuition_range": "€1,000 - €4,000 / year (Public Universities)",
+    "living_cost": "€6,000 - €9,000 / year (DSU scholarships can cover full living & fees)",
+    "work_rights": "20 hrs/week; 1-year stay-back permit for Masters/PhD graduates",
+    "popular_study_areas": [
+      "Engineering & Automotive",
+      "Architecture & Urban Planning",
+      "Business & Economics",
+      "Management",
+      "Computer Science",
+      "Industrial Design & Fashion"
+    ],
+    "highlights": [
+      "DSU and regional income-based scholarships covering tuition + stipend",
+      "World-famous polytechnics (Politecnico di Milano & Politecnico di Torino)",
+      "Rich industrial linkages with Ferrari, Lamborghini, Eni, and Luxottica",
+      "Low tuition fee structures for international students"
+    ],
+    "top_universities": [
+      {
+        "name": "Politecnico di Milano",
+        "city": "Milan",
+        "rank": "#111 QS World"
+      },
+      {
+        "name": "Sapienza University of Rome",
+        "city": "Rome",
+        "rank": "#134 QS World"
+      },
+      {
+        "name": "University of Bologna",
+        "city": "Bologna",
+        "rank": "#133 QS World"
+      },
+      {
+        "name": "Politecnico di Torino",
+        "city": "Turin",
+        "rank": "#241 QS World"
+      }
+    ],
+    "sort_order": 3
+  },
+  {
+    "slug": "finland",
+    "name": "Finland",
+    "code": "fi",
+    "is_primary": false,
+    "headline": "World #1 in Education Quality, Clean Tech & AI Innovation",
+    "tagline": "Discover high-tech research universities, generous scholarships, and Nordic innovation.",
+    "overview": "Finland is globally celebrated for world-leading education quality, cutting-edge technology universities, high safety, and a 2-year post-study residence permit for international graduates.",
+    "tuition_range": "€8,000 - €15,000 / year (Scholarships up to 50-100%)",
+    "living_cost": "€700 - €900 / month (~€8,400 - €10,800 / year)",
+    "work_rights": "30 hrs/week during term; 2-year post-study work search visa",
+    "popular_study_areas": [
+      "Computer Science & AI",
+      "Information Technology",
+      "Clean & Renewable Energy",
+      "Business & Management",
+      "Biomedical Engineering",
+      "Data Science & Analytics"
+    ],
+    "highlights": [
+      "Ranked the Happiest Country in the World for 7 consecutive years",
+      "Generous university scholarship waivers covering 20% to 100% of tuition",
+      "2-year post-study residence permit for graduates to seek employment",
+      "Dynamic tech startup and gaming ecosystem (Nokia, Supercell, Slush)"
+    ],
+    "top_universities": [
+      {
+        "name": "Aalto University",
+        "city": "Espoo",
+        "rank": "#109 QS World"
+      },
+      {
+        "name": "University of Helsinki",
+        "city": "Helsinki",
+        "rank": "#115 QS World"
+      },
+      {
+        "name": "LUT University",
+        "city": "Lappeenranta",
+        "rank": "#351 QS World"
+      },
+      {
+        "name": "Tampere University",
+        "city": "Tampere",
+        "rank": "#436 QS World"
+      }
+    ],
+    "sort_order": 4
+  },
+  {
+    "slug": "spain",
+    "name": "Spain",
+    "code": "es",
+    "is_primary": false,
+    "headline": "Dynamic International Campuses & Global Business Excellence",
+    "tagline": "Discover Bachelor’s and Master’s opportunities in an international environment.",
+    "overview": "Spain combines top-ranked European business schools, affordable tuition fees, and rich cultural heritage. Spanish universities offer an increasing number of fully English-taught programs in tech and business.",
+    "tuition_range": "€2,500 - €16,000 / year",
+    "living_cost": "€7,000 - €10,000 / year",
+    "work_rights": "Up to 30 hrs/week with work authorization; 1-year job seeker visa",
+    "popular_study_areas": [
+      "Business Administration",
+      "International Management",
+      "Engineering",
+      "Technology & CS",
+      "Hospitality & Tourism",
+      "Digital Marketing"
+    ],
+    "highlights": [
+      "Affordable living costs relative to Western Europe",
+      "Home to top 10 global business schools (IE, ESADE, IESE)",
+      "Opportunity to learn Spanish, the world’s second most spoken native language",
+      "Vibrant startup ecosystems in Barcelona and Madrid"
+    ],
+    "top_universities": [
+      {
+        "name": "IE University",
+        "city": "Madrid / Segovia",
+        "rank": "Top Global Business"
+      },
+      {
+        "name": "University of Barcelona",
+        "city": "Barcelona",
+        "rank": "#164 QS World"
+      },
+      {
+        "name": "Autonomous University of Madrid",
+        "city": "Madrid",
+        "rank": "#199 QS World"
+      },
+      {
+        "name": "ESADE Business School",
+        "city": "Barcelona",
+        "rank": "Top 20 Worldwide"
+      }
+    ],
+    "sort_order": 5
+  },
+  {
+    "slug": "netherlands",
+    "name": "Netherlands",
+    "code": "nl",
+    "is_primary": false,
+    "headline": "High-Tech Innovation & Continental European Business Hub",
+    "tagline": "Discover internationally recognised programs across technology, business, engineering and other fields.",
+    "overview": "The Netherlands offers the largest range of English-taught programs in mainland Europe. Known for interactive problem-based learning and strong connections to tech and logistics multinational hubs.",
+    "tuition_range": "€8,000 - €18,000 / year",
+    "living_cost": "€10,000 - €14,000 / year",
+    "work_rights": "16 hrs/week during study; 1-year Orientation Year (Zoekjaar) visa",
+    "popular_study_areas": [
+      "Computer Science",
+      "Data Science",
+      "Business Administration",
+      "Engineering",
+      "Artificial Intelligence",
+      "Information Sciences",
+      "Management"
+    ],
+    "highlights": [
+      "Over 2,100 programs taught entirely in English",
+      "1-year Zoekjaar (orientation year) work visa for graduates",
+      "World-leading research universities in science, tech, and agriculture",
+      "Progressive, safe, and multilingual environment"
+    ],
+    "top_universities": [
+      {
+        "name": "Delft University of Technology (TU Delft)",
+        "city": "Delft",
+        "rank": "#47 QS World"
+      },
+      {
+        "name": "University of Amsterdam",
+        "city": "Amsterdam",
+        "rank": "#53 QS World"
+      },
+      {
+        "name": "Eindhoven University of Technology (TU/e)",
+        "city": "Eindhoven",
+        "rank": "#124 QS World"
+      },
+      {
+        "name": "Erasmus University Rotterdam",
+        "city": "Rotterdam",
+        "rank": "Top Business"
+      }
+    ],
+    "sort_order": 6
+  },
+  {
+    "slug": "poland",
+    "name": "Poland",
+    "code": "pl",
+    "is_primary": false,
+    "headline": "High-Quality & Highly Affordable European Education",
+    "tagline": "Explore affordable European education opportunities across multiple disciplines.",
+    "overview": "Poland has emerged as a favorite study destination for budget-conscious international students, offering affordable tuition, reasonable living expenses, and world-class medical, nursing, and IT faculties.",
+    "tuition_range": "€2,000 - €4,500 / year",
+    "living_cost": "€4,500 - €6,500 / year",
+    "work_rights": "Full-time during holidays, 20 hrs/week; 9-month stay-back for work search",
+    "popular_study_areas": [
+      "Nursing & Healthcare",
+      "Engineering & Mechatronics",
+      "Computer Science",
+      "Business & Logistics",
+      "Management",
+      "Applied Technology"
+    ],
+    "highlights": [
+      "One of the most cost-effective study destinations in the European Union",
+      "Direct admission pathways for Nursing & Healthcare degrees",
+      "Rapidly growing tech and IT outsourcing hub in Central Europe",
+      "Schengen mobility throughout 29 European countries"
+    ],
+    "top_universities": [
+      {
+        "name": "University of Warsaw",
+        "city": "Warsaw",
+        "rank": "#262 QS World"
+      },
+      {
+        "name": "Jagiellonian University",
+        "city": "Krakow",
+        "rank": "#304 QS World"
+      },
+      {
+        "name": "Warsaw University of Technology",
+        "city": "Warsaw",
+        "rank": "Top Tech"
+      },
+      {
+        "name": "Wroclaw University of Science & Technology",
+        "city": "Wroclaw",
+        "rank": "Top Engineering"
+      }
+    ],
+    "sort_order": 7
+  },
+  {
+    "slug": "latvia",
+    "name": "Latvia",
+    "code": "lv",
+    "is_primary": false,
+    "headline": "Where Baltic Innovation Meets Academic Value",
+    "tagline": "Earn an internationally recognised European degree in Riga and beyond.",
+    "overview": "Latvia offers international students affordable European degrees, prestigious medicine and engineering universities in Riga, and accessible living costs in the euro area.",
+    "tuition_range": "€2,500 - €6,000 / year (Medicine: €10,000 - €15,000)",
+    "living_cost": "€450 - €700 / month (~€5,400 - €8,400 / year)",
+    "work_rights": "20 hrs/week during term / full-time in holidays; post-study job search options",
+    "popular_study_areas": [
+      "Medicine & Dentistry",
+      "Engineering & Technology",
+      "Information Technology & Data Science",
+      "Business & Finance",
+      "Aviation & Transport Logistics"
+    ],
+    "highlights": [
+      "Accessible tuition and living costs in the euro area",
+      "Renowned English-medium medical faculties (RSU) and engineering (RTU)",
+      "60+ nationalities represented in an international student environment",
+      "Member of EU and Schengen zone with modern digital infrastructure"
+    ],
+    "top_universities": [
+      {
+        "name": "Riga Technical University (RTU)",
+        "city": "Riga",
+        "rank": "#741-750 QS World"
+      },
+      {
+        "name": "University of Latvia",
+        "city": "Riga",
+        "rank": "#801-850 QS World"
+      },
+      {
+        "name": "Rīga Stradiņš University (RSU)",
+        "city": "Riga",
+        "rank": "Top Medical"
+      },
+      {
+        "name": "BA School of Business and Finance",
+        "city": "Riga",
+        "rank": "Top Business"
+      }
+    ],
+    "sort_order": 8
+  },
+  {
+    "slug": "lithuania",
+    "name": "Lithuania",
+    "code": "lt",
+    "is_primary": false,
+    "headline": "Where Baltic Excellence Meets Digital Ambition",
+    "tagline": "Earn a respected European degree in Vilnius, Kaunas and beyond with exceptional value.",
+    "overview": "Lithuania offers international students recognized European qualifications, 500+ English-taught programmes, cutting-edge fintech and IT hubs, and remarkably accessible living costs.",
+    "tuition_range": "€1,500 - €6,000 / year (Medicine: €10,000 - €14,000)",
+    "living_cost": "€500 - €800 / month (~€6,000 - €9,600 / year)",
+    "work_rights": "Up to 40 hrs/week for students with residence permit; 1-year post-study job seeker permit",
+    "popular_study_areas": [
+      "Medicine & Dentistry",
+      "Information Technology & Data Science",
+      "Engineering & Mechatronics",
+      "Business & FinTech",
+      "Pharmacy & Health Sciences"
+    ],
+    "highlights": [
+      "Over 500 English-taught programs across universities & applied sciences",
+      "Students with residence permit can work up to 40 hours per week",
+      "1-year post-study residence permit for eligible graduates",
+      "Leading European fintech, laser technology, and life sciences hub"
+    ],
+    "top_universities": [
+      {
+        "name": "Vilnius University",
+        "city": "Vilnius",
+        "rank": "#439 QS World"
+      },
+      {
+        "name": "Kaunas University of Technology (KTU)",
+        "city": "Kaunas",
+        "rank": "#751-760 QS"
+      },
+      {
+        "name": "Vilnius Gediminas Technical University (VILNIUS TECH)",
+        "city": "Vilnius",
+        "rank": "#801-850 QS"
+      },
+      {
+        "name": "Lithuanian University of Health Sciences (LSMU)",
+        "city": "Kaunas",
+        "rank": "Top Health"
+      }
+    ],
+    "sort_order": 9
+  }
+]

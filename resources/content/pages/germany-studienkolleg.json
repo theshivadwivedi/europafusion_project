@@ -1,0 +1,113 @@
+{
+  "slug": "germany/studienkolleg",
+  "kind": "pathway",
+  "destination": "germany",
+  "title": "Studienkolleg in Germany",
+  "nav_label": "Studienkolleg",
+  "meta_description": "The Studienkolleg bridges the 12-to-13-year schooling gap, prepares you in academic German and leads to the Feststellungsprüfung (FSP) for university admission.",
+  "sections": [
+    {
+      "type": "hero",
+      "eyebrow": "Germany · Foundation year",
+      "title": "Studienkolleg: Your Bridge to German Higher Education",
+      "lead": "German universities expect thirteen years of schooling; Indian students complete twelve. The Studienkolleg bridges this gap, prepares you in academic German, and leads directly to the Feststellungsprüfung (FSP) for university admission."
+    },
+    {
+      "type": "intro",
+      "id": "what-is",
+      "eyebrow": "Academic foundation",
+      "title": "What Is a Studienkolleg?",
+      "paragraphs": [
+        "The <strong>Studienkolleg</strong> is a one-year preparatory institution for international applicants whose secondary-school qualifications do not grant direct access to German higher education. German universities expect <strong>thirteen years of prior schooling</strong>. Indian students normally complete twelve, so the Studienkolleg bridges that gap and leads to the <strong>Feststellungsprüfung (FSP)</strong>, the assessment that confers eligibility for a Bachelor's degree.",
+        "Beyond closing the schooling gap, the programme helps students adjust to the German academic environment, including the language, the teaching style, and the expectations placed on independent learners."
+      ]
+    },
+    {
+      "type": "stats",
+      "items": [
+        { "value": "1 Year", "label": "Duration", "sub": "2 academic semesters" },
+        { "value": "12 → 13 Year", "label": "Bridge", "sub": "Covers 10+2 difference" },
+        { "value": "FSP", "label": "Assessment", "sub": "Bachelor entrance license" }
+      ]
+    },
+    {
+      "type": "table",
+      "id": "courses",
+      "eyebrow": "Admission exam & specialization",
+      "title": "How Admission Works & Course Types",
+      "intro": "Students enter through an admission examination, the Aufnahmeprüfung. Once admitted, they follow a specialized course matched to their intended Bachelor's field of study.",
+      "columns": ["Course", "Focus / Track", "Subject Areas & Bachelor Pathways"],
+      "rows": [
+        ["M-Kurs", "Medical & Biological Focus (Medicine / Pharma)", "Medical, biological, veterinary and pharmaceutical fields<br><strong>Degrees:</strong> Human Medicine, Dentistry, Pharmacy, Veterinary Medicine, Biology, Biochemistry"],
+        ["T-Kurs", "Technical & Engineering Focus (Tech & STEM)", "Mathematics, engineering and the natural sciences<br><strong>Degrees:</strong> Mechanical, Electrical, Civil Engineering, Computer Science, Physics, Chemistry"],
+        ["W-Kurs", "Economics & Business Focus (Business & Econ)", "Economics, business, law and the social sciences<br><strong>Degrees:</strong> Business Administration (BWL), Economics (VWL), Management, Finance, Social Sciences"],
+        ["G-Kurs", "Humanities & German Studies Focus (Humanities)", "Humanities and German studies<br><strong>Degrees:</strong> History, Philosophy, German Philology, Arts, Literature, Cultural Studies"],
+        ["S-Kurs", "Languages & Philosophy Focus (Languages)", "Languages and philosophy<br><strong>Degrees:</strong> Linguistics, Modern Languages, Translation Studies, International Relations"]
+      ],
+      "note": "<strong>Choosing the right course matters:</strong> It strictly determines which Bachelor's programmes you are legally qualified to apply to after passing the FSP."
+    },
+    {
+      "type": "cards",
+      "id": "exemptions",
+      "style": "check",
+      "columns": 3,
+      "eyebrow": "Direct entry alternatives",
+      "title": "Who May Be Exempt?",
+      "intro": "Certain international applicants meet German university qualification criteria without attending a Studienkolleg:",
+      "items": [
+        { "title": "Holders of the International Baccalaureate (IB)", "desc": "Valid IB diploma with required German / Mathematics subject levels" },
+        { "title": "Completed One Year of Undergraduate Study", "desc": "1 successful year at a recognised Indian college/university (H+ rated on Anabin)" },
+        { "title": "Qualified Through JEE Advanced", "desc": "Candidates who cleared the JEE Advanced examination with qualifying ranks" }
+      ]
+    },
+    {
+      "type": "intro",
+      "id": "advice",
+      "eyebrow": "Expert guidance",
+      "title": "Our Advice from Experience",
+      "paragraphs": [
+        "“Even if you are technically eligible for an exemption, Amratpal advises against skipping the course. The year builds academic communication, independent organisation and presentation skills, all of which make the transition to a rigorous German university far smoother.”"
+      ],
+      "cta": { "label": "Evaluate Exemption vs Studienkolleg", "action": "evaluation" }
+    },
+    {
+      "type": "cards",
+      "id": "campuses",
+      "style": "plain",
+      "columns": 3,
+      "eyebrow": "Campus types",
+      "title": "Where Are Studienkollegs Located?",
+      "intro": "Each institution type has its own application process, fees, and intake schedule, so it is worth comparing options early.",
+      "items": [
+        { "title": "Technical Universities (TU / Uni)", "badge": "Universitätskollegs", "desc": "University-affiliated Studienkollegs focusing deeply on theoretical rigor, leading to research universities nationwide." },
+        { "title": "Universities of Applied Sciences (Fachhochschulen / HAW)", "badge": "FH-Kollegs", "desc": "Practice-oriented preparatory tracks tied directly to hands-on engineering, business, and industry-partnered degrees." },
+        { "title": "Private Institutes", "badge": "Private Kollegs", "desc": "Independent accredited institutes offering structured tuition-based pathways, personalized entrance coaching, and flexible intakes." }
+      ]
+    },
+    {
+      "type": "faq",
+      "id": "faq",
+      "eyebrow": "Clear answers",
+      "title": "Frequently Asked Questions (FAQ)",
+      "intro": "Everything you need to know about the 1-year bridge, the FSP examination, and course selection.",
+      "items": [
+        { "q": "Why do Indian students need a Studienkolleg?", "a": "German universities require thirteen years of schooling. Indian students typically complete twelve (10+2 system), so the Studienkolleg covers the missing year and prepares them academically for higher education in Germany." },
+        { "q": "What is the Feststellungsprüfung (FSP)?", "a": "The FSP (university qualification assessment exam) is the final assessment at the end of the Studienkolleg. Passing it confers official eligibility to apply for a Bachelor's degree across German universities." },
+        { "q": "What is the Aufnahmeprüfung?", "a": "The Aufnahmeprüfung is the competitive admission examination you must pass to enter the Studienkolleg. It usually assesses your German proficiency (B1/B2) and basic mathematics or subject fundamentals." },
+        { "q": "How long is the programme?", "a": "The Studienkolleg programme lasts one year (comprising 2 full academic semesters)." },
+        { "q": "How do I choose between the M, T, W, G and S courses?", "a": "Match the course to your intended Bachelor's subject. For example, choose the T-Kurs for engineering and STEM, the W-Kurs for business and economics, the M-Kurs for medicine or pharmacy, G-Kurs for humanities, and S-Kurs for languages." },
+        { "q": "Can I skip the Studienkolleg?", "a": "Some applicants may be exempt, including IB diploma holders, students who completed 1 year of undergraduate study at a recognised Indian university, and JEE Advanced qualifiers. Even so, Amratpal and our expert team advise attending, as the foundation builds vital academic language and communication skills that help you succeed at university." },
+        { "q": "Where can I study at a Studienkolleg?", "a": "Studienkollegs are attached to technical universities (TU), universities of applied sciences (Fachhochschulen), and private institutes across Germany." },
+        { "q": "Does passing the FSP guarantee a place at a university?", "a": "Passing the FSP confers formal legal eligibility for Bachelor's study in Germany, but admission remains competitive for Numerus Clausus (NC) programmes. You must still apply to universities and meet their individual grade and cut-off requirements." }
+      ]
+    },
+    {
+      "type": "cta",
+      "eyebrow": "Need guidance?",
+      "title": "Planning your route to Germany?",
+      "text": "Planning your route to Germany can feel complicated, from choosing the right course (M, T, W, G, S) to preparing for the Aufnahmeprüfung. Reach out to our team for personalised support at every step.",
+      "ctas": [{ "label": "Call me back", "action": "counselling" }],
+      "note": "We call within 10 minutes, 8 am to 8 pm IST, Monday to Saturday."
+    }
+  ]
+}

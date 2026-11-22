@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 460 400" role="img" aria-label="Speech bubbles in several languages around a globe">
+<rect x="20" y="20" width="420" height="360" rx="24" fill="#f1f4f9"/>
+<circle cx="230" cy="220" r="86" fill="#dfe8fb" stroke="#15294d" stroke-width="4"/><ellipse cx="230" cy="220" rx="36" ry="86" fill="none" stroke="#15294d" stroke-width="2" opacity=".4"/>
+<path d="M144 220h172M156 176h148M156 264h148" stroke="#15294d" stroke-width="2" opacity=".3"/>
+<path d="M196 170c14-10 34-6 38 6s-8 16-2 26 20 8 18 20-22 12-32 4-8-18-20-22-16-24-2-34z" fill="#9db4ea"/>
+<g font-family="Manrope, sans-serif" font-weight="800" text-anchor="middle">
+<rect x="48" y="70" width="104" height="54" rx="14" fill="#15294d"/><path d="M82 124l-6 16 20-16z" fill="#15294d"/><text x="100" y="105" font-size="20" fill="#fff">Hello</text>
+<rect x="300" y="62" width="112" height="54" rx="14" fill="#e2a72e"/><path d="M380 116l8 16-22-16z" fill="#e2a72e"/><text x="356" y="97" font-size="20" fill="#15294d">Hallo</text>
+<rect x="44" y="276" width="104" height="50" rx="14" fill="#fff" stroke="#15294d" stroke-width="3"/><text x="96" y="309" font-size="18" fill="#15294d">IELTS</text>
+<rect x="318" y="282" width="100" height="50" rx="14" fill="#2b59d1"/><text x="368" y="314" font-size="18" fill="#fff">TOEFL</text></g></svg>

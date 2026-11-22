@@ -1,0 +1,123 @@
+{
+  "slug": "germany/master",
+  "kind": "pathway",
+  "destination": "germany",
+  "title": "Master's in Germany",
+  "nav_label": "Master",
+  "meta_description": "1,800+ English-taught Master's programmes in Germany. One clear path to your visa, mapped step by step: dMAT, APS, shortlist, apply, visa, fly.",
+  "sections": [
+    {
+      "type": "hero",
+      "title": "Your Master's in Germany, mapped step by step.",
+      "highlight": "mapped step by step.",
+      "lead": "1,800+ English-taught programmes. One clear path to your visa.",
+      "chips": ["dMAT", "APS", "Shortlist", "Apply", "Visa", "Fly"]
+    },
+    {
+      "type": "stats",
+      "items": [
+        { "value": "1,800+", "label": "English-Taught Master’s", "sub": "Zero German language required for admission" },
+        { "value": "€0 Tuition", "label": "Top Public Universities", "sub": "TUM, RWTH Aachen, KIT, TU Berlin & more" },
+        { "value": "18 Months", "label": "Post-Study Work Visa", "sub": "Clear route to the EU Blue Card & PR" },
+        { "value": "88 / 100", "label": "Public University Success", "sub": "Verified admission rate for mentored applicants" }
+      ]
+    },
+    {
+      "type": "steps",
+      "id": "journey",
+      "eyebrow": "The journey",
+      "title": "Your Master's, step by step, with us beside you",
+      "items": [
+        { "title": "dMAT", "desc": "Free mocks and eligibility check" },
+        { "title": "APS", "desc": "Document checklist and timeline" },
+        { "title": "Shortlist", "desc": "Match from 1,800+ programmes" },
+        { "title": "Apply", "desc": "SOP, LOR and uni-assist help" },
+        { "title": "Visa", "desc": "Blocked account and visa file" },
+        { "title": "Fly", "desc": "Arrival checklist" }
+      ]
+    },
+    {
+      "type": "cards",
+      "id": "mock-tests",
+      "style": "plain",
+      "columns": 3,
+      "eyebrow": "Free exam prep",
+      "title": "Free mock tests for dMAT, German and IELTS",
+      "intro": "Timed mocks, practice and AI marking in your free dashboard.",
+      "note": "Free with an account. AI marking up to 3 per skill per day.",
+      "items": [
+        {
+          "title": "dMAT",
+          "tags": ["6 full mocks", "119 questions each"],
+          "points": ["Timed like the real test", "Instant scores and review", "Free 2-question sample, no account"],
+          "cta": { "label": "Start dMAT practice", "action": "evaluation" }
+        },
+        {
+          "title": "German",
+          "tags": ["8 mocks", "A1 to B2"],
+          "points": ["Goethe and telc formats", "Listening, reading, writing", "AI feedback on writing"],
+          "cta": { "label": "Start German practice", "action": "counselling" }
+        },
+        {
+          "title": "IELTS Academic",
+          "tags": ["6 full mocks", "Speaking practice"],
+          "points": ["Computer-based format", "Writing and speaking marked by AI", "Band score estimate"],
+          "cta": { "label": "Start IELTS practice", "action": "evaluation" }
+        }
+      ]
+    },
+    {
+      "type": "testimonials",
+      "id": "success-stories",
+      "eyebrow": "Verified success stories",
+      "title": "Real Students. Real Public University Admits.",
+      "intro": "5,000+ students guided to tuition-free technical universities and prestigious institutes across Germany.",
+      "tone": "dark",
+      "cta": { "label": "Get Your Profile Evaluated", "action": "evaluation" },
+      "items": [
+        { "name": "Technical University of Munich (TUM)", "meta": "Tuition-Free Public", "university": "Technical University of Munich (TUM)", "program": "M.Sc. Informatics / Computer Science" },
+        { "name": "RWTH Aachen University", "meta": "Tuition-Free Public", "university": "RWTH Aachen University", "program": "M.Sc. Automotive Engineering" },
+        { "name": "Karlsruhe Institute of Technology (KIT)", "meta": "Tuition-Free Public", "university": "Karlsruhe Institute of Technology (KIT)", "program": "M.Sc. Electrical Engineering & IT" },
+        { "name": "TU Berlin", "meta": "Tuition-Free Public", "university": "TU Berlin", "program": "M.Sc. Data Engineering" },
+        { "name": "University of Stuttgart", "meta": "Tuition-Free Public", "university": "University of Stuttgart", "program": "M.Sc. Mechanical Engineering" },
+        { "name": "FAU Erlangen-Nürnberg", "meta": "Tuition-Free Public", "university": "FAU Erlangen-Nürnberg", "program": "M.Sc. Artificial Intelligence" }
+      ]
+    },
+    {
+      "type": "cards",
+      "id": "why",
+      "style": "icon",
+      "columns": 2,
+      "eyebrow": "Trusted specialization",
+      "title": "Why Students Choose EUROPA FUSION",
+      "intro": "Specialized engineering and master’s admissions guidance with complete transparency.",
+      "items": [
+        { "title": "Public Universities Focus", "badge": "88 of 100", "meta": "Admitted to Tuition-Free Public Campuses", "desc": "We prioritize world-ranked TU9 & state universities where you pay €0 tuition instead of costly private commission models.", "icon": "bank" },
+        { "title": "Specialized dMAT & APS Support", "badge": "100%", "meta": "Fast-Track File Processing", "desc": "Master the mandatory dMAT test format with dedicated mock exams and error-free APS document certification verification.", "icon": "clipboard-check" },
+        { "title": "Curriculum Credit-Matching", "badge": "0 Rejections", "meta": "Due to Missing ECTS Prerequisites", "desc": "We map your syllabus credit-by-credit to ensure strict alignment with German university faculties before submitting fees.", "icon": "journal-check" },
+        { "title": "Dedicated Senior Counselors", "badge": "1-on-1", "meta": "Named Expert Mentorship", "desc": "No anonymous call centers. You work directly with specialists who have guided over 5,000+ admits to Germany.", "icon": "person-check" }
+      ]
+    },
+    {
+      "type": "faq",
+      "id": "faq",
+      "eyebrow": "Got questions?",
+      "title": "Questions Students Ask",
+      "items": [
+        { "q": "Are German public universities really tuition-free for international Master’s students?", "a": "Yes! In 15 out of 16 German federal states, public universities charge €0 tuition fees to both EU and international students. You only pay a nominal semester contribution (€150–€350) which typically includes unlimited regional public transit (Semesterticket)." },
+        { "q": "Can I study a Master’s in Germany completely in English?", "a": "Absolutely. Germany offers more than 1,800 Master’s programs taught 100% in English, particularly in Computer Science, AI, Mechanical, Electrical Engineering, Biotechnology, and Business Management. No German language certificate is required for admission to these programs." },
+        { "q": "Do I need the dMAT for my Master’s application?", "a": "The dMAT (Digital Masters Admission Test) is required or strongly recommended by leading German universities (such as RWTH Aachen, TUM) and forms part of the APS pathway for Indian applicants in specific STEM disciplines. Our team evaluates your syllabus and provides full mock preparation." },
+        { "q": "What is the minimum CGPA required for a Master’s in Germany?", "a": "German universities use the Bavarian formula. A CGPA of 7.0–7.5+ (equivalent to 2.5 or better on the German 1.0–4.0 scale) is competitive for numerous public universities, while top TU9 programs typically look for 8.0+ along with strong credit matching in core subject modules." },
+        { "q": "How does the 18-month post-study work visa and EU Blue Card work?", "a": "Upon graduation from a German university, international students receive an 18-month Job Seeker Visa to find qualified employment. Once you secure a position meeting minimum threshold criteria, you can immediately transition to the EU Blue Card and achieve permanent residency in as little as 21 to 27 months." },
+        { "q": "How does EUROPA FUSION help with the entire application journey?", "a": "We provide end-to-end guidance: academic credit-matching, profile evaluation, university shortlisting, SOP & academic CV drafting, Uni-Assist / direct portal applications, dMAT preparation, APS filing, blocked account setup, and visa appointment guidance." }
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Ready to start?",
+      "text": "Talk to a counsellor about your Master's, from shortlist to visa.",
+      "ctas": [{ "label": "Call me back", "action": "counselling" }],
+      "note": "We call within 10 minutes, 8 am to 8 pm IST, Monday to Saturday."
+    }
+  ]
+}

@@ -1,0 +1,721 @@
+{
+  "slug": "study-in-netherlands",
+  "kind": "country",
+  "destination": "netherlands",
+  "title": "Study in the Netherlands",
+  "nav_label": "Netherlands",
+  "meta_description": "Research-led learning, English-taught degrees and a year to launch your career. Begin your Dutch degree with EUROPA FUSION.",
+  "sections": [
+    {
+      "type": "hero",
+      "eyebrow": "Study in the Netherlands",
+      "title": "Dutch Design, Global Horizons",
+      "highlight": "Global Horizons",
+      "tagline": "Research-led learning • English-taught degrees • A year to launch your career",
+      "chips": [
+        "EUROPA FUSION",
+        "Abroad Education Consultants"
+      ],
+      "ctas": [
+        {
+          "label": "Get Free Evaluation",
+          "action": "evaluation"
+        }
+      ]
+    },
+    {
+      "type": "intro",
+      "title": "Dutch Design, Global Horizons: Your Degree in the Netherlands",
+      "paragraphs": [
+        "The Netherlands has long been a meeting-place of ideas: a small, maritime nation whose universities have shaped science, law, trade and design for four centuries. Today it combines that intellectual heritage with a modern, internationally minded education system, in which problem-based learning, small-group teaching and close ties with industry are the norm rather than the exception.",
+        "Begin with a complimentary profile evaluation at EUROPA FUSION"
+      ],
+      "cta": {
+        "label": "Get Free Evaluation",
+        "action": "evaluation"
+      }
+    },
+    {
+      "type": "stats",
+      "items": [
+        {
+          "value": "8",
+          "label": "Dutch universities in the QS World top 200 (2026)"
+        },
+        {
+          "value": "12 mo",
+          "label": "Orientation Year to search for work"
+        },
+        {
+          "value": "16 hrs",
+          "label": "Weekly work allowance during term-time"
+        },
+        {
+          "value": "€1,131",
+          "label": "IND monthly funds norm (2026, excl. tuition)"
+        }
+      ]
+    },
+    {
+      "type": "cards",
+      "id": "why",
+      "style": "numbered",
+      "columns": 4,
+      "eyebrow": "Distinguishing advantages",
+      "title": "Why the Netherlands?",
+      "intro": "Eight considerations explain why the Netherlands consistently ranks among the most sought-after destinations for Indian postgraduates and undergraduates alike.",
+      "items": [
+        {
+          "title": "Ranked worldwide",
+          "desc": "Eight universities in the QS top 200"
+        },
+        {
+          "title": "English-taught",
+          "desc": "A very wide range of degrees in English"
+        },
+        {
+          "title": "Career runway",
+          "desc": "12-month Orientation Year after graduation"
+        },
+        {
+          "title": "Innovation economy",
+          "desc": "Tech, logistics, agri-food, life sciences"
+        },
+        {
+          "title": "Quality of life",
+          "desc": "Safe, cycling-first, work-life balance"
+        },
+        {
+          "title": "Funding",
+          "desc": "NL Scholarship and institutional awards"
+        },
+        {
+          "title": "Heart of Europe",
+          "desc": "Schengen travel on your doorstep"
+        },
+        {
+          "title": "Open society",
+          "desc": "Diverse, international, English-friendly"
+        }
+      ],
+      "note": "Each is a matter of substance rather than marketing. Dutch universities are publicly funded and externally accredited; teaching is interactive and expects independent thought; and the national habit of directness and equality tends to put international students at ease quickly."
+    },
+    {
+      "type": "intro",
+      "eyebrow": "Binary education system",
+      "title": "How Dutch Higher Education Is Organised",
+      "paragraphs": [
+        "Dutch higher education is binary. Research universities (WO) emphasise academic theory and research; universities of applied sciences (HBO) emphasise professional practice and typically embed internships. Both award internationally recognised degrees, and a growing number of programmes at each level are taught entirely in English."
+      ]
+    },
+    {
+      "type": "split",
+      "title": "Two routes through Dutch higher education",
+      "columns": [
+        {
+          "badge": "WO",
+          "title": "Research universities",
+          "points": [
+            "Bachelor’s: 3 years • BSc / BA theory and research",
+            "Master’s: 1–2 years • MSc / MA specialisation",
+            "PhD: 4 years • salaried research position"
+          ]
+        },
+        {
+          "badge": "HBO",
+          "title": "Universities of applied sciences",
+          "points": [
+            "Bachelor’s: 4 years • professional practice and internships",
+            "Master’s: 1–2 years • applied and professional focus"
+          ]
+        }
+      ],
+      "note": "60 ECTS credits represent one full academic year of study."
+    },
+    {
+      "type": "notice",
+      "text": "Teaching is organised in short blocks, with a strong emphasis on tutorials, group projects and continuous assessment. Because progress is monitored, with the university reporting study results to the immigration authority, applicants should choose a programme they can sustain, not merely the most prestigious one available."
+    },
+    {
+      "type": "universities",
+      "id": "universities",
+      "eyebrow": "Global rankings",
+      "title": "Leading Universities",
+      "intro": "The following research universities are among the most popular with international applicants. Rankings are drawn from the QS World University Rankings 2026 and are given for orientation only.",
+      "items": [
+        {
+          "name": "Delft University of Technology",
+          "city": "Delft",
+          "rank": "#47",
+          "desc": "Engineering, architecture, applied sciences, computer science"
+        },
+        {
+          "name": "University of Amsterdam",
+          "city": "Amsterdam",
+          "rank": "#53",
+          "desc": "Business, economics, law, social sciences, humanities"
+        },
+        {
+          "name": "Utrecht University",
+          "city": "Utrecht",
+          "rank": "#103",
+          "desc": "Life sciences, geosciences, psychology, law"
+        },
+        {
+          "name": "Leiden University",
+          "city": "Leiden",
+          "rank": "#119",
+          "desc": "Law, international relations, humanities, biomedical sciences"
+        },
+        {
+          "name": "Erasmus University Rotterdam",
+          "city": "Rotterdam",
+          "rank": "#140",
+          "desc": "Management, economics, finance, health policy"
+        },
+        {
+          "name": "University of Groningen",
+          "city": "Groningen",
+          "rank": "#147",
+          "desc": "Broad research university; strong in physics, arts and medicine"
+        },
+        {
+          "name": "Wageningen University & Research",
+          "city": "Wageningen",
+          "rank": "#153",
+          "desc": "Agri-food, environment and life sciences"
+        },
+        {
+          "name": "Vrije Universiteit Amsterdam",
+          "city": "Amsterdam",
+          "rank": "#194",
+          "desc": "Sciences, business, humanities, interdisciplinary programmes"
+        },
+        {
+          "name": "University of Twente",
+          "city": "Enschede",
+          "rank": "#203",
+          "desc": "Engineering, technology, entrepreneurship"
+        },
+        {
+          "name": "Maastricht University",
+          "city": "Maastricht",
+          "rank": "#239",
+          "desc": "Problem-based learning, business, European studies"
+        }
+      ],
+      "note": "Applicants seeking a more vocational route should also consider the universities of applied sciences, such as Hanze, Fontys, Saxion and Inholland, which offer English-taught Bachelor’s degrees in business, engineering, information technology, hospitality, design and the creative industries."
+    },
+    {
+      "type": "table",
+      "id": "fields",
+      "eyebrow": "Industry alignment",
+      "title": "Fields of Study in Demand",
+      "columns": [
+        "Discipline",
+        "Representative programmes"
+      ],
+      "rows": [
+        [
+          "Engineering and technology",
+          "Civil, mechanical, electrical and sustainable energy engineering; robotics; water management"
+        ],
+        [
+          "Computing and data",
+          "Computer science, artificial intelligence, data science, cybersecurity, software engineering"
+        ],
+        [
+          "Business and finance",
+          "International business, finance, marketing, supply-chain and logistics, analytics"
+        ],
+        [
+          "Life sciences and agriculture",
+          "Biotechnology, biomedical sciences, food technology, environmental sciences"
+        ],
+        [
+          "Social sciences and law",
+          "Psychology, sociology, international law, public policy, international relations"
+        ],
+        [
+          "Design and creative industries",
+          "Architecture, game design, urban planning, media and communication"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "id": "admission",
+      "eyebrow": "Academic standards",
+      "title": "Admission Requirements",
+      "intro": "Entry standards are set by each programme, and competitive courses may require more than the minimum. In general:",
+      "columns": [
+        "Level",
+        "Academic requirements",
+        "Additional considerations"
+      ],
+      "rows": [
+        [
+          "Bachelor’s",
+          "Secondary-school certificate recognised as equivalent to Dutch pre-university education; good grades (broadly a B average); motivation letter; references where requested",
+          "Some programmes apply selection or a numerus fixus quota, with an earlier deadline of 15 January."
+        ],
+        [
+          "Master’s",
+          "A relevant Bachelor’s degree; a strong academic record (competitive courses often look for the equivalent of about 7.5 out of 10); CV, motivation letter and references",
+          "Business and management courses may ask for GMAT or GRE scores; others may ask for a portfolio or writing sample."
+        ]
+      ]
+    },
+    {
+      "type": "cards",
+      "style": "plain",
+      "columns": 2,
+      "items": [
+        {
+          "title": "English-Language Proficiency",
+          "desc": "English-taught programmes require evidence of proficiency. Typical thresholds are an <strong>IELTS Academic score of 6.0 to 7.0 overall</strong> or a <strong>TOEFL iBT score of 80 to 100</strong>, with higher scores for competitive programmes and minimum sub-scores in writing. Dutch is not required for English-taught degrees.",
+          "icon": "translate"
+        }
+      ]
+    },
+    {
+      "type": "timeline",
+      "id": "intakes",
+      "eyebrow": "Timelines & deadlines",
+      "title": "Intakes and Deadlines",
+      "intro": "Most programmes begin in September, with a smaller number admitting students in February. Applicants from outside the EU/EEA are generally expected to apply earlier than EU applicants, to allow time for the residence permit; deadlines of 1 April to 1 May are common, although some institutions close earlier.",
+      "items": [
+        {
+          "label": "Jan",
+          "title": "15 January",
+          "desc": "15 January: numerus fixus programmes"
+        },
+        {
+          "label": "Nov–May",
+          "title": "Studielink and university applications",
+          "desc": "Studielink and university applications (non-EU: typically by 1 April–1 May)"
+        },
+        {
+          "label": "Nov–May",
+          "title": "Scholarship applications",
+          "desc": "Scholarship applications (institutional deadlines vary, Feb–May)"
+        },
+        {
+          "label": "Apr–Jul",
+          "title": "Admission, fees, proof of funds",
+          "desc": "Admission, fees, proof of funds"
+        },
+        {
+          "label": "May–Aug",
+          "title": "Residence permit processing",
+          "desc": "Residence permit processing"
+        },
+        {
+          "label": "Aug–Sep",
+          "title": "Arrive and settle",
+          "desc": "Arrive and settle"
+        }
+      ],
+      "note": "Admission calendar for a September start"
+    },
+    {
+      "type": "steps",
+      "id": "process",
+      "eyebrow": "Step-by-step process",
+      "title": "From First Enquiry to Your First Lecture",
+      "intro": "Applications to Dutch universities are made through Studielink, the national platform, followed by each university’s own portal for supporting documents.",
+      "items": [
+        {
+          "title": "Shortlist",
+          "tag": "Programmes and universities",
+          "desc": "Define your goals and shortlist programmes that fit your academic profile and career objectives."
+        },
+        {
+          "title": "Studielink",
+          "tag": "Register and apply (up to four choices)",
+          "desc": "Register on Studielink and submit your applications. You may apply for up to four programmes, with a lower limit for numerus fixus courses."
+        },
+        {
+          "title": "Portal",
+          "tag": "Upload documents; sit any tests",
+          "desc": "Complete the institution’s portal: transcripts, certificates, language scores, motivation letter, CV, and any entrance assessment."
+        },
+        {
+          "title": "Admission",
+          "tag": "Conditional or unconditional offer",
+          "desc": "Receive a decision. An offer may be conditional on final results or test scores; keep certified copies of all documents."
+        },
+        {
+          "title": "Funds",
+          "tag": "Tuition and proof of means",
+          "desc": "Confirm your place, pay any deposit or tuition fee, and assemble proof of the funds required for the permit."
+        },
+        {
+          "title": "Permit",
+          "tag": "University files MVV and VVR",
+          "desc": "The university, as recognised sponsor, applies on your behalf for the entry visa (MVV) and residence permit (VVR)."
+        },
+        {
+          "title": "Travel",
+          "tag": "Collect MVV, book flight, find a room",
+          "desc": "Collect your MVV, arrange travel, secure accommodation and take out health insurance."
+        },
+        {
+          "title": "Settle",
+          "tag": "Collect VVR, register, BSN",
+          "desc": "On arrival, collect your residence card, register with the municipality, obtain your citizen service number (BSN) and open a bank account."
+        }
+      ]
+    },
+    {
+      "type": "cards",
+      "id": "visa",
+      "style": "icon",
+      "columns": 3,
+      "eyebrow": "Immigration & entry",
+      "title": "Visa and Residence Permit",
+      "intro": "Indian students require two permissions for a full degree. The <strong>MVV</strong> is the provisional entry visa, collected from the Dutch representation before travel; the <strong>VVR</strong> is the residence permit, collected in the Netherlands after arrival. Because the university files both, the applicant’s principal task is to document eligibility accurately.",
+      "items": [
+        {
+          "title": "Admission confirmation",
+          "desc": "An official offer of admission from a recognised Dutch sponsor institution.",
+          "icon": "patch-check"
+        },
+        {
+          "title": "Sufficient means (IND norm)",
+          "desc": "The IND study norm for 2026 is €1,130.77 per month (excluding tuition), demonstrated in addition to the fee.",
+          "icon": "cash-stack"
+        },
+        {
+          "title": "Valid passport",
+          "desc": "Valid for the intended period of study with adequate blank pages.",
+          "icon": "passport"
+        },
+        {
+          "title": "Health insurance",
+          "desc": "Adequate cover for the full stay; students who work require Dutch basic healthcare (Basisverzekering).",
+          "icon": "heart-pulse"
+        },
+        {
+          "title": "Screening and civil documents",
+          "desc": "TB screening (where applicable) and civil documents such as legalised birth certificates.",
+          "icon": "file-earmark-text"
+        }
+      ],
+      "note": "<strong>Study progress matters:</strong> The permit is linked to your enrolment. Universities typically expect students to earn at least 50% of the credits for the academic year, and report outcomes directly to the IND. Planning a realistic workload, especially if you work part-time, protects your status."
+    },
+    {
+      "type": "table",
+      "id": "tuition",
+      "eyebrow": "Financial overview",
+      "title": "The Cost of Studying",
+      "intro": "Tuition Fees",
+      "columns": [
+        "Category",
+        "Annual fee",
+        "Remarks"
+      ],
+      "rows": [
+        [
+          "EU/EEA students (statutory fee)",
+          "€2,694 (2026–27)",
+          "Set nationally; identical across institutions"
+        ],
+        [
+          "Non-EU/EEA Bachelor’s",
+          "From about €9,000 to €24,000",
+          "Varies by institution and field"
+        ],
+        [
+          "Non-EU/EEA Master’s",
+          "From about €10,000 to €30,000",
+          "Higher for MBA and specialised programmes"
+        ],
+        [
+          "Doctoral candidates",
+          "Generally no tuition",
+          "Usually salaried as employees of the university"
+        ]
+      ]
+    },
+    {
+      "type": "costs",
+      "id": "living",
+      "title": "Living Costs",
+      "intro": "Housing is the principal variable. Amsterdam, Utrecht and Leiden are the most expensive cities; Groningen, Enschede, Tilburg and Wageningen are markedly cheaper.",
+      "chart_title": "Indicative monthly living costs (€)",
+      "scale_max": 1600,
+      "rows": [
+        {
+          "label": "Accommodation",
+          "value": "€400 – 900",
+          "min": 400,
+          "max": 900
+        },
+        {
+          "label": "Food and groceries",
+          "value": "€200 – 350",
+          "min": 200,
+          "max": 350
+        },
+        {
+          "label": "Transport",
+          "value": "€50 – 120",
+          "min": 50,
+          "max": 120
+        },
+        {
+          "label": "Health insurance",
+          "value": "€50 – 120",
+          "min": 50,
+          "max": 120
+        },
+        {
+          "label": "Books and leisure",
+          "value": "€150 – 300",
+          "min": 150,
+          "max": 300
+        },
+        {
+          "label": "Typical total",
+          "value": "€1,000 – 1,500",
+          "min": 1000,
+          "max": 1500
+        },
+        {
+          "label": "IND 2026 study norm",
+          "value": "€1,131",
+          "min": 1131,
+          "max": 1131
+        }
+      ]
+    },
+    {
+      "type": "cards",
+      "style": "plain",
+      "columns": 3,
+      "items": [
+        {
+          "title": "Housing",
+          "desc": "Student rooms and shared flats are in short supply, so apply as soon as you are admitted; most universities offer assistance.",
+          "icon": "house-door"
+        },
+        {
+          "title": "Transport",
+          "desc": "A bicycle (€40–150 second-hand) is the national student vehicle; public transport is efficient but costly without a discount.",
+          "icon": "bicycle"
+        },
+        {
+          "title": "Meals",
+          "desc": "Cooking at home keeps groceries to roughly €120–250/mo; eating out costs €8–16 per meal.",
+          "icon": "cash-coin"
+        }
+      ]
+    },
+    {
+      "type": "cards",
+      "id": "scholarships",
+      "style": "icon",
+      "columns": 2,
+      "eyebrow": "Financial awards",
+      "title": "Scholarships and Funding",
+      "items": [
+        {
+          "title": "NL Scholarship (formerly Holland Scholarship)",
+          "desc": "One-time grant of €5,000 for non-EEA students at participating institutions",
+          "meta": "How to apply: Applied for through the university; deadlines usually fall between February and May",
+          "icon": "award"
+        },
+        {
+          "title": "Institutional awards",
+          "desc": "Merit-based awards such as Amsterdam Excellence, Maastricht NL-High Potential and TU Delft scholarships; some cover substantial fees",
+          "meta": "How to apply: Competitive; check each university’s page",
+          "icon": "trophy"
+        },
+        {
+          "title": "Erasmus Mundus Joint Masters",
+          "desc": "EU-funded awards covering tuition and a living allowance for selected consortium programmes",
+          "meta": "How to apply: Apply directly to the programme",
+          "icon": "globe-europe-africa"
+        },
+        {
+          "title": "Orange Tulip Scholarship",
+          "desc": "Country-specific awards, administered by Nuffic’s overseas offices",
+          "meta": "How to apply: Availability has varied by country; confirm current status for India",
+          "icon": "stars"
+        }
+      ],
+      "note": "Education loans from Indian public-sector and private banks, as well as international lenders, are widely used to meet the balance. A well-prepared sponsor profile and early documentation materially improve the loan process, and EUROPA FUSION’s counsellors assist families with both."
+    },
+    {
+      "type": "cards",
+      "id": "work",
+      "style": "icon",
+      "columns": 2,
+      "eyebrow": "Employment & residence",
+      "title": "Working and Building a Career",
+      "items": [
+        {
+          "title": "During Your Studies",
+          "desc": "Non-EU students may work for <strong>up to 16 hours a week</strong> throughout the year, or full-time in June, July and August, but not both. In either case, the employer must obtain a work permit before the student begins. Internships that form part of the curriculum do not require the same permit.",
+          "icon": "briefcase"
+        },
+        {
+          "title": "After Graduation (Zoekjaar)",
+          "desc": "Graduates may apply for the <strong>Orientation Year (zoekjaar)</strong> permit within three years of graduating. It lasts <strong>12 months</strong>, allows free employment without a separate work permit, and facilitates transition to a highly skilled migrant permit with lower salary thresholds.",
+          "icon": "mortarboard"
+        }
+      ]
+    },
+    {
+      "type": "steps",
+      "title": "From student permit to long-term career",
+      "items": [
+        {
+          "title": "Student permit",
+          "desc": "VVR for the length of your degree"
+        },
+        {
+          "title": "Orientation Year",
+          "desc": "12 months to work or seek employment"
+        },
+        {
+          "title": "Skilled worker permit",
+          "desc": "Highly skilled migrant or other work permit"
+        },
+        {
+          "title": "Long-term residence",
+          "desc": "After qualifying years of residence"
+        }
+      ],
+      "note": "Apply for the Orientation Year within three years of graduating; years spent on a study permit generally do not count towards long-term residence."
+    },
+    {
+      "type": "notice",
+      "text": "Employers in engineering, information technology, logistics, finance and life sciences recruit actively among international graduates, and starting salaries of roughly €2,200 to €3,200 a month are commonly cited for graduate roles. Proficiency in Dutch, while not essential, widens the field considerably."
+    },
+    {
+      "type": "cards",
+      "id": "support",
+      "style": "icon",
+      "columns": 3,
+      "tone": "dark",
+      "eyebrow": "Our commitment",
+      "title": "How EUROPA FUSION Supports You",
+      "intro": "EUROPA FUSION accompanies applicants from the first conversation to the day of arrival, with a single counsellor guiding each stage.",
+      "items": [
+        {
+          "title": "Profile evaluation",
+          "desc": "and programme shortlist",
+          "icon": "compass"
+        },
+        {
+          "title": "Applications",
+          "desc": "Studielink and portals",
+          "icon": "file-earmark-text"
+        },
+        {
+          "title": "SOP, LOR and CV",
+          "desc": "tailored, never templated",
+          "icon": "pencil-square"
+        },
+        {
+          "title": "Scholarships",
+          "desc": "and education loans",
+          "icon": "award"
+        },
+        {
+          "title": "Visa readiness",
+          "desc": "documents and mock interview",
+          "icon": "passport"
+        },
+        {
+          "title": "Travel and housing",
+          "desc": "flights, rooms, arrival",
+          "icon": "airplane"
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "columns": [
+        "Service",
+        "What it involves"
+      ],
+      "rows": [
+        [
+          "Profile evaluation and shortlisting",
+          "An honest assessment of your academic record, goals and budget, followed by a balanced list of programmes and institutions"
+        ],
+        [
+          "Applications and documents",
+          "Preparation of Studielink and portal applications, together with a personalised statement of purpose, references and CV"
+        ],
+        [
+          "Scholarships and finance",
+          "Guidance on scholarships, sponsor documentation and education-loan applications"
+        ],
+        [
+          "Visa preparation",
+          "Review of the funds and documents required for the MVV and VVR, and a mock interview where relevant"
+        ],
+        [
+          "Travel and settlement",
+          "Support with flights, accommodation, insurance and a pre-departure briefing"
+        ]
+      ]
+    },
+    {
+      "type": "faq",
+      "id": "faq",
+      "eyebrow": "Questions & answers",
+      "title": "Frequently Asked Questions",
+      "items": [
+        {
+          "q": "Do I need a GMAT or GRE score?",
+          "a": "Not for every programme. Many Master’s courses do not ask for one, but some business, economics and quantitative programmes do. Always check the programme page."
+        },
+        {
+          "q": "Are gap years or backlogs a barrier?",
+          "a": "Not necessarily. A gap can be explained in a motivation letter, and backlogs are assessed by the individual programme. A strong narrative and recent achievement carry weight."
+        },
+        {
+          "q": "Is a Dutch degree recognised in India?",
+          "a": "Dutch research universities and universities of applied sciences are accredited, and their degrees are widely recognised internationally. Applicants who intend to return should check any profession-specific requirements."
+        },
+        {
+          "q": "Can I change programme after I arrive?",
+          "a": "Switching is possible within some institutions but may affect your residence permit and study-progress record, so seek guidance from the university first."
+        },
+        {
+          "q": "Can my spouse or family join me?",
+          "a": "Family members may apply for their own permits, subject to the IND’s conditions and income requirements. Please discuss your circumstances with a counsellor before applying."
+        },
+        {
+          "q": "When should I begin looking for accommodation?",
+          "a": "As early as possible, ideally as soon as you receive your offer. Housing is the most common difficulty for new international students."
+        },
+        {
+          "q": "Will I need to learn Dutch?",
+          "a": "Not for English-taught degrees. Basic Dutch, however, helps with daily life, part-time work and later career prospects."
+        },
+        {
+          "q": "How long does the whole process take?",
+          "a": "Allow six to nine months from first enquiry to arrival, since applications, scholarships, permit processing and housing run in sequence."
+        }
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Your Dutch chapter begins here",
+      "text": "Speak to our counsellor for a personalised assessment of your profile, a university shortlist, scholarship options and a visa plan. The first consultation is complimentary.",
+      "ctas": [
+        {
+          "label": "APPLY NOW — FREE COUNSELLING",
+          "action": "counselling"
+        }
+      ],
+      "note": "<strong>Note:</strong> Fees, funds thresholds, deadlines, and immigration rules are revised periodically. Figures are indicative and should be verified with the Immigration and Naturalisation Service (ind.nl), Nuffic (studyinnl.org) and the chosen institution before applying."
+    }
+  ]
+}

@@ -1,0 +1,408 @@
+{
+  "slug": "study-in-lithuania",
+  "kind": "country",
+  "destination": "lithuania",
+  "title": "Study in Lithuania",
+  "nav_label": "Lithuania",
+  "meta_description": "Earn a respected European degree in Vilnius, Kaunas and beyond, with EUROPA FUSION guiding every step of your journey.",
+  "sections": [
+    {
+      "type": "hero",
+      "eyebrow": "Study in Lithuania",
+      "title": "Where Baltic Excellence Meets Digital Ambition",
+      "highlight": "Digital Ambition",
+      "lead": "Earn a respected European degree in Vilnius, Kaunas and beyond, with EUROPA FUSION guiding every step of your journey.",
+      "ctas": [
+        {
+          "label": "Free Profile Evaluation",
+          "action": "evaluation"
+        },
+        {
+          "label": "Book Consultation",
+          "action": "counselling"
+        }
+      ]
+    },
+    {
+      "type": "stats",
+      "items": [
+        {
+          "value": "€500–800",
+          "label": "Monthly living costs",
+          "sub": "Most accessible in the euro area"
+        },
+        {
+          "value": "40 hrs",
+          "label": "Weekly work permitted",
+          "sub": "With student residence permit"
+        },
+        {
+          "value": "500+",
+          "label": "English-taught programmes",
+          "sub": "Across top universities & UAS"
+        },
+        {
+          "value": "1 year",
+          "label": "Post-study residence permit",
+          "sub": "Stay back to seek work"
+        }
+      ]
+    },
+    {
+      "type": "cards",
+      "id": "why",
+      "style": "icon",
+      "columns": 3,
+      "eyebrow": "Why Lithuania",
+      "title": "A Forward-Looking European Education at Exceptional Value",
+      "intro": "Lithuania offers international students a compelling combination of recognised European qualifications, modern teaching and a remarkably accessible cost of study set within a safe, digitally advanced Baltic environment.",
+      "items": [
+        {
+          "title": "Europe-wide recognition",
+          "desc": "Degrees follow the European Higher Education Area framework, supporting smooth recognition and mobility across Europe.",
+          "icon": "patch-check"
+        },
+        {
+          "title": "Exceptional affordability",
+          "desc": "Tuition and living costs are among the most reasonable in the euro area, allowing students to invest in their education with confidence.",
+          "icon": "piggy-bank"
+        },
+        {
+          "title": "Innovation-driven strengths",
+          "desc": "Lithuania is distinguished in information technology, fintech, life sciences, engineering, business, and health sciences.",
+          "icon": "cpu"
+        },
+        {
+          "title": "Practical career pathways",
+          "desc": "Students holding a residence permit may work up to 40 hours alongside studies, and eligible graduates can remain to seek employment.",
+          "icon": "briefcase"
+        },
+        {
+          "title": "A European gateway",
+          "desc": "As a member of the EU and Schengen Area, Lithuania places all of Europe within easy reach for study, travel, and international careers.",
+          "icon": "globe-europe-africa"
+        }
+      ]
+    },
+    {
+      "type": "universities",
+      "id": "universities",
+      "eyebrow": "Featured universities",
+      "title": "Distinguished Institutions in Lithuania",
+      "intro": "The following institutions represent key destinations available to EUROPA FUSION students.",
+      "items": [
+        {
+          "name": "Vilnius University",
+          "city": "Vilnius",
+          "type": "Public University",
+          "desc": "Lithuania’s leading comprehensive research university, distinguished in humanities, law, natural sciences, medicine and social sciences."
+        },
+        {
+          "name": "Kaunas University of Technology",
+          "city": "Kaunas",
+          "type": "Technical University",
+          "desc": "A major Baltic centre for engineering, information technology, design and business, with a strongly international student body."
+        },
+        {
+          "name": "Vilnius Gediminas Technical University",
+          "city": "Vilnius",
+          "type": "Technical University",
+          "desc": "Known for engineering, architecture, construction, transport and technology, with close ties to European industry."
+        },
+        {
+          "name": "Vytautas Magnus University",
+          "city": "Kaunas",
+          "type": "Public University",
+          "desc": "A liberal-arts-oriented university recognised for social sciences, humanities, informatics, arts and education."
+        },
+        {
+          "name": "Lithuanian University of Health Sciences",
+          "city": "Kaunas",
+          "type": "Medical University",
+          "desc": "A specialist institution offering English-taught programmes in medicine, dentistry, pharmacy, veterinary and health sciences."
+        },
+        {
+          "name": "ISM University of Management and Economics",
+          "city": "Vilnius & Kaunas",
+          "type": "Business University",
+          "desc": "An internationally oriented institution focused on business, economics, data management, finance and entrepreneurship."
+        },
+        {
+          "name": "Mykolas Romeris University",
+          "city": "Vilnius",
+          "type": "Public University",
+          "desc": "Specialising in law, public governance, security, cybersecurity, social sciences and international communication."
+        },
+        {
+          "name": "Vilnius University of Applied Sciences",
+          "city": "Vilnius",
+          "type": "Applied Sciences",
+          "desc": "A practice-oriented institution offering career-focused programmes in business, technology, healthcare and creative fields."
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "id": "programmes",
+      "eyebrow": "Academic pathways",
+      "title": "Programmes and Qualifications",
+      "intro": "Lithuanian higher education follows the European three-cycle model giving a portable route from undergraduate to doctoral study.",
+      "columns": [
+        "Qualification",
+        "Duration",
+        "Credits (ECTS)",
+        "Notes & Focus"
+      ],
+      "rows": [
+        [
+          "Bachelor’s degree",
+          "3.5–4 years",
+          "210–240",
+          "Direct university admission; wide selection of English-taught courses in business, IT, engineering and social sciences."
+        ],
+        [
+          "Professional Bachelor’s (UAS)",
+          "3–3.5 years",
+          "180–210",
+          "Practice-oriented degree delivered by colleges and universities of applied sciences, including paid company placements."
+        ],
+        [
+          "Master’s degree",
+          "1.5–2 years",
+          "90–120",
+          "English-taught options across management, tech, data science and health; requires a relevant Bachelor’s degree."
+        ],
+        [
+          "Integrated programmes",
+          "5–6 years",
+          "300–360",
+          "Medicine, Dentistry, Pharmacy and Law; direct path from high school to professional practice."
+        ],
+        [
+          "Doctoral studies (PhD)",
+          "4 years",
+          "—",
+          "Research-focused study within university doctoral schools, often with state-funded stipends."
+        ],
+        [
+          "Foundation & preparatory",
+          "Up to 1 year",
+          "—",
+          "Optional English language and scientific subject preparation offered by selected institutions."
+        ]
+      ],
+      "chips_title": "Popular fields of study in Lithuania",
+      "chips": [
+        "Medicine & Dentistry",
+        "Engineering & Technology",
+        "Information Technology & Data Science",
+        "Business, Management & FinTech",
+        "Law & Public Governance",
+        "Pharmacy & Health Sciences",
+        "Design & Creative Industries",
+        "Social Sciences & Humanities"
+      ]
+    },
+    {
+      "type": "costs",
+      "id": "costs",
+      "eyebrow": "Fees & funding",
+      "title": "Understanding the Investment in Lithuania",
+      "intro": "A clear view of costs allows you to plan with confidence. Indicative annual ranges in euros:",
+      "chart_title": "Indicative annual investment in Lithuania",
+      "scale_max": 17500,
+      "rows": [
+        {
+          "label": "Tuition, non-medical programmes (per year)",
+          "value": "≈ €1,500 - €6,000",
+          "min": 1500,
+          "max": 6000
+        },
+        {
+          "label": "Tuition, medicine and dentistry (per year)",
+          "value": "≈ €10,000 - €14,000",
+          "min": 10000,
+          "max": 14000
+        },
+        {
+          "label": "Living costs (per year)",
+          "value": "≈ €6,000 - €9,600",
+          "min": 6000,
+          "max": 9600
+        },
+        {
+          "label": "Typical visa funds benchmark (per year)",
+          "value": "≈ €7,500",
+          "min": 7500,
+          "max": 7500
+        }
+      ],
+      "cards_title": "Scholarships & funding",
+      "cards": [
+        {
+          "title": "National Scholarships",
+          "desc": "Offered to international students through Lithuanian national education exchanges and bilateral agreements."
+        },
+        {
+          "title": "Erasmus+ & Mobility",
+          "desc": "EU-funded mobility and semester exchange grants across Schengen partner universities."
+        },
+        {
+          "title": "University Merit Awards",
+          "desc": "Full or partial tuition fee reductions and performance stipends directly from individual universities."
+        }
+      ]
+    },
+    {
+      "type": "steps",
+      "id": "journey",
+      "eyebrow": "Your admission journey",
+      "title": "From Enquiry to Enrolment",
+      "intro": "EUROPA FUSION offers a structured, transparent process so that each stage is handled with care and precision.",
+      "items": [
+        {
+          "title": "Profile evaluation",
+          "desc": "Academic record, career goals, budget and preferred programme are reviewed to define a realistic shortlist."
+        },
+        {
+          "title": "Programme & university selection",
+          "desc": "Courses are matched to your profile, with attention to language of instruction, entry requirements and deadlines."
+        },
+        {
+          "title": "Online application",
+          "desc": "Transcripts, certificates, language proof, CV, motivation letter and passport are prepared and submitted through the university portal."
+        },
+        {
+          "title": "Entrance assessment",
+          "desc": "Where required, structured preparation for entrance tests or interviews, particularly for medicine and health programmes."
+        },
+        {
+          "title": "Offer acceptance & tuition payment",
+          "desc": "Acceptance of your official offer within stated deadlines, followed by payment of the first-year tuition invoice."
+        },
+        {
+          "title": "Residence permit or visa application",
+          "desc": "Preparation of the temporary residence permit (TRP) or national D-visa file, including proof of funds, accommodation and health insurance."
+        },
+        {
+          "title": "Arrival & registration",
+          "desc": "Registration of your place of residence shortly after arrival, completion of permit formalities, accommodation and university orientation."
+        }
+      ]
+    },
+    {
+      "type": "cards",
+      "id": "support",
+      "style": "icon",
+      "columns": 3,
+      "eyebrow": "Why EUROPA FUSION",
+      "title": "Your Partner for the Journey",
+      "intro": "We believe a student’s journey abroad should be guided with the same rigour as the education it leads to.",
+      "items": [
+        {
+          "title": "Admissions Counselling",
+          "desc": "Personalised shortlisting and strategy from first enquiry to offer.",
+          "icon": "compass"
+        },
+        {
+          "title": "Application Excellence",
+          "desc": "Careful preparation of statements of purpose, CVs and academic credentials.",
+          "icon": "file-earmark-text"
+        },
+        {
+          "title": "Scholarship Guidance",
+          "desc": "Support with State, Erasmus+ and university merit awards.",
+          "icon": "award"
+        },
+        {
+          "title": "Visa & TRP Support",
+          "desc": "Structured assistance with Lithuanian migration requirements and proof of funds.",
+          "icon": "passport"
+        },
+        {
+          "title": "Accommodation Support",
+          "desc": "Guidance on university dormitories and private housing in Vilnius and Kaunas.",
+          "icon": "house-door"
+        },
+        {
+          "title": "Pre-Departure & Beyond",
+          "desc": "Briefings before you fly and continued support after you arrive in Lithuania.",
+          "icon": "airplane"
+        }
+      ],
+      "tone": "dark"
+    },
+    {
+      "type": "faq",
+      "id": "faq",
+      "eyebrow": "FAQ",
+      "title": "Frequently Asked Questions",
+      "intro": "Common questions about studying and settling in Lithuania.",
+      "items": [
+        {
+          "q": "Can I study in Lithuania entirely in English?",
+          "a": "Yes. Lithuanian universities and colleges offer more than 500 English-taught programmes at Bachelor’s, Master’s and doctoral level, including medicine, engineering, business, IT and the social sciences."
+        },
+        {
+          "q": "Do I need to speak Lithuanian?",
+          "a": "It is not required for English-taught programmes, though basic Lithuanian is helpful in daily life and when seeking part-time work. Universities commonly offer free or low-cost introductory language courses."
+        },
+        {
+          "q": "How much does it cost to study in Lithuania?",
+          "a": "Lithuania is one of Europe’s most affordable study destinations. Tuition for English-taught programmes at public universities typically ranges from about €1,500 to €6,000 per year, while medicine and dentistry range from €10,000 to €14,000. Monthly living costs commonly range from €500 to €800."
+        },
+        {
+          "q": "When are the intakes and deadlines?",
+          "a": "The main intake begins in September, with a smaller intake in February at some institutions. International application deadlines often fall between April and June, and non-EU applicants should apply early to allow time for permit processing."
+        },
+        {
+          "q": "Do I need to take an entrance examination?",
+          "a": "Many programmes assess applicants on academic record, motivation letter and English proficiency. Medicine and certain health and creative programmes require entrance examinations or interviews."
+        },
+        {
+          "q": "Which English-language tests are accepted?",
+          "a": "Universities usually accept IELTS (typically 5.5-6.5), TOEFL, or equivalent tests. Some institutions conduct their own online interview or internal assessment."
+        },
+        {
+          "q": "How much money must I show for the permit?",
+          "a": "Applicants must demonstrate sufficient funds for their stay. Many universities and Lithuanian migration authorities expect proof of around €7,500 for the first year, often alongside payment of the first tuition invoice."
+        },
+        {
+          "q": "Can I work while studying in Lithuania?",
+          "a": "Yes! Non-EU students holding a temporary residence permit for study in Lithuania may work up to 40 hours per week during their studies."
+        },
+        {
+          "q": "Can I remain in Lithuania after graduating?",
+          "a": "Eligible graduates of Lithuanian universities may apply for a temporary residence permit to seek employment or start a business, valid for up to 12 months, and then easily transition to an EU Blue Card or work permit."
+        },
+        {
+          "q": "Are scholarships available for international students?",
+          "a": "Yes. Options include Lithuanian state scholarships, Erasmus+ mobility grants, and tuition fee waivers or merit discounts offered directly by individual universities."
+        },
+        {
+          "q": "What are accommodation options?",
+          "a": "Most universities offer on-campus student dormitories (typically €100–€250/month), which are the most economical option, alongside shared private apartments in Vilnius and Kaunas (€250–€450/month)."
+        },
+        {
+          "q": "How does EUROPA FUSION support my application?",
+          "a": "We assist at every stage: profile assessment, university shortlisting, SOP & CV editing, document legalization/apostille guidance, entrance prep, visa file verification, accommodation search, and pre-departure briefings."
+        }
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Begin Your Lithuanian Chapter",
+      "text": "Speak with a EUROPA FUSION counsellor for a personalised university shortlist and a clear roadmap to your offer letter.",
+      "ctas": [
+        {
+          "label": "Book Free Consultation",
+          "action": "counselling"
+        },
+        {
+          "label": "Free Profile Evaluation",
+          "action": "evaluation"
+        }
+      ]
+    }
+  ]
+}

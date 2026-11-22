@@ -1,0 +1,26 @@
+[
+    {
+        "slug": "privacy-policy",
+        "title": "Privacy Policy",
+        "meta_description": "Privacy Policy of EUROPA FUSION PRIVATE LIMITED – how we handle your information, our services and your rights.",
+        "last_updated": "2026-01-01"
+    },
+    {
+        "slug": "terms-conditions",
+        "title": "Terms & Conditions",
+        "meta_description": "Terms & Conditions of EUROPA FUSION PRIVATE LIMITED – how we handle your information, our services and your rights.",
+        "last_updated": "2026-01-01"
+    },
+    {
+        "slug": "disclaimer",
+        "title": "Legal Disclaimer",
+        "meta_description": "Legal Disclaimer of EUROPA FUSION PRIVATE LIMITED – how we handle your information, our services and your rights.",
+        "last_updated": "2026-01-01"
+    },
+    {
+        "slug": "refund-policy",
+        "title": "Refund Policy",
+        "meta_description": "Refund Policy of EUROPA FUSION PRIVATE LIMITED – how we handle your information, our services and your rights.",
+        "last_updated": "2026-01-01"
+    }
+]

@@ -1,0 +1,192 @@
+{
+  "benefits": [
+    {
+      "number": "01",
+      "title": "Expert Guidance",
+      "desc": "Receive personalised guidance and exceptional training by our experienced faculty to ensure you achieve the best scores possible.",
+      "icon": "person-workspace"
+    },
+    {
+      "number": "02",
+      "title": "Exclusive Study Materials",
+      "desc": "Access meticulously curated study materials, designed to cover every aspect of the test for admission in international universities.",
+      "icon": "journal-richtext"
+    },
+    {
+      "number": "03",
+      "title": "Performance Tracking",
+      "desc": "Track and analyse your progress with numerous mock tests, tutorials and make-up classes to attain your target score.",
+      "icon": "graph-up-arrow"
+    },
+    {
+      "number": "04",
+      "title": "Personalised Strategies",
+      "desc": "Our coaching uses a unique mentoring model with a personal trainer ensuring individualised attention through innovative teaching methodology.",
+      "icon": "bullseye"
+    },
+    {
+      "number": "05",
+      "title": "Timed to Your Application",
+      "desc": "Test dates are planned backwards from deadlines, leaving room for a considered retake if necessary.",
+      "icon": "calendar-check"
+    }
+  ],
+  "exams": [
+    {
+      "code": "IELTS",
+      "name": "IELTS",
+      "full_name": "International English Language Testing System",
+      "description": "Available in Academic and General Training forms, with the Speaking assessment conducted as a face-to-face interview. Widely accepted globally.",
+      "category": "language",
+      "tags": [],
+      "icon": "headphones",
+      "sort_order": 1
+    },
+    {
+      "code": "TOEFL iBT",
+      "name": "TOEFL iBT",
+      "full_name": "Test of English as a Foreign Language",
+      "description": "A computer-based examination testing academic English. Heavily favoured by North American institutions.",
+      "category": "language",
+      "tags": [],
+      "icon": "display",
+      "sort_order": 2
+    },
+    {
+      "code": "PTE Academic",
+      "name": "PTE Academic",
+      "full_name": "Pearson Test of English",
+      "description": "A fully computer-marked assessment known for the rapid return of results and objective scoring of spoken English.",
+      "category": "language",
+      "tags": [],
+      "icon": "file-earmark-text",
+      "sort_order": 3
+    },
+    {
+      "code": "Duolingo English Test",
+      "name": "Duolingo English Test",
+      "full_name": "",
+      "description": "An adaptive, home-administered test increasingly accepted as a flexible alternative to traditional centre-based examinations.",
+      "category": "language",
+      "tags": [],
+      "icon": "globe2",
+      "sort_order": 4
+    },
+    {
+      "code": "CAEL",
+      "name": "CAEL",
+      "full_name": "Canadian Academic English Language",
+      "description": "Designed specifically for entry to Canadian institutions, evaluating language use in academic contexts.",
+      "category": "language",
+      "tags": [],
+      "icon": "vector-pen",
+      "sort_order": 5
+    },
+    {
+      "code": "CELPIP",
+      "name": "CELPIP",
+      "full_name": "Canadian English Language Proficiency Index Program",
+      "description": "For immigration and professional certification in Canada, assessing functional English for everyday situations.",
+      "category": "language",
+      "tags": [],
+      "icon": "patch-check",
+      "sort_order": 6
+    },
+    {
+      "code": "GRE",
+      "name": "GRE",
+      "full_name": "Graduate Record Examinations",
+      "description": "Required for many graduate programmes, assessing verbal reasoning, quantitative reasoning, and analytical writing.",
+      "category": "standardized",
+      "tags": [
+        "Verbal",
+        "Quantitative",
+        "Writing"
+      ],
+      "icon": "calculator",
+      "sort_order": 7
+    },
+    {
+      "code": "GMAT",
+      "name": "GMAT",
+      "full_name": "Graduate Management Admission Test",
+      "description": "The standard assessment for MBA and other postgraduate business programmes, evaluating analytical and problem-solving abilities.",
+      "category": "standardized",
+      "tags": [
+        "MBA",
+        "Analytical",
+        "Problem-Solving"
+      ],
+      "icon": "briefcase",
+      "sort_order": 8
+    },
+    {
+      "code": "dMAT",
+      "name": "dMAT",
+      "full_name": "Digital Master Assessment Test",
+      "description": "Specialised assessment preparation tailored for German university entrance requirements for Master's programmes.",
+      "category": "standardized",
+      "tags": [
+        "Germany",
+        "Master's",
+        "Digital"
+      ],
+      "icon": "mortarboard",
+      "sort_order": 9
+    },
+    {
+      "code": "SAT",
+      "name": "SAT",
+      "full_name": "Scholastic Assessment Test",
+      "description": "A multiple-choice test used widely for undergraduate admissions in the United States and other countries.",
+      "category": "standardized",
+      "tags": [
+        "Undergraduate",
+        "US Admissions"
+      ],
+      "icon": "pencil",
+      "sort_order": 10
+    },
+    {
+      "code": "ACT",
+      "name": "ACT",
+      "full_name": "American College Testing",
+      "description": "An alternative to the SAT, covering English, mathematics, reading, and science, with an optional writing section.",
+      "category": "standardized",
+      "tags": [
+        "Science",
+        "English",
+        "Math"
+      ],
+      "icon": "journal-check",
+      "sort_order": 11
+    }
+  ],
+  "faqs": [
+    {
+      "group": "exam-prep",
+      "question": "How long does preparation usually take?",
+      "answer": "Preparation timelines vary by student and examination, but typically range from 4 to 12 weeks of focused study. After an initial diagnostic, we create a personalised timeline that works backwards from your application deadlines."
+    },
+    {
+      "group": "exam-prep",
+      "question": "Do I need to take both the IELTS and TOEFL?",
+      "answer": "No. Most institutions will accept either. We advise taking a diagnostic test to determine which format better suits your strengths. We then help you focus entirely on one examination to maximise your score."
+    },
+    {
+      "group": "exam-prep",
+      "question": "When should I start preparing?",
+      "answer": "We recommend beginning preparation at least 3 to 6 months before your application deadlines to allow time for thorough preparation and a retake if necessary."
+    },
+    {
+      "group": "exam-prep",
+      "question": "Are materials provided?",
+      "answer": "Yes, all necessary study materials, including proprietary practice tests, diagnostic tools, and comprehensive e-books are included in our preparation programmes."
+    },
+    {
+      "group": "exam-prep",
+      "question": "What is your approach to test preparation?",
+      "answer": "Each student begins with an assessment under examination conditions. The result — not a fixed syllabus — determines the course of study. We focus on the specific areas where you need improvement."
+    }
+  ]
+}

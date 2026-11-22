@@ -1,0 +1,173 @@
+// ---------------------------------------------------------------------------
+// Shared components: buttons, cards, chips, forms, modal, page hero
+// ---------------------------------------------------------------------------
+
+// Buttons -----------------------------------------------------------------
+.btn { display: inline-flex; align-items: center; justify-content: center; gap: .5rem; letter-spacing: .005em; transition: transform .15s ease, background-color .2s, border-color .2s, color .2s, box-shadow .2s; }
+.btn:active { transform: translateY(1px); }
+.btn .bi-arrow-right { transition: transform .2s; }
+.btn:hover .bi-arrow-right { transform: translateX(3px); }
+.btn-primary { --bs-btn-hover-bg: #{$ink}; --bs-btn-hover-border-color: #{$ink}; box-shadow: 0 8px 18px -10px rgba($navy, .8); }
+.btn-gold {
+  --bs-btn-color: #{$ink}; --bs-btn-bg: #{$gold}; --bs-btn-border-color: #{$gold};
+  --bs-btn-hover-color: #{$ink}; --bs-btn-hover-bg: #{lighten($gold, 6%)}; --bs-btn-hover-border-color: #{lighten($gold, 6%)};
+  --bs-btn-active-bg: #{$gold-600}; --bs-btn-active-border-color: #{$gold-600}; --bs-btn-active-color: #{$ink};
+  box-shadow: 0 10px 22px -12px rgba($gold-600, .9);
+}
+.btn-ghost-light {
+  --bs-btn-color: #fff; --bs-btn-border-color: rgba(255, 255, 255, .35); --bs-btn-hover-bg: rgba(255, 255, 255, .1);
+  --bs-btn-hover-border-color: rgba(255, 255, 255, .6); --bs-btn-hover-color: #fff; --bs-btn-active-bg: rgba(255, 255, 255, .15); --bs-btn-active-color: #fff;
+}
+.btn-outline-primary { --bs-btn-border-color: #{rgba($navy, .25)}; border-width: 1.5px; background: #fff; }
+.btn-whatsapp { --bs-btn-bg: #{$whatsapp}; --bs-btn-border-color: #{$whatsapp}; --bs-btn-color: #fff; --bs-btn-hover-bg: #1fb658; --bs-btn-hover-border-color: #1fb658; --bs-btn-hover-color: #fff; }
+.link-arrow {
+  display: inline-flex; align-items: center; gap: .4rem; font-weight: 700; color: $navy; text-decoration: none !important; font-size: .92rem;
+  .bi { transition: transform .2s; color: $gold-600; }
+  &:hover { color: $royal; .bi { transform: translateX(3px); } }
+  &.on-dark { color: #fff; .bi { color: $gold; } }
+}
+.btn-reset { background: none; border: 0; padding: 0; }
+
+// Chips & pills ----------------------------------------------------------------
+.chip {
+  display: inline-flex; align-items: center; gap: .4rem; font-size: .8rem; font-weight: 650; color: $navy; background: $mist;
+  border: 1px solid $line; border-radius: 999px; padding: .32rem .8rem; line-height: 1.3;
+  &.is-gold { background: $gold-soft; border-color: rgba($gold, .35); color: darken($gold-600, 12%); }
+  &.is-dark { background: rgba(#fff, .08); border-color: rgba(#fff, .14); color: #fff; }
+}
+.chip-list { display: flex; flex-wrap: wrap; gap: .5rem; list-style: none; padding: 0; margin: 0; }
+.badge-soft { display: inline-block; font-size: .68rem; font-weight: 800; letter-spacing: .1em; text-transform: uppercase; padding: .3rem .6rem; border-radius: .4rem; background: $sky; color: $navy; }
+
+// Cards -------------------------------------------------------------------------
+.ef-card {
+  position: relative; height: 100%; background: #fff; border: 1px solid $line; border-radius: 1.1rem; padding: 1.75rem;
+  transition: border-color .25s, box-shadow .25s, transform .25s;
+  h3 { font-family: $font-sans; font-size: 1.08rem; font-weight: 800; letter-spacing: -.005em; margin-bottom: .55rem; color: $ink; }
+  p { font-size: .93rem; margin-bottom: 0; }
+  &.is-hoverable:hover { border-color: rgba($navy, .3); box-shadow: $box-shadow; transform: translateY(-3px); }
+}
+.icon-tile {
+  width: 48px; height: 48px; border-radius: .8rem; display: grid; place-items: center; font-size: 1.3rem; color: $navy; flex: none;
+  background: linear-gradient(145deg, $sky, lighten($sky, 4%)); margin-bottom: 1.1rem;
+  &.is-gold { background: $gold-soft; color: $gold-600; }
+  &.is-dark { background: rgba(#fff, .08); color: $gold; }
+}
+.num-tile {
+  font-family: $font-display; font-size: 2.1rem; font-weight: 500; font-style: italic; color: $gold-600; line-height: 1; margin-bottom: 1rem;
+  font-variation-settings: 'opsz' 144;
+}
+
+// Page hero (inner pages) --------------------------------------------------------
+.page-hero {
+  position: relative; overflow: hidden; background: $ink; color: rgba(#fff, .78);
+  padding-block: clamp(3.5rem, 7vw, 5.5rem) clamp(3.5rem, 7vw, 5.25rem);
+  h1 { color: #fff; font-size: clamp(2.25rem, 4.6vw, 3.6rem); line-height: 1.08; margin-bottom: 1.1rem; max-width: 18ch; }
+  .lead-text { color: rgba(#fff, .76); max-width: 40rem; }
+  .eyebrow { color: $gold; &::before { background: $gold; } }
+  .container { position: relative; z-index: 1; }
+  .hero-art { position: absolute; right: 0; bottom: 0; height: 100%; max-width: 50%; opacity: .95; pointer-events: none; }
+  &.is-light { background: $paper; color: $text; h1 { color: $ink; } .lead-text { color: $text; } .eyebrow { color: $royal; } }
+}
+.hero-orbit { position: absolute; width: 340px; height: 340px; right: 6%; top: 50%; transform: translateY(-50%); opacity: .22; pointer-events: none; }
+@include media-breakpoint-down(lg) { .hero-orbit { width: 220px; height: 220px; right: -40px; top: 2rem; transform: none; opacity: .14; } }
+.breadcrumb-ef { display: flex; flex-wrap: wrap; gap: .4rem; list-style: none; padding: 0; margin: 0 0 1.5rem; font-size: .8rem; color: rgba(#fff, .55);
+  a { color: rgba(#fff, .75); &:hover { color: #fff; } }
+  li + li::before { content: '/'; margin-right: .4rem; opacity: .5; }
+  .is-light & { color: $muted; a { color: $navy; } }
+}
+.hero-facts { display: flex; flex-wrap: wrap; gap: 1.5rem 2.5rem; margin-top: 2.25rem; padding-top: 1.75rem; border-top: 1px solid rgba(#fff, .12);
+  strong { display: block; font-family: $font-display; font-size: 1.8rem; color: #fff; font-weight: 500; line-height: 1.1; }
+  span { font-size: .78rem; text-transform: uppercase; letter-spacing: .1em; color: rgba(#fff, .55); font-weight: 700; }
+}
+
+// Forms --------------------------------------------------------------------------
+.form-control, .form-select { background-color: #fff; font-size: .95rem; }
+.form-control.is-invalid, .form-select.is-invalid { background-image: none; padding-right: $input-padding-x; }
+.invalid-feedback { font-weight: 600; font-size: .8rem; }
+.form-hint { font-size: .78rem; color: $muted; }
+.req { color: $danger; }
+.hp-field { position: absolute !important; left: -10000px !important; width: 1px; height: 1px; overflow: hidden; }
+.form-panel { background: #fff; border: 1px solid $line; border-radius: 1.25rem; padding: clamp(1.5rem, 3vw, 2.5rem); box-shadow: 0 30px 60px -40px rgba($ink, .35); }
+.form-section-title { display: flex; align-items: center; gap: .6rem; font-size: .75rem; font-weight: 800; letter-spacing: .12em; text-transform: uppercase; color: $navy; margin: 1.75rem 0 1rem;
+  &::after { content: ''; flex: 1; height: 1px; background: $line; }
+  &:first-child { margin-top: 0; } }
+.check-tile {
+  display: flex; align-items: center; gap: .65rem; border: 1px solid $line; border-radius: .7rem; padding: .65rem .8rem; cursor: pointer; font-size: .88rem; font-weight: 600; color: $ink; height: 100%;
+  input { flex: none; margin: 0; }
+  &:has(input:checked) { border-color: $navy; background: $mist; }
+}
+.form-status { display: none; }
+.is-submitting .btn-submit { pointer-events: none; opacity: .75; }
+.is-submitting .btn-submit .spinner-border { display: inline-block !important; }
+
+// Success state ------------------------------------------------------------------
+.success-panel { text-align: center; padding: .5rem 0;
+  .success-icon { width: 72px; height: 72px; margin: 0 auto 1.25rem; border-radius: 50%; background: rgba($success, .1); color: $success; display: grid; place-items: center; font-size: 2.2rem;
+    animation: pop .45s cubic-bezier(.2, 1.4, .4, 1) both; }
+  h3 { font-size: 1.6rem; }
+  .ref { display: inline-block; font-size: .8rem; font-weight: 700; color: $muted; background: $mist; border-radius: 999px; padding: .25rem .75rem; margin-bottom: 1.25rem; }
+}
+@keyframes pop { from { transform: scale(.6); opacity: 0; } to { transform: none; opacity: 1; } }
+.next-steps { list-style: none; padding: 0; margin: 0 0 1.5rem; text-align: left; display: grid; gap: .75rem; counter-reset: step;
+  li { display: flex; gap: .9rem; align-items: flex-start; background: $paper; border-radius: .8rem; padding: .85rem 1rem; font-size: .9rem; counter-increment: step;
+    &::before { content: counter(step, decimal-leading-zero); font-family: $font-display; font-style: italic; color: $gold-600; font-size: 1.15rem; line-height: 1.2; flex: none; }
+    strong { color: $ink; } }
+}
+
+// Enquiry modal --------------------------------------------------------------------
+.enquiry-modal {
+  .modal-dialog { max-width: 880px; }
+  .modal-content { overflow: hidden; }
+  .modal-grid { display: grid; grid-template-columns: 300px 1fr; }
+  .modal-aside { background: $navy; color: rgba(#fff, .75); padding: 2rem 1.75rem; position: relative; overflow: hidden;
+    h2 { color: #fff; font-size: 1.65rem; margin-bottom: .75rem; }
+    p { font-size: .9rem; }
+    ul { list-style: none; padding: 0; margin: 1.5rem 0 0; display: grid; gap: .75rem; font-size: .86rem;
+      li { display: flex; gap: .6rem; } .bi { color: $gold; } }
+    .aside-art { position: absolute; bottom: -40px; right: -50px; width: 220px; opacity: .2; }
+  }
+  .modal-main { padding: 2rem 2rem 1.75rem; position: relative; }
+  .btn-close { position: absolute; top: 1rem; right: 1rem; z-index: 2; }
+  .type-switch { display: inline-flex; background: $mist; border-radius: 999px; padding: .25rem; margin-bottom: 1.25rem;
+    button { border: 0; background: none; border-radius: 999px; padding: .4rem .95rem; font-size: .82rem; font-weight: 700; color: $muted; }
+    button.is-active { background: #fff; color: $ink; box-shadow: 0 2px 6px rgba($ink, .1); } }
+  .modal-note { font-size: .75rem; color: $muted; margin: 1rem 0 0; display: flex; gap: .5rem; }
+  @include media-breakpoint-down(lg) {
+    .modal-grid { grid-template-columns: 1fr; }
+    .modal-aside { display: none; }
+    .modal-main { padding: 1.75rem 1.25rem 1.5rem; }
+  }
+}
+
+// Destination detail modal ---------------------------------------------------------
+.dest-modal {
+  .modal-dialog { max-width: 760px; }
+  .dest-modal-head { background: $ink; color: #fff; padding: 1.75rem 2rem; position: relative; display: flex; gap: 1.1rem; align-items: center;
+    img { width: 64px; height: 43px; border-radius: 6px; box-shadow: 0 0 0 2px rgba(#fff, .15); }
+    h2 { color: #fff; font-size: 1.75rem; margin: 0; }
+    p { margin: .2rem 0 0; color: rgba(#fff, .7); font-size: .9rem; }
+    .btn-close { position: absolute; top: 1rem; right: 1rem; } }
+  .modal-body { padding: 1.75rem 2rem 2rem; }
+  .facts { display: grid; grid-template-columns: repeat(3, 1fr); gap: .75rem; margin-bottom: 1.5rem;
+    div { background: $paper; border-radius: .8rem; padding: .9rem 1rem; }
+    dt { font-size: .7rem; text-transform: uppercase; letter-spacing: .1em; color: $muted; font-weight: 800; margin-bottom: .3rem; }
+    dd { margin: 0; font-weight: 700; color: $ink; font-size: .88rem; line-height: 1.4; } }
+  h3 { font-family: $font-sans; font-size: .78rem; font-weight: 800; letter-spacing: .12em; text-transform: uppercase; color: $navy; margin: 1.25rem 0 .75rem; }
+  .check-list li { font-size: .9rem; }
+  .uni-list { list-style: none; padding: 0; margin: 0; display: grid; grid-template-columns: 1fr 1fr; gap: .5rem;
+    li { border: 1px solid $line; border-radius: .7rem; padding: .6rem .8rem; font-size: .85rem; }
+    strong { display: block; color: $ink; font-size: .88rem; }
+    span { color: $muted; font-size: .78rem; } }
+  @include media-breakpoint-down(md) { .facts, .uni-list { grid-template-columns: 1fr; } .modal-body, .dest-modal-head { padding-inline: 1.25rem; } }
+}
+
+.check-list { list-style: none; padding: 0; margin: 0; display: grid; gap: .6rem;
+  li { position: relative; padding-left: 1.75rem; }
+  li::before { content: '\F26E'; font-family: 'bootstrap-icons'; position: absolute; left: 0; top: .05rem; color: $success; font-size: 1.05rem; }
+}
+
+// Flash / alerts ----------------------------------------------------------------------
+.alert-ef { border-radius: 1rem; border: 1px solid; padding: 1.1rem 1.25rem; display: flex; gap: .85rem; align-items: flex-start;
+  &.is-success { background: rgba($success, .06); border-color: rgba($success, .25); color: darken($success, 8%); }
+  &.is-error { background: rgba($danger, .06); border-color: rgba($danger, .25); color: $danger; }
+  .bi { font-size: 1.25rem; line-height: 1.2; } }

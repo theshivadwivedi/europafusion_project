@@ -1,0 +1,412 @@
+{
+  "slug": "study-in-latvia",
+  "kind": "country",
+  "destination": "latvia",
+  "title": "Study in Latvia",
+  "nav_label": "Latvia",
+  "meta_description": "Earn an internationally recognised European degree in Riga and beyond, with EUROPA FUSION guiding every step of your journey.",
+  "sections": [
+    {
+      "type": "hero",
+      "eyebrow": "Study in Latvia",
+      "title": "Where Baltic Innovation Meets Academic Value",
+      "highlight": "Academic Value",
+      "lead": "Earn an internationally recognised European degree in Riga and beyond, with EUROPA FUSION guiding every step of your journey.",
+      "ctas": [
+        {
+          "label": "Free Profile Evaluation",
+          "action": "evaluation"
+        },
+        {
+          "label": "Book Consultation",
+          "action": "counselling"
+        }
+      ]
+    },
+    {
+      "type": "stats",
+      "items": [
+        {
+          "value": "€450–700",
+          "label": "Monthly living costs",
+          "sub": "Among the lowest in the euro area"
+        },
+        {
+          "value": "20 hrs",
+          "label": "Weekly work allowed",
+          "sub": "Full-time work permitted during holidays"
+        },
+        {
+          "value": "60+",
+          "label": "Nationalities represented",
+          "sub": "In Latvia’s international student community"
+        },
+        {
+          "value": "EU",
+          "label": "EU & Schengen Area",
+          "sub": "Uses the euro, convenient European travel"
+        }
+      ]
+    },
+    {
+      "type": "cards",
+      "id": "why",
+      "style": "icon",
+      "columns": 3,
+      "eyebrow": "Why Latvia",
+      "title": "A Modern European Education at Remarkable Value",
+      "intro": "Latvia offers international students a distinctive combination of recognised European qualifications, modern teaching and an exceptionally accessible cost of study.",
+      "items": [
+        {
+          "title": "Europe-wide recognition",
+          "desc": "Degrees follow the European Higher Education Area framework, supporting smooth recognition and mobility across Europe.",
+          "icon": "patch-check"
+        },
+        {
+          "title": "Exceptional affordability",
+          "desc": "Tuition and living costs are among the most reasonable in the euro area, enabling students to invest confidently in their education.",
+          "icon": "piggy-bank"
+        },
+        {
+          "title": "Strong academic fields",
+          "desc": "Latvia is particularly respected for medicine and health sciences, engineering, information technology, business, aviation and sciences.",
+          "icon": "cpu"
+        },
+        {
+          "title": "A European gateway",
+          "desc": "As a member of the EU and Schengen Area, Latvia places all of Europe within easy reach for study, travel and work.",
+          "icon": "globe-europe-africa"
+        },
+        {
+          "title": "A vibrant student environment",
+          "desc": "Riga is a compact, creative and digitally connected capital with an international student community, while regional cities offer a peaceful pace.",
+          "icon": "globe-europe-africa"
+        }
+      ]
+    },
+    {
+      "type": "universities",
+      "id": "universities",
+      "eyebrow": "Featured universities",
+      "title": "Distinguished Institutions in Latvia",
+      "intro": "The following institutions represent key destinations available to EUROPA FUSION students.",
+      "items": [
+        {
+          "name": "University of Latvia",
+          "city": "Riga",
+          "type": "Public University",
+          "desc": "The country’s leading comprehensive university, with broad strengths in the humanities, social sciences, natural sciences and law."
+        },
+        {
+          "name": "Riga Technical University",
+          "city": "Riga",
+          "type": "Technical University",
+          "desc": "A principal centre for engineering, information technology, architecture and applied sciences, with a strong international profile."
+        },
+        {
+          "name": "Rīga Stradiņš University",
+          "city": "Riga",
+          "type": "Medical & Health University",
+          "desc": "Internationally recognised for English-taught medicine, dentistry, pharmacy, nursing and health sciences programmes."
+        },
+        {
+          "name": "Latvia University of Life Sciences and Technologies",
+          "city": "Jelgava",
+          "type": "Public University",
+          "desc": "Specialising in agriculture, veterinary medicine, food technology, forestry, environmental sciences and engineering."
+        },
+        {
+          "name": "BA School of Business and Finance",
+          "city": "Riga",
+          "type": "Business School",
+          "desc": "A business-focused institution offering English-taught programmes in management, finance, cybersecurity and entrepreneurship."
+        },
+        {
+          "name": "Stockholm School of Economics in Riga",
+          "city": "Riga",
+          "type": "Business School",
+          "desc": "An internationally oriented premier business school offering respected Bachelor’s and executive education in economics and management."
+        },
+        {
+          "name": "RISEBA University of Applied Sciences",
+          "city": "Riga",
+          "type": "Private University",
+          "desc": "Combines business, creative industries, architecture, audiovisual media and information technology with a practice-oriented approach."
+        },
+        {
+          "name": "Turiba University",
+          "city": "Riga",
+          "type": "Private University",
+          "desc": "Focused on business administration, tourism, hospitality management, law and communication, with close links to industry."
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "id": "programmes",
+      "eyebrow": "Academic pathways",
+      "title": "Programmes and Qualifications in Latvia",
+      "intro": "Latvian higher education offers flexible degree pathways from college credentials to doctoral degrees.",
+      "columns": [
+        "Qualification",
+        "Duration",
+        "Credits (ECTS)",
+        "Notes & Focus"
+      ],
+      "rows": [
+        [
+          "Bachelor’s degree",
+          "3–4 years",
+          "180–240",
+          "Direct university admission; wide selection of English-taught programmes in business, IT, engineering and social sciences."
+        ],
+        [
+          "Professional Bachelor’s",
+          "4 years",
+          "240",
+          "Applied, career-oriented degree combining academic theory with practical industrial placements."
+        ],
+        [
+          "Master’s degree",
+          "1–2 years",
+          "60–120",
+          "English-taught options across management, engineering, data science and health; requires relevant Bachelor’s."
+        ],
+        [
+          "Medicine, Dentistry & Pharmacy",
+          "5–6 years",
+          "300–360",
+          "Internationally popular English-taught programmes; entry typically requires biology and chemistry preparation."
+        ],
+        [
+          "Doctoral studies (PhD)",
+          "3–4 years",
+          "—",
+          "Research-focused study within university doctoral schools with state research funding options."
+        ],
+        [
+          "College (short-cycle)",
+          "2–3 years",
+          "120–180",
+          "First-level professional higher education, usually leading to employment or Bachelor’s progression."
+        ]
+      ],
+      "chips_title": "Popular fields of study in Latvia",
+      "chips": [
+        "Medicine and Dentistry",
+        "Engineering and Technology",
+        "Information Technology and Data Science",
+        "Business, Management and Finance",
+        "Pharmacy and Health Sciences",
+        "Tourism and Hospitality",
+        "Design and Creative Industries",
+        "Law and Social Sciences"
+      ]
+    },
+    {
+      "type": "costs",
+      "id": "costs",
+      "eyebrow": "Fees & funding",
+      "title": "Understanding the Investment in Latvia",
+      "intro": "A clear view of costs allows you to plan with confidence. Indicative annual ranges in euros:",
+      "chart_title": "Indicative annual investment in Latvia",
+      "scale_max": 17500,
+      "rows": [
+        {
+          "label": "Tuition, non-medical programmes (per year)",
+          "value": "≈ €2,500 - €6,000",
+          "min": 2500,
+          "max": 6000
+        },
+        {
+          "label": "Tuition, medicine and dentistry (per year)",
+          "value": "≈ €10,000 - €15,000",
+          "min": 10000,
+          "max": 15000
+        },
+        {
+          "label": "Living costs (per year)",
+          "value": "≈ €5,400 - €8,400",
+          "min": 5400,
+          "max": 8400
+        },
+        {
+          "label": "Typical visa funds benchmark (per year)",
+          "value": "≈ €3,000 - €5,000",
+          "min": 3000,
+          "max": 5000
+        }
+      ],
+      "cards_title": "Scholarships & funding",
+      "cards": [
+        {
+          "title": "State Scholarships",
+          "desc": "Scholarships offered to international students under bilateral intergovernmental agreements and national programmes."
+        },
+        {
+          "title": "Erasmus+ & Mundus",
+          "desc": "EU-funded mobility and joint-degree opportunities for eligible students."
+        },
+        {
+          "title": "University Merit Awards",
+          "desc": "Merit-based tuition reductions and academic awards offered directly by individual universities."
+        }
+      ]
+    },
+    {
+      "type": "steps",
+      "id": "journey",
+      "eyebrow": "Your admission journey",
+      "title": "From Enquiry to Enrolment",
+      "intro": "EUROPA FUSION offers a structured, transparent process so that each stage is handled with care and precision.",
+      "items": [
+        {
+          "title": "Profile evaluation",
+          "desc": "Academic record, career goals, budget and preferred programme are reviewed to define a realistic shortlist."
+        },
+        {
+          "title": "Programme & university selection",
+          "desc": "Courses are matched to your profile, with attention to language of instruction, entry requirements and deadlines."
+        },
+        {
+          "title": "Online application",
+          "desc": "Transcripts, certificates, language proof, CV, motivation letter and passport are prepared and submitted through the university’s application portal."
+        },
+        {
+          "title": "Entrance assessment",
+          "desc": "Where required, preparation for entrance tests or interviews, particularly for medicine, dentistry and health programmes."
+        },
+        {
+          "title": "Admission & tuition confirmation",
+          "desc": "Acceptance of your offer, issue of the official admission letter and payment of the first tuition instalment."
+        },
+        {
+          "title": "Visa or residence permit application",
+          "desc": "Preparation of the Type D visa file or direct residence permit application, including proof of funds and accommodation."
+        },
+        {
+          "title": "Arrival & registration",
+          "desc": "Registration of your address, residence permit formalities within the required period, accommodation and orientation."
+        }
+      ]
+    },
+    {
+      "type": "cards",
+      "id": "support",
+      "style": "icon",
+      "columns": 3,
+      "eyebrow": "Why EUROPA FUSION",
+      "title": "Your Partner for the Journey",
+      "intro": "We believe a student’s journey abroad should be guided with the same rigour as the education it leads to.",
+      "items": [
+        {
+          "title": "Admissions Counselling",
+          "desc": "Personalised shortlisting and strategy from first enquiry to offer.",
+          "icon": "compass"
+        },
+        {
+          "title": "Application Excellence",
+          "desc": "Careful preparation of statements of purpose, CVs and supporting documents.",
+          "icon": "file-earmark-text"
+        },
+        {
+          "title": "Scholarship Guidance",
+          "desc": "Support with State, Erasmus+ and university scholarship options.",
+          "icon": "award"
+        },
+        {
+          "title": "Visa & Residence Permit",
+          "desc": "Structured assistance with visa documentation, AIC verification, and financial evidence.",
+          "icon": "passport"
+        },
+        {
+          "title": "Accommodation Support",
+          "desc": "Guidance on university dormitories and private student housing in Riga.",
+          "icon": "house-door"
+        },
+        {
+          "title": "Pre-Departure & Beyond",
+          "desc": "Briefings before you fly and continued support after you arrive in Latvia.",
+          "icon": "airplane"
+        }
+      ],
+      "tone": "dark"
+    },
+    {
+      "type": "faq",
+      "id": "faq",
+      "eyebrow": "FAQ",
+      "title": "Frequently Asked Questions",
+      "intro": "Common questions about studying and settling in Latvia.",
+      "items": [
+        {
+          "q": "Can I study in Latvia entirely in English?",
+          "a": "Yes. Latvian universities offer a wide choice of English-taught programmes at Bachelor’s, Master’s and doctoral level, including medicine, dentistry, engineering, business and information technology."
+        },
+        {
+          "q": "Do I need to speak Latvian?",
+          "a": "It is not required for English-taught programmes, though learning basic Latvian or Russian is helpful for daily life and part-time work. Universities typically offer introductory language courses."
+        },
+        {
+          "q": "How much does it cost to study in Latvia?",
+          "a": "Latvia is one of Europe’s most affordable study destinations. Tuition for non-medical programmes is commonly in the range of €2,500 to €6,000 per year, while medicine and dentistry cost €10,000 to €15,000. Monthly living costs typically range from €450 to €700."
+        },
+        {
+          "q": "When are the intakes and deadlines?",
+          "a": "The main intake begins in September, with a smaller intake in February at some institutions. Medicine and health programmes often close applications earlier in the year (April–June), so early application is advisable."
+        },
+        {
+          "q": "Do I need to take an entrance examination?",
+          "a": "Many programmes assess applicants on academic record and a motivation letter. Medicine and health programmes usually require evidence of biology and chemistry preparation and an online entrance test or interview."
+        },
+        {
+          "q": "Which English-language tests are accepted?",
+          "a": "Universities usually accept IELTS (5.5–6.5), TOEFL or an equivalent, and some conduct their own interview or test."
+        },
+        {
+          "q": "How much money must I show for the visa and residence permit?",
+          "a": "Applicants must demonstrate sufficient funds for their stay. In practice, proof of around €3,000 to €5,000 for the first year is commonly expected, often alongside payment of the first tuition instalment."
+        },
+        {
+          "q": "Can I work while studying in Latvia?",
+          "a": "Non-EU students holding a residence permit for study may generally work up to 20 hours per week during term and full-time during official summer holidays."
+        },
+        {
+          "q": "Can I remain in Latvia after graduating?",
+          "a": "Graduates may apply for a temporary residence permit to seek employment or start a business, and may then transition to a long-term work-based permit."
+        },
+        {
+          "q": "Are scholarships available for international students?",
+          "a": "Yes. Options include Latvian State scholarships under bilateral agreements, Erasmus+ opportunities and merit-based tuition fee reductions from individual universities."
+        },
+        {
+          "q": "What are accommodation options?",
+          "a": "Students may choose university residences (€100–€200/month), which are usually the most economical option, or private rental apartments in Riga (€250–€450/month)."
+        },
+        {
+          "q": "What documents will I need?",
+          "a": "Typically: passport, academic transcripts and certificates (with apostille/AIC recognition), language-test results, CV, motivation letter, proof of financial means, proof of accommodation and health insurance."
+        },
+        {
+          "q": "How does EUROPA FUSION support my application?",
+          "a": "We assist at every stage: profile assessment, university selection, AIC document verification, application prep, entrance coaching, visa support, accommodation and pre-departure briefing."
+        }
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Begin Your Latvian Chapter",
+      "text": "Speak with a EUROPA FUSION counsellor for a personalised university shortlist and a clear roadmap to your offer letter.",
+      "ctas": [
+        {
+          "label": "Book Free Consultation",
+          "action": "counselling"
+        },
+        {
+          "label": "Free Profile Evaluation",
+          "action": "evaluation"
+        }
+      ]
+    }
+  ]
+}

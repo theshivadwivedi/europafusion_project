@@ -1,0 +1,73 @@
+// ---------------------------------------------------------------------------
+// Footer, floating WhatsApp, mobile quick bar
+// ---------------------------------------------------------------------------
+
+.site-footer {
+  background: $ink; color: rgba(#fff, .66); font-size: .92rem; position: relative; overflow: hidden;
+  a { color: rgba(#fff, .78); text-decoration: none; &:hover { color: #fff; } }
+  h2, h3 { font-family: $font-sans; font-size: .74rem; font-weight: 800; letter-spacing: .16em; text-transform: uppercase; color: $gold; margin-bottom: 1.1rem; }
+}
+
+.footer-cta {
+  border-bottom: 1px solid rgba(#fff, .09); padding-block: 3rem;
+  h2.cta-title { font-family: $font-display; font-size: clamp(1.6rem, 2.6vw, 2.2rem); text-transform: none; letter-spacing: -.01em; color: #fff; font-weight: 600; margin: 0 0 .35rem; }
+  p { margin: 0; color: rgba(#fff, .65); }
+}
+
+.footer-main { padding-block: 3.5rem 2.5rem; }
+.footer-about p { max-width: 28rem; line-height: 1.7; }
+.footer-tagline { font-family: $font-display; font-style: italic; color: #fff; font-size: 1.15rem; line-height: 1.4; margin: 1.25rem 0 1rem; }
+
+.footer-links { list-style: none; padding: 0; margin: 0; display: grid; gap: .55rem; }
+.footer-flags { list-style: none; padding: 0; margin: 0; display: grid; grid-template-columns: 1fr 1fr; gap: .55rem .75rem;
+  a { display: inline-flex; align-items: center; gap: .55rem; }
+  img { width: 20px; height: 14px; border-radius: 2px; box-shadow: 0 0 0 1px rgba(#fff, .12); }
+}
+.footer-contact { list-style: none; padding: 0; margin: 0; display: grid; gap: .7rem;
+  li { display: flex; gap: .7rem; align-items: flex-start; }
+  .bi { color: $gold; margin-top: .15rem; }
+}
+.footer-office { background: rgba(#fff, .04); border: 1px solid rgba(#fff, .08); border-radius: 1rem; padding: 1.1rem 1.2rem; line-height: 1.6;
+  strong { color: #fff; display: block; margin-bottom: .35rem; }
+}
+.social-links { display: flex; gap: .5rem; margin-top: 1.25rem;
+  a { width: 38px; height: 38px; border-radius: 50%; display: grid; place-items: center; border: 1px solid rgba(#fff, .16); color: #fff; transition: background .2s, border-color .2s;
+    &:hover { background: $gold; border-color: $gold; color: $ink; } }
+}
+.footer-bottom { border-top: 1px solid rgba(#fff, .09); padding-block: 1.5rem; font-size: .8rem; color: rgba(#fff, .5);
+  .legal-entity strong { color: rgba(#fff, .82); font-weight: 700; }
+  .legal-links { display: flex; flex-wrap: wrap; gap: .35rem 1.25rem; list-style: none; margin: 0; padding: 0; }
+}
+.footer-stars { position: absolute; right: -120px; top: -120px; width: 420px; opacity: .06; pointer-events: none; }
+
+// Floating WhatsApp ------------------------------------------------------------
+.wa-float {
+  position: fixed; right: 1.5rem; bottom: 1.5rem; z-index: 1040; width: 56px; height: 56px; border-radius: 50%;
+  background: $whatsapp; color: #fff; display: grid; place-items: center; font-size: 1.65rem;
+  box-shadow: 0 10px 25px -8px rgba($whatsapp, .7); transition: transform .2s ease;
+  &:hover { transform: scale(1.07); color: #fff; }
+  .wa-label { position: absolute; right: calc(100% + .75rem); white-space: nowrap; background: $ink; color: #fff; font-size: .78rem; font-weight: 700;
+    padding: .4rem .7rem; border-radius: .5rem; opacity: 0; transform: translateX(6px); transition: .2s; pointer-events: none; }
+  &:hover .wa-label, &:focus-visible .wa-label { opacity: 1; transform: none; }
+}
+.back-to-top {
+  position: fixed; right: 1.5rem; bottom: 5.4rem; z-index: 1040; width: 44px; height: 44px; border-radius: 50%; border: 1px solid $line;
+  background: #fff; color: $navy; display: grid; place-items: center; box-shadow: $box-shadow; opacity: 0; visibility: hidden; transition: .25s;
+  &.is-visible { opacity: 1; visibility: visible; }
+}
+
+// Mobile quick bar --------------------------------------------------------------
+.quickbar { display: none; }
+@include media-breakpoint-down(md) {
+  .quickbar {
+    display: grid; grid-template-columns: repeat(3, 1fr); position: fixed; inset: auto 0 0 0; z-index: 1035; background: #fff;
+    border-top: 1px solid $line; box-shadow: 0 -10px 30px -20px rgba($ink, .4); padding-bottom: env(safe-area-inset-bottom);
+    a, button { display: flex; flex-direction: column; align-items: center; justify-content: center; gap: .15rem; padding: .55rem 0 .5rem; font-size: .72rem; font-weight: 700;
+      color: $ink; text-decoration: none; background: none; border: 0; .bi { font-size: 1.15rem; } }
+    .is-primary { background: $navy; color: #fff; }
+    .is-wa .bi { color: $whatsapp; }
+  }
+  body { padding-bottom: 62px; }
+  .wa-float { display: none; }
+  .back-to-top { bottom: 5rem; right: 1rem; }
+}

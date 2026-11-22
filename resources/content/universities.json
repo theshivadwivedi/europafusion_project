@@ -1,0 +1,23 @@
+[
+  { "name": "Technical University of Munich", "short_name": "TUM", "city": "Munich", "country_code": "de" },
+  { "name": "Heidelberg University", "short_name": "Heidelberg", "city": "Heidelberg", "country_code": "de" },
+  { "name": "RWTH Aachen University", "short_name": "RWTH Aachen", "city": "Aachen", "country_code": "de" },
+  { "name": "Delft University of Technology", "short_name": "TU Delft", "city": "Delft", "country_code": "nl" },
+  { "name": "University of Amsterdam", "short_name": "UvA", "city": "Amsterdam", "country_code": "nl" },
+  { "name": "Leiden University", "short_name": "Leiden", "city": "Leiden", "country_code": "nl" },
+  { "name": "Eindhoven University of Technology", "short_name": "TU/e", "city": "Eindhoven", "country_code": "nl" },
+  { "name": "Karlsruhe Institute of Technology", "short_name": "KIT", "city": "Karlsruhe", "country_code": "de" },
+  { "name": "Technical University of Berlin", "short_name": "TU Berlin", "city": "Berlin", "country_code": "de" },
+  { "name": "TU Dresden", "short_name": "TU Dresden", "city": "Dresden", "country_code": "de" },
+  { "name": "Politecnico di Milano", "short_name": "POLIMI", "city": "Milan", "country_code": "it" },
+  { "name": "University of Bologna", "short_name": "Bologna", "city": "Bologna", "country_code": "it" },
+  { "name": "Aalto University", "short_name": "Aalto", "city": "Espoo", "country_code": "fi" },
+  { "name": "University of Helsinki", "short_name": "Helsinki", "city": "Helsinki", "country_code": "fi" },
+  { "name": "University of Vienna", "short_name": "Uni Wien", "city": "Vienna", "country_code": "at" },
+  { "name": "University of Innsbruck", "short_name": "Innsbruck", "city": "Innsbruck", "country_code": "at" },
+  { "name": "TU Wien", "short_name": "TU Wien", "city": "Vienna", "country_code": "at" },
+  { "name": "KU Leuven", "short_name": "KU Leuven", "city": "Leuven", "country_code": "be" },
+  { "name": "Ghent University", "short_name": "UGent", "city": "Ghent", "country_code": "be" },
+  { "name": "Sapienza University of Rome", "short_name": "Sapienza", "city": "Rome", "country_code": "it" },
+  { "name": "University of Padua", "short_name": "Padova", "city": "Padua", "country_code": "it" }
+]

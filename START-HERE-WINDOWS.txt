@@ -1,0 +1,64 @@
+EUROPA FUSION website - Windows quick start
+============================================
+
+This package already contains everything the website needs, including the
+vendor\ folder. You do NOT need Composer, Node.js, MySQL or any database.
+
+
+1. INSTALL PHP 8.3 OR NEWER (once per computer)
+
+   Pick one:
+   - XAMPP    https://www.apachefriends.org   (PHP is in C:\xampp\php)
+   - Laragon  https://laragon.org
+   - Plain PHP from https://windows.php.net   (download the x64 zip)
+
+   Make sure  php -v  works in a Command Prompt. If it says "not recognized",
+   add the PHP folder (e.g. C:\xampp\php) to the Windows PATH and open a new
+   Command Prompt.
+
+   Only for plain PHP from windows.php.net:
+   - copy php.ini-development to php.ini (same folder as php.exe)
+   - in php.ini remove the ; in front of these lines:
+         extension_dir = "ext"
+         extension=openssl
+         extension=mbstring
+         extension=fileinfo
+   - if php.exe reports a missing VCRUNTIME DLL, install the
+     "Microsoft Visual C++ Redistributable" (x64) from microsoft.com
+   XAMPP and Laragon already have these extensions enabled.
+
+
+2. EXTRACT THE ZIP TO A SHORT FOLDER, e.g.  C:\sites\
+   You get  C:\sites\europafusion\
+   (Windows has a 260-character path limit, so avoid very deep folders.)
+
+
+3. DOUBLE-CLICK  setup-windows.bat   (first time only)
+   - checks PHP, creates .env and an application key
+   - optionally creates your login for the admin panel
+
+
+4. DOUBLE-CLICK  start-windows.bat
+   - the website opens at   http://127.0.0.1:8000
+   - admin panel:           http://127.0.0.1:8000/admin
+   - keep the black window open; press Ctrl+C in it to stop the site
+
+
+SAME STEPS BY HAND (Command Prompt inside the europafusion folder)
+   copy .env.example .env
+   php artisan key:generate
+   php artisan admin:create
+   php artisan serve
+
+
+WHERE DATA IS SAVED (there is no database)
+   storage\app\private\leads\         form submissions, one JSON file each
+   storage\app\private\admins.json    admin logins (passwords are hashed)
+   storage\logs\mail-YYYY-MM-DD.log   emails, until SMTP is set up in .env
+   Back up the storage\app\private\ folder and the .env file.
+
+
+MORE
+   Email (SMTP), company details and a live server (IIS / Apache / Nginx):
+   see README.md and docs\DEPLOYMENT.md. On a live server you do not need
+   to run "composer install" - the vendor\ folder is already included.

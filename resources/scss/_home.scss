@@ -1,0 +1,126 @@
+// ---------------------------------------------------------------------------
+// Home page
+// ---------------------------------------------------------------------------
+
+.home-hero {
+  position: relative; overflow: hidden; background: $paper;
+  padding-block: clamp(3rem, 6vw, 5rem) clamp(3.5rem, 7vw, 5.5rem);
+  &::before { // faint meridian grid, like an atlas page
+    content: ''; position: absolute; inset: 0; pointer-events: none; opacity: .55;
+    background-image: linear-gradient(rgba($navy, .045) 1px, transparent 1px), linear-gradient(90deg, rgba($navy, .045) 1px, transparent 1px);
+    background-size: 56px 56px; mask-image: radial-gradient(ellipse at 70% 40%, #000 20%, transparent 70%);
+  }
+  .container { position: relative; }
+  h1 { font-size: clamp(2.4rem, 4.6vw, 3.85rem); line-height: 1.05; margin-bottom: 1.4rem; font-weight: 600; letter-spacing: -.028em; }
+  .lead-text { max-width: 34rem; font-size: clamp(1.05rem, 1.5vw, 1.2rem); }
+}
+.hero-kicker {
+  display: inline-flex; align-items: center; gap: .55rem; background: #fff; border: 1px solid $line; border-radius: 999px; padding: .38rem .9rem .38rem .45rem;
+  font-size: .8rem; font-weight: 700; color: $ink; margin-bottom: 1.6rem; box-shadow: $box-shadow-sm;
+  .dot { width: 22px; height: 22px; border-radius: 50%; background: $navy; color: $gold; display: grid; place-items: center; font-size: .7rem; }
+}
+.hero-trust { display: flex; flex-wrap: wrap; align-items: center; gap: .75rem 1.5rem; margin-top: 2.25rem; font-size: .85rem; color: $muted; font-weight: 600;
+  .flags { display: flex; }
+  .flags img { width: 26px; height: 26px; border-radius: 50%; object-fit: cover; border: 2px solid $paper; margin-left: -7px; box-shadow: 0 0 0 1px rgba($ink, .08); }
+  .flags img:first-child { margin-left: 0; }
+}
+.hero-visual { position: relative; max-width: 560px; margin-inline: auto; }
+.hero-visual > svg, .hero-visual > img { width: 100%; height: auto; display: block; }
+.float-badge {
+  position: absolute; display: flex; align-items: center; gap: .65rem; background: #fff; border-radius: .9rem; padding: .6rem .9rem .6rem .6rem;
+  box-shadow: 0 18px 40px -18px rgba($ink, .35); border: 1px solid rgba($line, .8); font-size: .78rem; line-height: 1.25; color: $muted;
+  animation: float 6s ease-in-out infinite;
+  strong { display: block; color: $ink; font-size: .92rem; }
+  .ico { width: 34px; height: 34px; border-radius: .6rem; display: grid; place-items: center; background: $sky; color: $navy; font-size: 1rem; flex: none; }
+  &.b1 { top: 9%; left: -4%; }
+  &.b2 { top: 42%; right: -5%; animation-delay: -2s; .ico { background: $gold-soft; color: $gold-600; } }
+  &.b3 { bottom: 6%; left: 6%; animation-delay: -4s; .ico { background: rgba($success, .12); color: $success; } }
+}
+@keyframes float { 0%, 100% { transform: translateY(0); } 50% { transform: translateY(-8px); } }
+@include media-breakpoint-down(lg) {
+  .hero-visual { margin-top: 2.5rem; max-width: 460px; }
+  .float-badge.b1 { left: 0; } .float-badge.b2 { right: 0; }
+}
+@include media-breakpoint-down(sm) { .float-badge { font-size: .7rem; padding: .45rem .65rem .45rem .45rem; strong { font-size: .8rem; } .ico { width: 28px; height: 28px; } } }
+
+// University marquee ------------------------------------------------------------------
+.uni-strip { padding-block: 3.5rem 4rem; border-bottom: 1px solid $line; overflow: hidden; }
+.uni-strip h2 { font-size: clamp(1.5rem, 2.4vw, 2rem); text-align: center; margin-bottom: .4rem; }
+.uni-strip .sub { text-align: center; color: $muted; margin-bottom: 2.25rem; font-size: .95rem; }
+.marquee { --gap: 1rem; display: flex; gap: var(--gap); overflow: hidden; user-select: none;
+  mask-image: linear-gradient(90deg, transparent, #000 8%, #000 92%, transparent); margin-bottom: 1rem;
+  &:hover .marquee-track { animation-play-state: paused; }
+}
+.marquee-track { flex-shrink: 0; display: flex; gap: var(--gap); min-width: 100%; list-style: none; margin: 0; padding: 0; animation: marquee 60s linear infinite;
+  .is-reverse & { animation-direction: reverse; animation-duration: 70s; }
+}
+@keyframes marquee { from { transform: translateX(0); } to { transform: translateX(calc(-100% - var(--gap))); } }
+@media (prefers-reduced-motion: reduce) { .marquee-track { animation: none; } .marquee { overflow-x: auto; } }
+.uni-tile {
+  display: flex; align-items: center; gap: .85rem; background: #fff; border: 1px solid $line; border-radius: .9rem; padding: .8rem 1.15rem .8rem .8rem; white-space: nowrap;
+  .crest { width: 42px; height: 42px; border-radius: .65rem; display: grid; place-items: center; font-family: $font-display; font-weight: 600; font-size: .95rem; color: #fff; flex: none; position: relative; overflow: hidden; }
+  .crest img { position: absolute; right: -2px; bottom: -2px; width: 18px; height: 12px; border-radius: 2px; border: 1.5px solid #fff; }
+  strong { display: block; color: $ink; font-size: .9rem; }
+  span { font-size: .76rem; color: $muted; }
+}
+
+// About / advisory ----------------------------------------------------------------
+.about-block { .lead-text strong { color: $ink; } p { color: $text; } }
+.pull-quote { font-family: $font-display; font-style: italic; font-size: clamp(1.25rem, 2vw, 1.55rem); line-height: 1.4; color: $ink; border-left: 3px solid $gold; padding-left: 1.25rem; margin: 1.75rem 0 0; }
+
+// Mission & vision ------------------------------------------------------------------
+.mv-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 0; border: 1px solid $line; border-radius: 1.5rem; overflow: hidden; background: #fff; }
+.mv-item { padding: clamp(2rem, 4vw, 3.25rem); position: relative;
+  & + & { border-left: 1px solid $line; }
+  .mv-label { font-family: $font-sans; display: flex; align-items: center; gap: .75rem; font-size: .78rem; font-weight: 800; letter-spacing: .18em; text-transform: uppercase; color: $muted; margin-bottom: 1.25rem;
+    span { color: $royal; } }
+  .mv-label .mv-icon { width: 40px; height: 40px; border-radius: 50%; background: $navy; color: $gold; display: grid; place-items: center; font-size: 1.05rem; }
+  h3 { font-style: italic; font-weight: 500; font-size: clamp(1.45rem, 2.3vw, 1.95rem); line-height: 1.25; margin-bottom: 1.25rem; }
+  p { font-size: .97rem; }
+  &.is-vision { background: $ink; color: rgba(#fff, .74); h3 { color: #fff; } .mv-label { color: rgba(#fff, .55); span { color: $gold; } } .mv-icon { background: $gold; color: $ink; } p { color: rgba(#fff, .74); } }
+}
+@include media-breakpoint-down(lg) { .mv-grid { grid-template-columns: 1fr; } .mv-item + .mv-item { border-left: 0; border-top: 1px solid $line; } }
+
+// What we do --------------------------------------------------------------------------
+.wwd { display: grid; grid-template-columns: 1fr 1.2fr; gap: clamp(2rem, 5vw, 5rem); align-items: start;
+  h2 { font-size: clamp(2rem, 3.6vw, 3rem); }
+  .wwd-sub { font-family: $font-display; font-style: italic; font-size: 1.35rem; color: $navy-500; }
+  .wwd-body p { font-size: 1.02rem; }
+  .wwd-maxims { margin-top: 2rem; display: grid; gap: .9rem; }
+  .wwd-maxims div { display: flex; gap: 1rem; align-items: baseline; font-family: $font-display; font-size: 1.15rem; color: $ink; padding-bottom: .9rem; border-bottom: 1px dashed $line; }
+  .wwd-maxims i { color: $gold-600; font-style: normal; font-size: .85rem; font-family: $font-sans; font-weight: 800; letter-spacing: .1em; }
+}
+@include media-breakpoint-down(lg) { .wwd { grid-template-columns: 1fr; } }
+
+// Approach (5 stages) -------------------------------------------------------------------
+.approach { display: grid; grid-template-columns: repeat(5, 1fr); gap: 1rem; position: relative; counter-reset: stage; list-style: none; padding: 0; margin: 0;
+  &::before { content: ''; position: absolute; top: 62px; left: 10%; right: 10%; height: 2px;
+    background: repeating-linear-gradient(90deg, rgba($navy, .25) 0 8px, transparent 8px 16px); }
+}
+.stage { position: relative; text-align: center; counter-increment: stage;
+  .stage-art { width: 124px; height: 124px; margin: 0 auto 1.25rem; border-radius: 50%; background: #fff; border: 1px solid $line; display: grid; place-items: center; position: relative; z-index: 1;
+    box-shadow: 0 16px 30px -22px rgba($ink, .5); transition: transform .3s; }
+  .stage-art svg { width: 78px; height: 78px; }
+  .stage-art::after { content: counter(stage, decimal-leading-zero); position: absolute; top: -4px; right: -4px; width: 34px; height: 34px; border-radius: 50%; background: $gold; color: $ink;
+    font-weight: 800; font-size: .78rem; display: grid; place-items: center; border: 3px solid $paper; }
+  h3 { font-family: $font-sans; font-size: 1.1rem; font-weight: 800; margin-bottom: .5rem; }
+  p { font-size: .88rem; color: $text; margin: 0 auto; max-width: 15rem; }
+  &:hover .stage-art { transform: translateY(-4px); }
+}
+@include media-breakpoint-down(lg) {
+  .approach { grid-template-columns: 1fr; gap: 0; &::before { top: 0; bottom: 0; left: 46px; right: auto; width: 2px; height: auto;
+    background: repeating-linear-gradient(180deg, rgba($navy, .25) 0 8px, transparent 8px 16px); } }
+  .stage { display: grid; grid-template-columns: 92px 1fr; gap: 1.25rem; text-align: left; padding-bottom: 1.75rem;
+    .stage-art { width: 92px; height: 92px; margin: 0; svg { width: 58px; height: 58px; } }
+    p { margin: 0; max-width: none; } h3 { margin-top: 1.25rem; } }
+}
+
+// Destinations teaser ---------------------------------------------------------------------
+.dest-teaser { display: grid; grid-template-columns: repeat(auto-fill, minmax(min(100%, 200px), 1fr)); gap: .85rem; }
+.dest-pill { display: flex; align-items: center; gap: .85rem; background: #fff; border: 1px solid $line; border-radius: 1rem; padding: .9rem 1rem; text-decoration: none !important; color: $ink; transition: .2s;
+  img { width: 40px; height: 27px; border-radius: 4px; box-shadow: 0 0 0 1px rgba($ink, .08); }
+  strong { display: block; font-size: .98rem; }
+  span { display: block; font-size: .76rem; color: $muted; }
+  .bi { margin-left: auto; color: $muted; transition: .2s; }
+  &:hover { border-color: rgba($navy, .35); box-shadow: $box-shadow; .bi { color: $royal; transform: translateX(3px); } }
+}
